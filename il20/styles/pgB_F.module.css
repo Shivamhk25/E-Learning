@@ -1,0 +1,1199 @@
+@media only screen and (min-width: 900px) {
+  /* .paddingGLobalOnWeb{
+    padding: 0 135px;
+  } */
+  .paddingGLobalOnWeb {
+    padding-left: 135px !important;
+    padding-right: 135px !important;
+    padding-bottom: 24px;
+  }
+  .desc_margin {
+    margin-top: 24px;
+  }
+}
+
+.button {
+  border-style: solid;
+}
+.sec_1 {
+  background-image: url(https://cdn.pegasus.imarticus.org/pgBandF/MainBanner.webp);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  padding-left: 4rem;
+  padding-right: 3rem;
+  width: 100%;
+  height: 660px;
+}
+.sec_para {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 50px;
+  /* or 125% */
+  color: #ffffff;
+}
+.sec1_para {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 32px;
+  /* or 133% */
+  color: #ffffff;
+  text-shadow: 0px 0px 24px rgba(0, 0, 0, 0.25);
+}
+.sec2 {
+  background-image: url(https://cdn.pegasus.imarticus.org/pgBandF/Group%202773.webp);
+  background-position: center;
+  background-size: auto;
+  background-repeat: no-repeat;
+  height: 33px;
+  width: 300px;
+  margin: 30px 0;
+}
+.sec1_buttons {
+  width: 222px;
+  height: 48px;
+  background: #ffffff;
+  border: 1px solid #ffffff;
+  box-sizing: border-box;
+  border-radius: 8px;
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 24px;
+}
+.sec1_buttons_applyNow {
+  margin-left: 15px;
+  width: 222px;
+  height: 50px;
+  background: #ffd600;
+  border: 1px solid #ffd600;
+  box-sizing: border-box;
+  border-radius: 8px;
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 24px;
+}
+/* @media screen and (max-width: 600px) {
+    .sec1_para {
+      width: 100%;
+    }
+  }
+  
+  @media screen and (max-width: 600px) {
+    .sec_1 {
+      background-image: url(https://cdn.pegasus.imarticus.org/aboutus/sec1-mob.webp);
+      background-position: center;
+      background-size: cover;
+      background-repeat: no-repeat;
+      width: 100%;
+      padding-left: 0.8rem;
+      padding-right: 1rem;
+      color: white;
+    }
+  } */
+.whyChooseHeader {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 40px;
+  text-align: left;
+  text-transform: capitalize;
+  color: #3c4852;
+}
+.simProgHeader {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 40px;
+  text-align: left;
+  text-transform: capitalize;
+  color: #3c4852;
+}
+.externalDiv {
+  position: relative;
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  bottom: 0px;
+  height: 180px;
+  background: #ffffff;
+  box-shadow: 0px 0px 12px rgba(60, 72, 82, 0.25);
+  border-radius: 8px;
+}
+.calendar {
+  background-image: url(https://cdn.pegasus.imarticus.org/pgBandF/icon-Frame.webp);
+  background-position: center;
+  background-size: auto;
+  background-repeat: no-repeat;
+  height: 100px;
+  width: 25%;
+  margin-left: 5%;
+}
+.modeOfTraining {
+  background-image: url(https://cdn.pegasus.imarticus.org/pgBandF/ModeOfLearning.webp);
+  background-position: center;
+  background-size: auto;
+  background-repeat: no-repeat;
+  height: 100px;
+  width: 25%;
+}
+.students {
+  background-image: url(https://cdn.pegasus.imarticus.org/pgBandF/Students.webp);
+  background-position: center;
+  background-size: auto;
+  background-repeat: no-repeat;
+  height: 100px;
+  width: 25%;
+}
+.time {
+  background-image: url(https://cdn.pegasus.imarticus.org/pgBandF/Time.webp);
+  background-position: center;
+  background-size: auto;
+  background-repeat: no-repeat;
+  height: 100px;
+  width: 45%;
+}
+
+.externalDivHeader {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 24px;
+  color: #3c4852;
+  width: 80%;
+  margin: 0 0 0 10%;
+}
+.externalDivHeaderPara {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 28px;
+  color: #3c4852;
+  margin-left: 10%;
+}
+.externalDivHeader_cs {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  color: #3c4852;
+  width: 80%;
+  margin: 0 0 0 10%;
+}
+.externalDivHeaderPara_cs {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 28px;
+  color: #3c4852;
+  margin-left: 10%;
+}
+.externalDivSeperator {
+  background-image: url(https://cdn.pegasus.imarticus.org/pgBandF/Vector\ 121.webp);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 120px;
+  width: 1px;
+  margin-left: 5%;
+}
+.border_right {
+  border-right: 1px solid rgba(60, 72, 82, 0.25);
+  height: 50%;
+}
+
+.alumniHeader {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 40px;
+  text-align: center;
+  text-transform: capitalize;
+  color: #3c4852;
+}
+.whyChoosePostGraduate {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  color: #3c4852;
+}
+
+.card {
+  height: 396px !important;
+  background: #ffffff;
+  border-radius: 8px;
+  padding: 20px 0 !important;
+}
+.card_img_top {
+  width: 55px !important;
+  height: 55px !important;
+  margin-left: 20px !important;
+}
+.pgProgramCardHeader {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 24px;
+  text-transform: uppercase;
+  color: #3c4852;
+}
+.pgProgramCardText {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  color: #3c4852;
+}
+
+.excited,
+.seeYourself {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  text-align: center;
+  color: #3c4852;
+  margin-top: 40px;
+}
+
+.applyHere {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  text-align: center;
+  width: fit-content;
+  background: #035642;
+  border-radius: 8px;
+  border: solid;
+  color: #ffffff;
+  padding: 10px 17px;
+  margin: 0 auto !important;
+  display: flex !important;
+}
+.applyHere_cs {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 24px;
+  text-align: center;
+  width: 180px;
+  background: #035642;
+  border-radius: 8px;
+  border: solid;
+  color: #ffffff;
+  padding: 10px 17px;
+  justify-content: center;
+  margin: 0 auto !important;
+  display: flex !important;
+}
+
+.curriculumHighlights {
+  background: rgba(221, 233, 237, 0.35);
+}
+.curriculumHeader {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 40px;
+  display: flex;
+  align-items: center;
+  color: #3c4852;
+}
+
+.downloadBro {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  text-align: center;
+  background: #035642;
+  border: 1px solid #035642;
+  border-radius: 8px;
+  color: #ffffff;
+  padding: 10px 40px;
+  width: fit-content;
+  display: flex !important;
+  margin-left: auto;
+}
+.currModules {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 34px;
+  display: flex;
+  align-items: center;
+  color: #3c4852;
+  margin-bottom: 10px !important;
+}
+.moduleTime {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+  color: #3c4852;
+}
+.modules {
+  margin-top: 20px;
+}
+.mockInter,
+.accHeader {
+  background: #e7f0f4;
+}
+
+.mockInter {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 32px;
+  display: flex;
+  align-items: center;
+  color: #3c4852;
+  padding: 10px 20px;
+}
+.mockInterSpan {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+  color: #3c4852;
+}
+.form {
+  background: #ffffff;
+  border-radius: 8px;
+  margin-top: 64px;
+  padding: 10px 20px;
+}
+.formHeader {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 32px;
+  color: #3c4852;
+  margin-bottom: 10px !important;
+}
+.formSubmit {
+  width: 100%;
+  background: #ffffff;
+  border: 1px solid #014644;
+  box-sizing: border-box;
+  border-radius: 8px;
+  height: 56px;
+}
+.tags {
+  background: rgba(5, 117, 121, 0.06);
+  border-radius: 8px;
+  padding: 5px 10px;
+  margin: 5px 10px;
+  width: fit-content;
+  color: #006f7e;
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 32px;
+}
+
+.getCertified {
+  background: url(https://cdn.pegasus.imarticus.org/pgBandF/BG.webp);
+}
+
+.willGetCertified {
+  color: #ffffff;
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 40px;
+  align-items: center;
+  text-transform: capitalize;
+}
+.willGetCertifiedText {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  color: #ffffff;
+}
+.certificateText {
+  margin: 0 !important;
+  padding-left: 0 !important;
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  color: #ffffff;
+}
+.certifiedSecText {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  color: #ffffff;
+}
+.careerSupport {
+  background: url(https://cdn.pegasus.imarticus.org/pgBandF/world-vector.webp);
+  background-size: cover;
+  background-color: rgba(221, 233, 237, 0.35);
+}
+
+.careerSupportHeader {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 40px;
+  align-items: center;
+  text-transform: capitalize;
+  color: #3c4852;
+}
+
+.careerReport {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  text-align: center;
+  width: fit-content;
+  background: #035642;
+  border-radius: 8px;
+  border: 1px solid #035642;
+  color: #ffffff;
+  padding: 10px 17px;
+  display: flex;
+  margin: 0 auto;
+}
+
+.willLearn {
+  padding: 104px 10%;
+}
+.willLearnHeader {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 40px;
+  align-items: center;
+  text-align: center;
+  text-transform: capitalize;
+  color: #3c4852;
+}
+.willLearnText,
+.joinBankingText {
+  margin-top: 20px !important;
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  text-align: center;
+  color: #3c4852;
+}
+.learnSubHead {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+  align-items: center;
+  text-transform: uppercase;
+  color: #3c4852;
+}
+.learnSubText {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  align-items: center;
+  color: #3c4852;
+}
+
+.placementPartner {
+  padding: 104px 10% 104px 10%;
+}
+.placementPartnerHead,
+.joinBankingHead {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 40px;
+  align-items: center;
+  text-align: center;
+  color: #3c4852;
+  text-transform: capitalize;
+}
+
+.feeOuter {
+  padding: 60px 10%;
+  background: #ffffff;
+  border: 1px solid rgba(60, 72, 82, 0.5);
+  box-sizing: border-box;
+  border-radius: 8px;
+}
+.feeHead {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 40px;
+  text-align: center;
+  color: #3c4852;
+}
+.fee {
+  margin: 30px 0 !important;
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 60px;
+  line-height: 72px;
+  align-items: center;
+  text-align: center;
+  color: #3c4852;
+}
+.emiText {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 24px;
+  align-items: center;
+  text-align: center;
+  color: #68c29d;
+  margin: 30px 0 !important;
+}
+.viewPlans {
+  margin: 0 auto;
+  cursor: pointer;
+  padding: 10px;
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 23px;
+  align-items: center;
+  text-align: center;
+  color: #ffffff;
+  background: #035642;
+  border-radius: 4px;
+  width: 400px;
+}
+
+.needAdvice {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  text-align: center;
+  color: #3c4852;
+}
+.enquireNow {
+  padding: 10px 30px;
+  display: flex;
+  margin: 0 auto;
+  background: #035642;
+  border: 1px solid #035642;
+  border-radius: 8px;
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 24px;
+  align-items: center;
+  text-align: center;
+  color: #ffffff;
+  width: fit-content;
+}
+
+.modalParent {
+  padding: 20px;
+  display: block !important;
+  width: 700px !important;
+  height: 286px !important;
+}
+.nav2 {
+  width: 100%;
+}
+.nav_item2 {
+  width: 33%;
+}
+
+.admissionFeesText {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 24px;
+  align-items: center;
+  color: #000000;
+}
+
+.paymentTable {
+  width: 100% !important;
+  margin: 0;
+}
+.paymentTableHeader {
+  width: 70%;
+}
+.paymentTableHeader,
+.paymentTableData {
+  padding: 0 1%;
+}
+.paymentTable,
+.paymentTableHeader,
+.paymentTableData {
+  border: 1px solid rgba(60, 72, 82, 0.25);
+  box-sizing: border-box;
+}
+
+.h4 {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 28px;
+  line-height: 40px;
+  align-items: center;
+  color: #3c4852;
+}
+
+.h2 {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 60px;
+  line-height: 72px;
+  align-items: center;
+  text-align: center;
+  color: #3c4852;
+}
+
+.faculty {
+  padding: 80px 10%;
+  background: rgba(221, 233, 237, 0.35);
+}
+
+.facultyHead {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 40px;
+  align-items: center;
+  text-align: center;
+  text-transform: capitalize;
+  color: #3c4852;
+  margin: 0 auto;
+}
+.cardTitle {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 24px;
+  align-items: center;
+  color: #3c4852;
+}
+.cardText {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  color: #3c4852;
+}
+
+.aboutProgram {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 38px;
+  align-items: center;
+  color: #3c4852;
+}
+
+.similarPrograms {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 40px;
+  color: #3c4852;
+}
+
+.similarCardTitle {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 24px;
+  text-transform: uppercase;
+  color: #3c4852;
+}
+
+.facultyCard {
+  margin: 0 !important;
+  padding: 20px;
+}
+.seeMore {
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.cardOnTab {
+  margin: 0 10px !important;
+  height: 430px !important;
+  width: 270px !important;
+}
+
+.mobile-controls-prev {
+  justify-content: end;
+}
+
+/* ------------------------------------ Mobile Styles -------------------------------------- */
+.sec_1_mobiles {
+  background: url(https://cdn.pegasus.imarticus.org/pgBandF/Banner%20-%20M.webp);
+  background-color: #377174;
+  padding: 5px 5px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.sec_para_mobiles {
+  padding: 0 10px;
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 34px;
+  color: #ffffff;
+}
+.sec1_para_mobiles {
+  padding: 0 10px;
+  margin-top: 20px;
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 24px;
+  color: #ffffff;
+  text-shadow: 0px 0px 24px rgba(0, 0, 0, 0.25);
+}
+.buttonGroup_mobiles {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.sec1_buttons_applyNow {
+  margin-left: 0 !important;
+  margin-top: 10px;
+}
+@media only screen and (max-width: 600px) {
+  .sec1_buttons_applyNow,
+  .sec1_buttons {
+    width: 90%;
+  }
+  .careerSupport {
+    background: rgba(221, 233, 237, 0.35) !important;
+  }
+}
+@media screen and (max-width: 1300px) {
+  .applyHere_cs {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 24px;
+    text-align: center;
+    width: 180px;
+    background: #035642;
+    border-radius: 8px;
+    border: solid;
+    color: #ffffff;
+    padding: 10px 17px;
+    justify-content: center;
+    margin: 40px auto 0px auto !important;
+    display: flex !important;
+  }
+}
+.fourIcons {
+  padding: 40px 10px 40px 10px;
+  background: rgba(71, 195, 207, 0.08);
+}
+.fourIcons > table {
+  display: table;
+  width: 100% !important;
+}
+.fourIcons > table > tbody > tr > td {
+  height: 150px;
+  vertical-align: baseline;
+  padding-right: 20px !important;
+}
+.onMobileImg,
+.onMobileOnlyImg {
+  display: none;
+}
+.onTabImg {
+  display: none;
+}
+.willGetCertify.onMobileOnlyImg > table {
+  border-collapse: separate;
+  border-spacing: 1em;
+}
+.onMobileOnlyImg > table {
+  border-collapse: separate;
+}
+.onMobileAndTabImg {
+  display: none;
+}
+.onWebImg {
+  display: block;
+}
+.certifiedIconsTabs {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 30px;
+}
+.facultyCard {
+  padding-bottom: 50px;
+}
+.accSubHeader {
+  font-size: 16px;
+}
+/* ------------------------------------ Responsiveness -------------------------------- */
+.sec_1_mobiles,
+.tabScreenWhyChoose,
+.externalDiv_mobiles,
+.fourIconsm,
+.whytab {
+  display: none;
+}
+.onTabFlexImg {
+  display: none !important;
+}
+.row {
+  margin: 0;
+}
+
+.formcountrycode {
+  font-size: 16px;
+  padding: 6px 12px;
+  background-color: #fff;
+  background-image: none;
+  border-radius: 4px;
+  width: 114px;
+  height: 48px;
+  border: 1px solid rgba(33, 42, 57, 0.25);
+  box-sizing: border-box;
+  margin-right: 14px;
+  cursor: pointer;
+}
+
+/* For mobile and tab both */
+@media screen and (max-width: 810px) {
+  .onWebImg,
+  /* .onTabAndWebImg, */
+  /* .onTabImg, */
+  .onMobileImg {
+    display: none !important;
+  }
+  .onMobileAndTabImg {
+    display: block;
+  }
+  .excited {
+    margin-top: 0px !important;
+  }
+  .curriculumHighlights {
+    padding: 10px !important;
+  }
+  .downloadBrochure_mobiles {
+    margin: 30px 0;
+  }
+  .tags {
+    width: 100% !important;
+    text-align: center;
+  }
+  .onMobileIcons {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  .modalParent {
+    height: 330px !important;
+  }
+}
+.ourPrograms_mobiles > table {
+  display: table;
+}
+.ourPrograms_mobiles > table > tbody > tr {
+  margin-bottom: 20px;
+}
+.ourPrograms_mobiles > table > tbody > tr > td > img {
+  width: 100%;
+  height: 55px;
+}
+@media only screen and (max-width: 600px) {
+  .accSubHeader {
+    font-size: 14px;
+  }
+  .paddingCLRonMobile {
+    padding: 64px 16px !important;
+  }
+  .paddingOnMobile {
+    padding: 48px 16px !important;
+  }
+  .m_b_OnMobile {
+    margin-bottom: 32px !important;
+  }
+  .m_t_OnMobile {
+    margin-top: 32px !important;
+  }
+
+  .ourPrograms_mobiles > table > tbody > tr > td > img {
+    width: 100%;
+    height: 65px;
+  }
+}
+.ourPrograms_mobiles > table > tbody > tr > td {
+  margin: 0 auto 10px auto;
+  padding: 10px;
+  box-shadow: 0px 0px 24px rgba(33, 42, 57, 0.15);
+  border-radius: 8px;
+  width: 50%;
+}
+.ourPrograms_mobiles > table {
+  border-collapse: separate;
+  border-spacing: 0.5em 1em;
+}
+@media screen and (max-width: 650px) {
+  .onMobileAndTabImg,
+  .onMobileOnlyImg {
+    display: block;
+  }
+  .onTabImg,
+  .onTabAndWebImg,
+  .onWebImg {
+    display: none;
+  }
+  .award_main_mobiles {
+    padding: 20px 5%;
+  }
+  .modalParent {
+    height: 400px !important;
+  }
+  .whytab {
+    display: flex;
+    margin-top: -115px;
+  }
+}
+
+/* for tab only */
+@media screen and (min-width: 650px) and (max-width: 900px) {
+  .paddingOnTab {
+    padding: 64px 40px !important;
+  }
+  .onTabImg {
+    display: block !important;
+  }
+  .onTabFlexImg {
+    display: flex !important;
+  }
+  .onTabAndWebImg,
+  .onMobileOnlyImg,
+  .onMobileAndTabImg,
+  .onWebImg {
+    display: none;
+  }
+  .buttonGroup_mobiles {
+    flex-direction: row;
+    padding-left: 10px;
+  }
+  .sec1_buttons_applyNow {
+    margin: 0 0 0 20px !important;
+  }
+  .border_right {
+    padding: 0 5px 0 5px;
+  }
+  .calendar,
+  .modeOfTraining,
+  .students {
+    width: 50%;
+  }
+  .externalDiv {
+    font-size: 15px;
+  }
+  .externalDivHeaderPara {
+    font-size: 17px;
+  }
+  /* .curriculumHighlights, .getCertified{
+    padding: 30px 60px !important;
+  } */
+  .onTabMt_50 {
+    margin-top: 50px;
+  }
+}
+
+/* for tab and larger screens */
+@media screen and (min-width: 768px) {
+  .onTabAndWebImg,
+  .onWebImg {
+    display: block;
+  }
+  /* .onTabImg, */
+  .onMobileOnlyImg,
+  .onMobileAndTabImg {
+    display: none;
+  }
+  .col4webPadding {
+    padding: 0 10px;
+  }
+  .sec1_buttons_applyNow {
+    margin-left: 20px !important;
+  }
+  .accMainHeader {
+    font-size: 24px;
+  }
+  .OnWebMargin {
+    margin-top: 20px;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .whyChooseHeader,
+  .alumniHeader,
+  .curriculumHeader,
+  .facultyHead,
+  .simProgHeader,
+  .willGetCertified,
+  .willLearnHeader,
+  .careerSupportHeader,
+  .placementPartnerHead,
+  .joinBankingHead,
+  .feeHead {
+    font-size: 28px;
+    line-height: 38px;
+  }
+  .emiText {
+    font-size: 14px;
+  }
+  .h2 {
+    font-size: 28px;
+  }
+  .h4 {
+    font-size: 22px;
+  }
+  .aboutProgram {
+    font-size: 24px;
+    line-height: 28px;
+  }
+  .downloadBro {
+    margin: 0 auto;
+  }
+  .fee {
+    font-size: 45px;
+  }
+  .facultyCardOnMobile {
+    width: 256px;
+    height: 400px;
+    margin-right: 10px;
+  }
+
+  .whyChoosePostGraduateDiv,
+  .willGetCertifiedMobileDiv {
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+  .cardTitle {
+    margin-top: 20px;
+    margin-bottom: 10px !important;
+    text-align: center;
+  }
+  .cardText {
+    text-align: center;
+  }
+  .imageOnSmaller {
+    height: 352px;
+  }
+}
+@media screen and (max-width: 449px) {
+  .bank_card {
+    overflow: scroll;
+  }
+  .banking_finance_card {
+    overflow: scroll;
+  }
+  .card_main_finance_banking {
+    overflow: scroll;
+  }
+}
+@media screen and (min-width: 600px) {
+  .onSixHundredPlusScreens {
+    display: block !important;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .form {
+    margin-top: 0px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .externalDivHeader_cs {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    color: #3c4852;
+    width: 80%;
+    margin: 0 0 0 10%;
+  }
+  .externalDivHeaderPara_cs {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 24px;
+    color: #3c4852;
+    margin-left: 10%;
+  }
+}

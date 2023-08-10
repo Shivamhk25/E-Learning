@@ -1,0 +1,605 @@
+.weba-controls {
+  display: flex;
+  margin-left: auto;
+}
+
+.mobile-controls {
+  width: 100%;
+}
+
+.weba_new_controls {
+  display: flex;
+  margin-left: auto;
+}
+
+@media only screen and (min-width: 1025px) {
+  .mobile-controls {
+    display: none;
+  }
+
+  .award-main {
+    padding: 104px 5%;
+  }
+
+  .award-main2 {
+    padding: 80px 5%;
+  }
+
+  .award-main3 {
+    padding: 0px 5% 80px 5%;
+  }
+}
+
+@media only screen and (max-width: 1025px) {
+  .weba_new_controls {
+    display: none;
+  }
+
+  .award-main {
+    padding: 64px 5%;
+  }
+
+  .award-main2 {
+    padding: 64px 5%;
+  }
+
+  .award-main3 {
+    padding: 0px 5% 64px 5%;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .award-main {
+    padding: 48px 5%;
+  }
+
+  .award-main2 {
+    padding: 48px 5%;
+  }
+
+  .award-main3 {
+    padding: 0px 5% 48px 5%;
+  }
+}
+
+.center-excellence-main {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.award-excellence-main {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 100%;
+}
+
+.swiper-crousel-width {
+  width: auto !important;
+}
+
+.award_title {
+  font-weight: bold;
+  font-style: normal;
+  color: #3c4852;
+  padding-bottom: 56px;
+  text-align: initial;
+  margin-block-start: 0em;
+  margin-block-end: 0em;
+}
+.about_title {
+  font-weight: bold;
+  font-style: normal;
+  color: #3c4852;
+  padding-bottom: 20px;
+  text-align: initial;
+  margin-block-start: 0em;
+  margin-block-end: 0em;
+}
+.award_title2 {
+  font-weight: bold;
+  font-style: normal;
+  color: #3c4852;
+  padding-bottom: 40px;
+  font-size: 34px;
+  text-align: initial;
+  margin-block-start: 0em;
+  margin-block-end: 0em;
+}
+
+.award_desc {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 32px;
+  color: #3c4852;
+  text-align: initial;
+  margin-block-start: 0em;
+  margin-block-end: 0em;
+}
+
+.carousal-outside-div {
+  width: 300px;
+}
+.carousal-insides-div {
+  height: 342px;
+  width: 270px;
+  background: #ffff;
+  border: 1px solid rgba(60, 72, 82, 0.5);
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.news-images {
+  border-radius: 8px;
+}
+
+.news-images2 {
+  /* height: 50px;  */
+  /* width:214px; */
+  /* width: auto; */
+  padding-top: 10px;
+}
+
+.news-text-div {
+  height: 88px;
+  width: 238px;
+  margin: 20px 16px 24px 16px;
+  text-align: initial;
+}
+
+.news-text-div a {
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  text-align: initial;
+  text-decoration: none;
+  color: #3c4852;
+}
+
+.mobile-controls-prev {
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+  align-items: center;
+  margin: auto;
+  gap: 20px;
+}
+
+.mobile-controls-line {
+  width: 230px;
+  height: 8px;
+  background: rgba(33, 42, 57, 0.15);
+  border-radius: 32px;
+  position: relative;
+  padding: 0;
+  box-shadow: none;
+  margin-left: 17px;
+  margin-right: 17px;
+}
+
+.news-bottom-div {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  margin-top: 40px;
+  /* width: 190px; */
+  height: 56px;
+  border-radius: 8px;
+  background: #035642;
+  cursor: pointer;
+  border: none;
+  padding: 0px 25px 0px 25px;
+}
+
+.news-bottom-div p {
+  font-style: normal;
+  font-size: 18px;
+  font-weight: 600;
+  color: #ffffff;
+  font-family: Source Sans Pro;
+}
+
+.container-div-excellence {
+  display: flex;
+  flex-direction: row;
+  align-items: end;
+  margin-top: auto;
+  padding: 0px 16px 16px 14px;
+}
+
+.container-div-excellence a {
+  text-decoration: none;
+}
+
+.award_card_main {
+  height: 248px;
+  width: 270px;
+  background: #ffffff;
+  border: 1px solid rgba(60, 72, 82, 0.5);
+  border-radius: 8px;
+  box-sizing: border-box;
+  padding: 16px 16px 0px 16px;
+  /* margin-right: 30px; */
+}
+
+.award_card_main h1 {
+  font-family: Source Sans Pro;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  color: #3c4852;
+  text-align: initial;
+  margin-block-start: 0em;
+  margin-block-end: 0em;
+}
+.award_card_main h5 {
+  font-family: Source Sans Pro;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  color: #3c4852;
+  text-align: initial;
+  margin-block-start: 0em;
+  margin-block-end: 0em;
+}
+.award_card_img {
+  margin-right: 88px;
+  position: absolute;
+  bottom: 0px;
+}
+
+.award_card_img2 {
+  margin-right: 88px;
+  position: absolute;
+  bottom: 30px;
+  height: 50px;
+  width: 140px;
+}
+
+.award_card_bottom {
+  position: absolute;
+  width: 270px;
+  height: 10px;
+  border-radius: 8px;
+  margin-top: 16px;
+  left: 0px;
+  bottom: -13px;
+}
+
+.award_card_bottom2 {
+  position: absolute;
+  width: 270px;
+  height: 10px;
+  border-radius: 8px;
+  margin-top: 16px;
+  left: 0px;
+  bottom: 0px;
+}
+
+.carousel-prev {
+  cursor: pointer;
+  display: none;
+}
+
+.carousel-next {
+  cursor: pointer;
+  display: none;
+}
+
+.web-next-button {
+  cursor: pointer;
+}
+
+.web-prev-button {
+  cursor: pointer;
+}
+
+.award-main2 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.award-main3 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  row-gap: 1.5rem;
+}
+
+.swiper-award-crousel > .swiper-button-next:after {
+  content: url(https://cdn.pegasus.imarticus.org/b2b/circlearrow.svg);
+  margin-right: 14px;
+  transform: rotate(180deg);
+  display: none;
+}
+
+.swiper-award-crousel > .swiper-button-prev:after {
+  content: url(https://cdn.pegasus.imarticus.org/b2b/circlearrow.svg);
+  transform: rotate(180deg);
+  margin-left: 14px;
+  display: none;
+}
+
+.swiper-award-crousel > .swiper-button-prev {
+  height: 100% !important;
+  top: 0% !important;
+  background: linear-gradient(
+    90deg,
+    #ffffff 7.8%,
+    rgba(255, 255, 255, 0.621122) 52.61%,
+    rgba(255, 255, 255, 0) 83.69%
+  );
+  width: 100px !important;
+  left: -9px !important;
+  display: none;
+}
+
+.swiper-award-crousel .swiper-button-next {
+  height: 100% !important;
+  top: 0% !important;
+  background: linear-gradient(
+    90deg,
+    #ffffff 7.8%,
+    rgba(255, 255, 255, 0.621122) 52.61%,
+    rgba(255, 255, 255, 0) 83.69%
+  );
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+  width: 100px !important;
+  right: -9px !important;
+  display: none;
+}
+
+.swiper-award-crousel:hover .swiper-button-next {
+  display: flex;
+}
+
+.swiper-award-crousel:hover .swiper-button-prev {
+  display: flex;
+}
+
+.swiper-award-crousel:hover .swiper-button-next:after {
+  display: block;
+}
+
+.swiper-award-crousel:hover .swiper-button-prev:after {
+  display: block;
+}
+
+.swiper-award-crousel2 > .swiper-button-next:after {
+  content: url(https://cdn.pegasus.imarticus.org/b2b/circlearrow.svg);
+  margin-right: 14px;
+  transform: rotate(180deg);
+  display: none;
+}
+
+.swiper-award-crousel2 > .swiper-button-prev:after {
+  content: url(https://cdn.pegasus.imarticus.org/b2b/circlearrow.svg);
+  transform: rotate(180deg);
+  margin-left: 14px;
+  display: none;
+}
+
+.swiper-award-crousel2 > .swiper-button-prev {
+  height: 100% !important;
+  top: 0% !important;
+  background: linear-gradient(
+    90deg,
+    #f3f7f9 7.8%,
+    rgba(243, 247, 249, 0.621122) 52.61%,
+    rgba(243, 247, 249, 0) 83.69%
+  );
+  width: 100px !important;
+  left: -9px !important;
+  display: none;
+}
+
+.swiper-award-crousel2 .swiper-button-next {
+  height: 100% !important;
+  top: 0% !important;
+  background: linear-gradient(
+    90deg,
+    #f3f7f9 7.8%,
+    rgba(243, 247, 249, 0.621122) 52.61%,
+    rgba(243, 247, 249, 0) 83.69%
+  );
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+  width: 100px !important;
+  right: -9px !important;
+  display: none;
+}
+
+.swiper-award-crousel2:hover .swiper-button-next {
+  display: flex;
+}
+
+.swiper-award-crousel2:hover .swiper-button-prev {
+  display: flex;
+}
+
+.swiper-award-crousel2:hover .swiper-button-next:after {
+  display: block;
+}
+
+.swiper-award-crousel2:hover .swiper-button-prev:after {
+  display: block;
+}
+
+@media screen and (max-width: 449px) {
+  .award-excellence-main {
+    margin-bottom: 0px;
+  }
+
+  .center-excellence-main {
+    margin-bottom: 0px;
+  }
+  .award_card_main {
+    overflow: scroll;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .news-bottom-div {
+    margin-top: 22px;
+  }
+}
+
+* {
+  box-sizing: border-box;
+  font-family: Source Sans Pro;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+
+.custom_excellence_para {
+  font-size: 24px;
+  font-style: normal;
+  font-weight: normal;
+  color: #3c4852;
+  text-align: initial;
+  margin-top: 24px;
+}
+
+.container-div a {
+  font-family: Source Sans Pro;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 32px;
+  color: #fff;
+  text-align: start;
+}
+
+.container-div a:hover {
+  color: #ffff;
+}
+
+.news-text-div a:hover {
+  color: #3c4852;
+}
+
+.container-div {
+  height: 270px;
+  width: 270px;
+  box-shadow: 8px 0px 24px rgba(60, 72, 82, 0.12);
+  box-sizing: border-box;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+}
+
+@media only screen and (max-width: 768px) {
+  .container {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+  }
+
+  .bottom-d {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+.slider {
+  position: absolute;
+  width: 25%;
+  height: 100%;
+  background: #014644;
+  border-radius: 32px;
+  transition: all 0.3s;
+}
+
+.slider0 {
+  left: 0;
+}
+.slider1 {
+  left: 12.5%;
+}
+.slider2 {
+  left: 25%;
+}
+.slider3 {
+  left: 37.5%;
+}
+.slider4 {
+  left: 50%;
+}
+.slider5 {
+  left: 62.5%;
+}
+.slider6 {
+  left: 75%;
+}
+.slider7 {
+  left: 87.5%;
+}
+
+.excellence_tittle {
+  font-weight: bold;
+  font-size: 34px;
+  line-height: 40px;
+  color: #3c4852;
+  text-align: initial;
+}
+
+.center-excellence-main2 {
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; */
+  width: 100%;
+  margin-bottom: 64px;
+}
+
+@media screen and (max-width: 449px) {
+  .award_title {
+    font-size: 28px;
+    padding-bottom: 40px;
+  }
+
+  .award_title2 {
+    font-size: 28px;
+  }
+  .about_title {
+    font-size: 28px;
+  }
+
+  .award_desc {
+    font-size: 24px;
+  }
+
+  .excellence_tittle {
+    font-size: 28px;
+  }
+
+  .custom_excellence_para {
+    font-size: 18px;
+    line-height: 32px;
+  }
+
+  .center-excellence-main2 {
+    margin-bottom: 0px;
+  }
+  .carousal-outside-div {
+    overflow: scroll;
+  }
+}
+
+.imarticus_new_img {
+  border-radius: 8px;
+}
+
+@media screen and (max-width: 768px) {
+  .mobile-controls-prev {
+    justify-content: center;
+  }
+}

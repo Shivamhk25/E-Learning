@@ -1,0 +1,330 @@
+.slider {
+  position: absolute;
+  width: 25%;
+  height: 100%;
+  background: #035642;
+  border-radius: 32px;
+  transition: all 0.3s;
+}
+
+.webniar_window {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  justify-content: center;
+  align-items: center;
+}
+
+.webniar_data {
+  display: flex;
+  flex-direction: column;
+  text-align: initial;
+  padding: 0px 16px 19px 16px;
+  width: 60%;
+}
+
+.webinar_img {
+  border-bottom-left-radius: 8px;
+  border-top-left-radius: 8px;
+}
+
+.webniar_main {
+  padding: 80px 5%;
+}
+
+.webniar_heading h6 {
+  font-size: 34px;
+  font-weight: bold;
+  font-style: normal;
+  color: #3c4852;
+  font-family: Source Sans Pro;
+  padding-bottom: 24px;
+}
+
+.webniar_heading p {
+  padding-bottom: 80px;
+  font-size: 24px;
+  font-weight: normal;
+  font-style: normal;
+  color: #000;
+}
+
+.webniar_card {
+  width: 570px;
+  height: 284px;
+  border-radius: 8px;
+  background-color: #ffff;
+  display: flex;
+  flex-direction: row;
+}
+
+.webniar_data p {
+  font-size: 16px;
+  font-weight: 600;
+  color: rgba(33, 42, 57, 0.5);
+  font-style: normal;
+  margin-top: 20px;
+}
+
+.webniar_data h4 {
+  font-size: 24px;
+  font-weight: bold;
+  font-style: normal;
+  color: #3c4852;
+  margin-top: 8px;
+  margin-bottom: 18px;
+}
+
+.webniar_data h2 {
+  font-size: 18px;
+  font-weight: 600;
+  font-style: normal;
+  color: #e4a69f;
+  margin-top: 18px;
+  margin-bottom: 11px;
+}
+
+.webniar_data h3 {
+  font-style: normal;
+  font-size: 16px;
+  font-weight: normal;
+  color: rgba(60, 72, 82, 0.75);
+  opacity: 0.75;
+}
+
+.webniar_data h5 {
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 26px;
+  color: #035642;
+  margin-bottom: 0px;
+}
+
+.webinar_applynow {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  height: 100%;
+  align-items: flex-end;
+  text-decoration: none;
+  color: #035642;
+}
+
+.webniar_carousal_data {
+  text-align: initial;
+  height: 256px;
+  padding: 16px 16px 19px 16px;
+  position: relative;
+}
+
+.webniar_carousal_data p {
+  font-size: 16px;
+  font-weight: 600;
+  color: rgba(33, 42, 57, 0.5);
+  font-style: normal;
+}
+
+.webniar_carousal_data h1 {
+  font-size: 22px;
+  font-weight: bold;
+  font-style: normal;
+  color: #3c4852;
+  margin-top: 8px;
+  margin-bottom: 25px;
+}
+
+.webniar_carousal_data h2 {
+  font-size: 16px;
+  font-weight: 600;
+  font-style: normal;
+  color: #e4a69f;
+  margin-top: 25px;
+  margin-bottom: 12px;
+}
+
+.webniar_carousal_data h3 {
+  font-style: normal;
+  font-size: 16px;
+  font-weight: normal;
+  color: rgba(60, 72, 82, 0.75);
+  opacity: 0.75;
+}
+
+.webniar_caroudal_main {
+  width: 300px;
+}
+
+.webniar_carousal_div {
+  height: 492px;
+  width: 270px;
+  background: #ffffff;
+  border-radius: 8px;
+  box-sizing: border-box;
+  overflow: auto;
+}
+
+.webinar_applynow2 {
+  display: flex;
+  gap: 8px;
+  position: absolute;
+  bottom: 0;
+  text-decoration: none;
+  color: #035642;
+}
+
+.webinar_applynow2 h4 {
+  font-size: 16px;
+  font-weight: 600;
+  margin-bottom: 0px;
+}
+
+.mobile_controls_webniar_div {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+
+.mobile_carousal_button_webniar {
+  width: 230px;
+  height: 8px;
+  background: rgba(33, 42, 57, 0.15);
+  border-radius: 32px;
+  position: relative;
+  padding: 0;
+  box-shadow: none;
+  margin-left: 17px;
+  margin-right: 17px;
+}
+
+.webwebinarControl {
+  margin-top: 40px;
+  display: flex;
+  justify-content: end;
+}
+
+.web_controls_webniar_div {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+@media only screen and (max-width: 1023px) {
+  .webniar_heading p {
+    padding-bottom: 50px;
+  }
+}
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1023px) {
+  .webniar_heading {
+    padding: 0 0;
+  }
+}
+
+/* @media only screen and (min-width: 1182px) {
+  .mobile_carousal_webniar {
+    display: none;
+  }
+
+  .mobile_controls_webniar {
+    display: none;
+  }
+} */
+
+@media only screen and (max-width: 1182px) {
+  .webniar_window {
+    display: none;
+  }
+
+  .window_controls {
+    display: none;
+  }
+
+  .webniar_main {
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+
+  .mobile-controls_webniar_div {
+    margin-top: 48px;
+  }
+
+  .webniar_heading {
+    padding: 0 0;
+  }
+}
+
+@media only screen and (max-width: 1023px) {
+  .webniar_window {
+    display: none;
+  }
+
+  .window_controls {
+    display: none;
+  }
+
+  .webinar_webdev {
+    display: none;
+  }
+
+  .webwebinarControl {
+    display: none;
+  }
+
+  .web_text {
+    padding-bottom: 50px;
+    text-align: initial;
+  }
+
+  .webniar_main {
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+
+  .mobile_controls_webniar_div {
+    margin-top: 48px;
+  }
+}
+
+@media screen and (min-width: 1023px) {
+  .mobile_carousal_webniar {
+    display: none;
+  }
+
+  .mobile_controls_webniar {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 449px) {
+  .webniar_heading h6 {
+    font-size: 28px;
+    text-align: center;
+  }
+
+  .webniar_heading p {
+    font-size: 18px;
+  }
+
+  .webniar_main {
+    padding-top: 64px;
+    padding-bottom: 64px;
+  }
+
+  .web_text {
+    text-align: center;
+    font-size: 18px;
+  }
+
+  .webniar_heading {
+    margin-top: 0px;
+  }
+
+  .mobile_controls_webniar_div {
+    margin-top: 48px;
+  }
+  .webniar_card {
+    overflow: scroll;
+  }
+}

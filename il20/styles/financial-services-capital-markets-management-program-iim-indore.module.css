@@ -1,0 +1,1286 @@
+.sec_1 {
+  background-image: url('https://cdn.pegasus.imarticus.org/iim_indore/newBackground.webp');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  padding-left: 135px;
+  padding-right: 135px;
+  width: 100%;
+  margin-top: 4rem;
+}
+.facultyHead {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 40px;
+  align-items: center;
+  text-align: center;
+  text-transform: capitalize;
+  color: #3c4852;
+  margin: 0 auto;
+}
+.sec_main_1 {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  margin-left: -10px;
+}
+.students {
+  background-image: url(https://cdn.pegasus.imarticus.org/pgBandF/Students.webp);
+  background-position: center;
+  background-size: auto;
+  background-repeat: no-repeat;
+  height: 100px;
+  width: 25%;
+}
+.modeOfTraining {
+  background-image: url(https://cdn.pegasus.imarticus.org/pgBandF/ModeOfLearning.webp);
+  background-position: center;
+  background-size: auto;
+  background-repeat: no-repeat;
+  height: 100px;
+  width: 25%;
+}
+.time {
+  background-image: url(https://cdn.pegasus.imarticus.org/pgBandF/Time.webp);
+  background-position: center;
+  background-size: auto;
+  background-repeat: no-repeat;
+  height: 100px;
+  width: 45%;
+}
+.sec_main_1_sec {
+  width: 100%;
+  margin-bottom: -56px;
+}
+.new_image {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+  background-color: rgba(221, 233, 237, 0.35);
+  padding: 40px 64px 80px 64px;
+}
+.partnercontainerdiv1 {
+  display: flex;
+  flex-direction: column;
+  /* justify-content: flex-start; */
+}
+.tablePad {
+  padding: 0px 0px 10px 25px;
+}
+.partnerCardImage {
+  width: 560px;
+  padding: 32px 0px 32px 32px;
+  height: 424px;
+  border-radius: 8px;
+}
+.aboutMainImage {
+  object-fit: fill;
+  border-radius: 8px;
+  width: 100%;
+}
+.faculty {
+  padding: 80px 140px 80px 110px;
+  background: rgba(221, 233, 237, 0.35);
+}
+.externalDiv {
+  position: relative;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  top: 80px;
+  height: 180px;
+  background: #ffffff;
+  box-shadow: 0px 0px 12px rgba(60, 72, 82, 0.25);
+  border-radius: 8px;
+}
+.partnerCard {
+  width: 100%;
+  background: #ffffff;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: row;
+  /* justify-content: space-around; */
+  margin-top: 30px;
+}
+.aboutProgram {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 38px;
+  display: flex;
+  align-items: center;
+  color: #3c4852;
+  margin: 40px 0px 24px 0px;
+}
+.partnerCard1 {
+  display: flex;
+  flex-direction: column;
+  align-content: space-around;
+  width: 50%;
+  margin: 5.5vw 36px 32px 20px;
+}
+.partnerCard12 {
+  display: flex;
+  flex-direction: column;
+  align-content: space-around;
+  justify-content: center;
+  width: 51%;
+  margin: 24px 36px 32px 20px;
+}
+.aboutHeader {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 40px;
+  display: flex;
+  align-items: center;
+  text-transform: capitalize;
+  color: #3c4852;
+}
+.sec_para {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 50px;
+  color: #3c4852;
+}
+.sec_para1 {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 42px;
+  line-height: 40px;
+  color: #3c4852;
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+  text-transform: uppercase;
+}
+.partnerheadermain {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 38px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #ffffff;
+}
+.certipopWeb {
+  width: 100%;
+  height: 90%;
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.partnerpara3 {
+  margin-top: 6px;
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+  color: #3c4852;
+}
+.new_image_mobile,
+.partnerMobile,
+.weba_new_controlss,
+.projectMobile,
+.weba_new_controls1,
+.weba_new_controls,
+.partnerWeb2,
+.partnerMobile1,
+.partnerMobile11,
+.MainPartnerMobile,
+.facultyMobile,
+.FacultypopMobile,
+.certipopMobile,
+.certificateleftimgMobile {
+  display: none;
+}
+.viewPlans {
+  margin: 0 auto;
+  cursor: pointer;
+  padding: 10px;
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 23px;
+  align-items: center;
+  text-align: center;
+  color: #ffffff;
+  background: #035642;
+  width: 320px;
+  height: 48px;
+  border-radius: 4px;
+}
+.headericon {
+  display: flex;
+  flex-direction: row;
+  margin-top: 40px;
+}
+.courseName {
+  padding-top: 32px;
+  width: 100%;
+}
+.partnerCardpopup {
+  margin: 0 !important;
+  padding: 20px;
+}
+.crossArrow {
+  padding: 20px 20px 0 0;
+}
+.projectheadermain {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 40px;
+  display: flex;
+  align-items: center;
+  text-transform: capitalize;
+  color: #3c4852;
+}
+.aboutEnquire {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 48px;
+  margin-bottom: 20px;
+}
+.alumni {
+  padding: 0px 0px 24px 20px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: -20px;
+}
+.tableTd {
+  border: 1px solid #3c4852;
+  text-align: left;
+  padding: 12px;
+}
+.paymentHeader {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  color: #000000;
+  margin-top: 40px;
+}
+.modalParent {
+  padding: 20px;
+  display: block !important;
+  width: 700px;
+  /* height: 460px !important; */
+}
+.headerImage {
+  width: 530px;
+  height: 330px;
+  margin-top: 72px;
+}
+.sec1_buttons {
+  width: 222px;
+  height: 48px;
+  border-radius: 8px;
+  box-sizing: border-box;
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 24px;
+  background: #035642;
+  border: 2px solid #035642;
+  color: white;
+}
+.buttonGroup_mobiles {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+}
+
+.partnerpara2 {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  color: #3c4852;
+  margin: -6px 0px 0px 0px;
+  margin-top: 24px;
+}
+.sec1_para {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-size: 22px;
+  line-height: 50px;
+  color: #3c4852;
+  text-shadow: 0px 0px 24px rgba(0, 0, 0, 0.25);
+}
+.sec1_para2 {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 24px;
+  color: #3c4852;
+  text-shadow: 0px 0px 24px rgba(0, 0, 0, 0.25);
+  margin-left: -10px;
+  margin-top: 24px;
+}
+.paymentTableData {
+  padding: 0 1%;
+  border: 1px solid rgba(60, 72, 82, 0.25);
+  box-sizing: border-box;
+  font-family: 'Source Sans Pro' !important;
+  font-style: normal !important;
+  font-weight: 400;
+  font-size: 18px !important;
+  line-height: 24px !important;
+  color: #000000 !important;
+  padding: 12px 16px;
+}
+.ourPrograms_mobiles > table {
+  display: table;
+  margin-top: 24px;
+}
+.ourPrograms_mobiles > table > tbody > tr {
+  margin-bottom: 20px;
+}
+.ourPrograms_mobiles > table > tbody > tr > td > img {
+  width: 120px;
+  height: 40px;
+  object-fit: contain;
+}
+.ourPrograms_mobiles > table > tbody > tr > td {
+  /* margin: 0 auto 10px auto; */
+  padding: 20px;
+  box-shadow: 0px 0px 24px rgba(33, 42, 57, 0.15);
+  border-radius: 8px;
+  width: 50%;
+}
+.ourPrograms_mobiles > table {
+  border-collapse: separate;
+  border-spacing: 0.5em 0.5em;
+}
+.facultyCard4 {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 8px;
+  width: 570px;
+  height: 214px;
+  overflow: auto;
+}
+.aboutcontainerdiv2 {
+  width: 100%;
+  margin: 80px 0vw 0vw 0vw;
+}
+.aboutCard1 {
+  width: 300px;
+}
+.aboutCard {
+  background: #ffffff;
+  border-radius: 8px;
+  width: 270px;
+  height: 390px;
+  margin-top: 40px;
+  overflow: auto;
+}
+.partnerbutton {
+  width: 230px;
+  height: 56px;
+  background: #ffffff;
+  border-radius: 8px;
+  border: 1px solid white;
+}
+.partnerHeader1 {
+  margin: 0px 135px 0px 135px;
+}
+.certiMainconatiner {
+  padding-bottom: 10vh;
+  width: 60%;
+}
+.proMain {
+  margin-bottom: 80px;
+}
+.form {
+  background: #ffffff;
+  border-radius: 8px;
+  padding: 10px 20px;
+}
+.curriculumHighlightss {
+  background: rgba(221, 233, 237, 0.35);
+  padding-left: 135px;
+  padding-right: 135px;
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+.enquire_form {
+  padding-top: 32px;
+}
+.partnermainconatiner {
+  padding: 80px 151px 80px 151px;
+}
+.partnercontainerdiv4 {
+  width: 100%;
+  padding: 24px 40px 24px 40px;
+}
+.partnercontainerdiv3 {
+  display: flex;
+  flex-direction: column;
+  align-content: flex-start;
+  margin: 8px 0px 0px 0px;
+  width: 100%;
+}
+.projectHeaderDiv {
+  margin: 80px 0px 0px 135px;
+}
+.projectParaDiv {
+  width: 80%;
+  margin: 24px 0px 0px 135px;
+}
+.projectcontainerdiv3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  margin: 30px 0px 0px 135px;
+  width: 88%;
+}
+.certificateleftimg {
+  width: 80%;
+  height: 70%;
+  margin-top: 65px;
+}
+.projectEnquireButton {
+  display: flex;
+  flex-wrap: row;
+  justify-content: center;
+  margin-top: 40px;
+}
+.certificateMainleftimg {
+  margin-right: 2vw;
+  width: 45%;
+}
+.partnerZoom {
+  position: absolute;
+  bottom: 10.5vh;
+  right: 9vw;
+}
+.facultyNewCard1 {
+  width: 290px;
+}
+.facultyNewCard {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  width: 270px;
+  height: 390px;
+  background-color: white;
+  border-radius: 8px;
+  overflow: auto;
+}
+.facultyNewCard_cs {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  width: 270px;
+  height: auto;
+  background-color: white;
+  border-radius: 8px;
+  overflow: scroll;
+}
+.partnercontainerdiv2 {
+  width: 50%;
+  margin: 48px 0px 0px 42px;
+  background-color: white;
+  border-radius: 6px;
+}
+.fee {
+  margin: 30px 0 !important;
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 60px;
+  line-height: 72px;
+  align-items: center;
+  text-align: center;
+  color: #3c4852;
+}
+.fee_cs {
+  margin: 32px 0 !important;
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 24px;
+  align-items: center;
+  text-align: center;
+  color: #68c29d;
+}
+.feeHead {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 40px;
+  text-align: center;
+  color: #3c4852;
+}
+.projectCard {
+  width: 94%;
+  background: #ffffff;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
+}
+.QaMain {
+  margin: 0px 135px 0px 135px;
+}
+.similiarProgram {
+  margin: 74px 0px 74px 135px;
+  width: 88%;
+}
+.accHeader {
+  display: flex;
+  flex-direction: column;
+  margin: 8px 18px 0px 18px;
+}
+.accHeader1 {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 32px;
+  display: flex;
+  align-items: center;
+  color: #3c4852;
+}
+.accHeader2 {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+}
+.downloadBrochure_mobiles {
+  margin-top: -40px;
+}
+.calendar {
+  background-image: url(https://cdn.pegasus.imarticus.org/pgBandF/icon-Frame.webp);
+  background-position: center;
+  background-size: auto;
+  background-repeat: no-repeat;
+  height: 100px;
+  width: 25%;
+}
+.certicontainerdiv3 {
+  display: flex;
+  flex-direction: row;
+  margin: 40px 0vw 0px 135px;
+  width: 100%;
+}
+.externalDivHeaderPara {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 28px;
+  color: #3c4852;
+  margin-left: 10%;
+}
+.sec1_buttons_applyNow {
+  margin-left: 20px;
+  width: 222px;
+  height: 50px;
+  background: #ffd600;
+  border: 1px solid #ffd600;
+  box-sizing: border-box;
+  border-radius: 8px;
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 24px;
+}
+.cardText1 {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  color: #3c4852;
+}
+.similiarTab {
+  display: flex;
+  width: 73%;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+.QaHeader {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px !important;
+  line-height: 40px;
+  display: flex;
+  align-items: center;
+
+  color: #3c4852;
+}
+.accPara1 {
+  padding: 24px 16px 6px 50px;
+}
+.industry_project_popup_ctnr {
+  background: #fff;
+  border-radius: 2px;
+  width: 900px;
+  display: flex;
+  margin: 80px 40px;
+  flex-direction: row;
+  justify-content: center;
+  position: relative;
+  height: auto;
+}
+.industry_project_popup_ctnr1 {
+  background: #fff;
+  border-radius: 2px;
+  width: 935px;
+  display: flex;
+  margin: 80px 40px;
+  flex-direction: row;
+  justify-content: center;
+  position: relative;
+}
+@media screen and (max-width: 1500px) {
+  .weba_new_controlss {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin: 32px 0vw 0px 0px;
+  }
+  .faculty {
+    padding: 80px 140px 80px 110px;
+  }
+  .headerImage {
+    width: 60%;
+    margin-top: 150px;
+  }
+  /* .sec1_para2 {
+    margin-top: -48px;
+  } */
+}
+.feeSection {
+  padding: 104px 135px;
+}
+@media screen and (max-width: 1450px) {
+  .weba_new_controls {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin: 32px 0vw 0px 0px;
+  }
+  .calendar {
+    width: 40%;
+    height: 50px;
+  }
+}
+@media screen and (max-width: 1420px) {
+  .partnerMobile1 {
+    display: block;
+  }
+  .partnerWebMain {
+    display: none;
+  }
+}
+@media screen and (max-width: 1100px) {
+  .sec_main_1 {
+    flex-direction: column;
+    width: 100%;
+  }
+  .industry_project_popup_ctnr {
+    width: auto;
+  }
+  .industry_project_popup_ctnr1 {
+    width: 700px;
+  }
+
+  .headerImage {
+    width: 500px;
+    margin-top: 30px;
+  }
+  .sec1_para2 {
+    margin-top: 18px;
+  }
+  .sec_1 {
+    padding-left: 60px;
+    padding-right: 60px;
+  }
+  .sec_para {
+    font-size: 40px;
+    line-height: 48px;
+    width: 80%;
+  }
+  .courseName {
+    width: 100%;
+  }
+  /* .sec1_para {
+    font-size: 20px;
+    line-height: 40px;
+  } */
+  .curriculumHighlightss {
+    background: rgba(221, 233, 237, 0.35);
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+  .projectHeaderDiv {
+    margin: 48px 48px 0px 48px;
+  }
+  .projectParaDiv {
+    width: 80%;
+    margin: 24px 48px 0px 48px;
+  }
+  .QaMain {
+    margin: -18px 60px 0px 60px;
+  }
+  .similiarProgram {
+    margin-left: 60px;
+    margin-top: 60px;
+    margin-right: 0px;
+  }
+  .MainHead {
+    width: 100%;
+  }
+}
+@media screen and (min-width: 1250px) and (max-width: 1450px) {
+  /* .partnermainconatiner{
+   padding-right: 40px;
+ } */
+}
+@media screen and (max-width: 1250px) {
+  .partnerCard1 {
+    margin: 24px 12px 10px 16px;
+  }
+  .partnerCard12 {
+    margin-right: 24px;
+  }
+  .facultyWeb {
+    display: none;
+  }
+  .facultyMobile {
+    display: block;
+  }
+  .partnercontainerdiv2 {
+    width: 100%;
+    margin-left: 2vw;
+  }
+  .time,
+  .students,
+  .modeOfTraining {
+    width: 70%;
+  }
+  /* .partnerpara2 {
+    margin-top: 32px;
+  } */
+  .partnerpara3 {
+    font-size: 18px;
+    line-height: 24px;
+  }
+  .projectCard {
+    width: 270px;
+    height: 450px;
+    overflow: scroll;
+  }
+  .projectMobile {
+    display: block;
+    margin: 0px 0vw 0px 48px;
+  }
+  .weba_new_controls1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin: 32px 5vw 0px 0px;
+  }
+  /* .partnercontainerdiv1 {
+    display: flex;
+    flex-direction: column;
+  } */
+  .partnercontainerdiv3 {
+    width: 100%;
+    margin-left: 0px;
+    margin-top: 0px;
+  }
+  /* .partnermainconatiner {
+    padding-right: 80px;
+  } */
+}
+@media screen and (max-width: 1150px) {
+  .faculty {
+    padding: 60px 0px 60px 110px;
+  }
+  .facultyHead {
+    margin-left: -60px;
+  }
+  .partnermainconatiner {
+    padding-left: 80px;
+    padding-right: 80px;
+  }
+}
+@media screen and (max-width: 990px) {
+  .partnerCardImage {
+    width: 400px;
+    height: 260px;
+    padding: 16px 0px 16px 16px;
+  }
+  .partnerWeb,
+  .partnerMobile1,
+  .partnerWeb {
+    display: none;
+  }
+  .partnerWeb2 {
+    display: block;
+  }
+  .partnerMobile11 {
+    display: block;
+  }
+  .partnerpara2 {
+    font-size: 16px;
+    line-height: 24px;
+  }
+
+  .partnerCard12 {
+    margin: 8px 16px 24px 20px;
+  }
+  .partnermainconatiner {
+    padding-left: 48px;
+    padding-right: 48px;
+  }
+  .partnerCard1 {
+    margin: 8px 12px 10px 16px;
+  }
+  .partnerpara3 {
+    font-size: 16px;
+    line-height: 20px;
+  }
+}
+@media screen and (max-width: 960px) {
+  .certificateleftimg {
+    margin-top: 10px;
+    width: 100%;
+  }
+  .partnerWeb {
+    display: none;
+  }
+  .partnerheadermain {
+    font-size: 28px;
+    line-height: 32px;
+  }
+  .certiMainconatiner {
+    width: 92%;
+  }
+  .certicontainerdiv3 {
+    margin-left: 48px;
+    width: 80%;
+  }
+  .industry_project_popup_ctnr {
+    width: auto;
+    height: auto;
+  }
+  .certipopWeb {
+    height: 90%;
+  }
+  .industry_project_popup_ctnr1 {
+    width: 600px;
+  }
+  .certificateMainleftimg {
+    width: 70%;
+    margin-top: -30px;
+    margin-left: 15vw;
+    margin-bottom: 10vh;
+  }
+  .partnerZoom {
+    bottom: 0.6vh;
+    right: 3vw;
+  }
+  .partnercontainerdiv4 {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+  .feeSection {
+    padding: 80px 90px;
+  }
+  .enquire_form {
+    padding-top: -10px;
+  }
+}
+@media screen and (max-width: 810px) {
+  .downloadBrochure_mobiles {
+    margin: 30px 0;
+  }
+}
+@media screen and (min-width: 650px) and (max-width: 900px) {
+  .buttonGroup_mobiles {
+    flex-direction: row;
+    padding-left: 10px;
+  }
+  .externalDivHeaderPara {
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .calendar {
+    width: 60%;
+  }
+}
+@media screen and (max-width: 750px) {
+  .faculty {
+    padding: 60px 0px 60px 80px;
+  }
+  .facultyHead {
+    margin-left: -30px;
+  }
+}
+@media screen and (max-width: 650px) {
+  /* .sec_1_mobiles {
+    background: url('https://cdn.pegasus.imarticus.org/iim_indore/newBackgroundMobile.webp');
+    background-color: #377174;
+    padding: 56px 6px 40px 26px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 580px;
+  } */
+  .sec_para {
+    font-size: 28px;
+    line-height: 36px;
+    margin-top: -16px;
+  }
+  .sec1_para {
+    font-size: 18px;
+    line-height: 28px;
+  }
+  .similiarTab {
+    display: none;
+  }
+  .headerImage {
+    width: 100%;
+    height: 220px;
+    margin-top: 20px;
+  }
+  .sec_main_1 {
+    width: 100%;
+  }
+  .buttonGroup_mobiles {
+    width: 100%;
+    margin-top: 16px;
+    margin-left: -10px;
+  }
+  .sec1_para2 {
+    margin-left: -6px;
+  }
+  .sec1_buttons,
+  .sec1_buttons_applyNow {
+    width: 100%;
+  }
+  .sec1_buttons_applyNow {
+    margin-top: 16px;
+    margin-left: -1.5px !important;
+  }
+  .sec_para1 {
+    margin-top: 0px;
+    font-size: 30px;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .partnerpara2 {
+    font-size: 14px;
+    line-height: 20px;
+    margin-top: 6px;
+  }
+  .facultyHead {
+    font-size: 28px;
+    line-height: 38px;
+    margin-left: -16px;
+  }
+  .FacultypopWeb {
+    display: none;
+  }
+  .FacultypopMobile {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+  }
+  .facultyMobile {
+    display: none;
+  }
+  .partnerCardImage {
+    width: 54%;
+    height: 150px;
+    padding: 0px;
+    border-radius: 8px;
+  }
+  .MainPartnerMobile {
+    display: block;
+  }
+  .MainPartner {
+    display: none;
+  }
+
+  .partnerpara3 {
+    font-size: 12px;
+    line-height: 18px;
+    margin-top: 0px;
+  }
+  .partnermainconatiner {
+    padding: 48px 16px 48px 16px;
+  }
+  .cardText1 {
+    font-size: 14px;
+    line-height: 18px;
+  }
+  .projectHeaderDiv {
+    margin: 48px 16px 0px 16px;
+  }
+  .projectParaDiv {
+    width: 96%;
+    margin: 24px 16px 0px 16px;
+  }
+  .projectcontainerdiv3 {
+    margin: 0px 16px 0px 24px;
+  }
+  .projectMobile {
+    margin: 12px 0vw 0px 36px;
+  }
+  .QaMain {
+    margin: 8px 24px 0px 24px;
+  }
+  .similiarProgram {
+    margin-top: 48px;
+    margin-left: 32px;
+    margin-bottom: 40px;
+  }
+  .partnerCard {
+    margin-top: 16px;
+  }
+  .accPara1 {
+    padding: 16px 16px -6px 10px !important;
+  }
+  .proMain {
+    margin-bottom: 48px;
+  }
+  .feeSection {
+    padding: 48px 16px;
+  }
+}
+@media screen and (max-width: 500px) {
+  .new_image_tab,
+  .partnerWeb2 {
+    display: none;
+  }
+  .partnerMobile {
+    display: block;
+  }
+  .new_image_mobile {
+    display: block;
+    width: 100%;
+  }
+  .new_image {
+    padding: 46px 16px 48px 16px;
+    width: 100%;
+  }
+  .partnerpara2 {
+    font-size: 12px;
+    line-height: 15px;
+  }
+  .aboutProgram {
+    font-size: 24px;
+    margin: 40px 0px 16px 0px;
+  }
+  .partnerbutton {
+    width: 100%;
+  }
+  .curriculumHighlightss {
+    padding: 40px 10px;
+  }
+
+  .weba_new_controls1,
+  .weba_new_controls {
+    display: none;
+  }
+  .certicontainerdiv3 {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    margin-left: 16px;
+  }
+  .projectEnquireButton {
+    width: 90%;
+    margin-left: 20px;
+    margin-right: 16px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+  .certificateleftimg {
+    display: none;
+  }
+  .certificateleftimgMobile {
+    width: 80%;
+    display: block;
+  }
+  .certificateMainleftimg {
+    width: 100%;
+    margin-left: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+  .partnerZoom {
+    right: 12vw;
+  }
+  .accHeader1 {
+    font-size: 18px;
+    line-height: 24px;
+  }
+  .accHeader2 {
+    font-size: 16px;
+    line-height: 22px;
+  }
+  .aboutHeader {
+    font-size: 28px;
+    line-height: 38px;
+  }
+  .aboutcontainerdiv2 {
+    margin-top: 48px;
+  }
+  .partnercontainerdiv2 {
+    margin-top: 24px;
+  }
+  .curriMobileMargin {
+    margin-top: -30px !important;
+  }
+  .projectheadermain {
+    font-size: 28px;
+    line-height: 38px;
+  }
+  .crossPad {
+    padding: 8px 8px 0px 0px !important;
+  }
+  .industry_project_popup_ctnr {
+    width: auto;
+    height: auto;
+    margin: 20px 16px;
+  }
+  .industry_project_popup_ctnr1 {
+    width: 320px;
+  }
+  .facultyCard4 {
+    overflow: scroll;
+  }
+}
+@media screen and (max-width: 650px) {
+  .alumni {
+    display: none;
+  }
+  .sec_main_1_sec {
+    background: url('https://cdn.pegasus.imarticus.org/iim_indore/newBackgroundMobile.webp');
+    background-color: #377174;
+    padding: 56px 6px 40px 26px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 580px;
+  }
+}
+@media screen and (max-width: 700px) {
+  .modalParent {
+    padding: 20px 0px 20px 20px;
+    width: 90% !important;
+  }
+  .fee {
+    font-size: 34px;
+    line-height: 56px;
+    margin-top: -20px;
+  }
+  .fee_cs {
+    font-size: 18px;
+    line-height: 24px;
+    margin-top: -20px;
+  }
+  .feeHead {
+    font-size: 28px;
+    line-height: 38px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .aboutMainImage {
+    height: 170px;
+  }
+  .faculty {
+    padding: 48px 0px 48px 32px;
+  }
+  .tableBody {
+    margin: 16px 10px !important;
+  }
+  .certipopMobile {
+    width: 100%;
+    height: 90%;
+    padding: 8px 12px 12px 12px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+  .certipopWeb {
+    display: none;
+  }
+  .tablePad {
+    padding: 0px 0px 0px 4px;
+  }
+  .paymentHeader {
+    font-size: 16px;
+    line-height: 20px;
+    margin-top: 10px;
+  }
+  .paymentTableData {
+    font-size: 14px !important;
+    line-height: 20px !important;
+    padding: 6px !important;
+  }
+  .partnerCardpopup {
+    padding: 10px 16px 0px 16px;
+  }
+  .crossArrow {
+    padding: 4px 6px 0px 0px;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .similiarTab {
+    display: none;
+    width: 73%;
+    flex-direction: row;
+    justify-content: flex-end;
+  }
+}

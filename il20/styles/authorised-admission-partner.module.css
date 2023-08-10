@@ -1,0 +1,1960 @@
+/* .bannerMain {
+  background-image: url('https://cdn.pegasus.imarticus.org/Aap/bannerWeb.webp');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  display: flex; 
+  flex-direction: row;
+  justify-content: flex-end;
+  margin-top: 4rem;
+} */
+
+.section1 {
+  background-image: url('https://cdn.pegasus.imarticus.org/Aap-landing-page/Group_290_web.webp');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-left: 135px;
+  padding-right: 135px;
+}
+.column_sec1 {
+  float: left;
+  width: 50%;
+  padding-top: 42px;
+  padding-bottom: 42px;
+}
+.row_sec1::after {
+  content: '';
+  clear: both;
+  display: table;
+}
+.heading {
+  padding-top: 285px;
+}
+.heading h1 {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 60px;
+  display: flex;
+  align-items: center;
+  text-transform: capitalize;
+  width: 567px;
+  color: #ffffff;
+}
+.banner {
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  margin: 4vh 8vw -8vh 0vw;
+}
+.bannerCard {
+  border: 1px solid rgba(60, 72, 82, 0.5);
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-radius: 8px;
+  margin-top: 10px;
+  padding-left: 135px;
+}
+/* section 2 */
+
+.section2 {
+  padding-left: 135px;
+  padding-right: 135px;
+  padding-top: 104px;
+  padding-bottom: 104px;
+}
+.mainsec2 {
+  display: flex;
+  gap: 24px;
+  flex-direction: row;
+}
+.leftsec2 {
+  width: 358px;
+}
+.grow h2 {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 42px;
+  text-transform: capitalize;
+  color: #3c4852;
+}
+.sec2heading h2 {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 42px;
+  text-transform: capitalize;
+  color: #3c4852;
+  width: 358px;
+}
+.rightsec2 {
+  width: 788px;
+}
+.datasec2 p {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  color: #3c4852;
+}
+.subheading p {
+  width: 788px;
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  color: #3c4852;
+}
+.row_sec1::after {
+  content: '';
+  clear: both;
+  display: table;
+}
+.numbers {
+  padding-top: 48px;
+  width: 788px;
+}
+.num_a {
+  float: left;
+  padding-right: 40px;
+}
+.num_b {
+  float: left;
+  padding-right: 40px;
+}
+.num_c {
+  float: left;
+  padding-right: 0px;
+}
+.num_cfsd {
+  float: left;
+  padding-right: 0px;
+}
+.data img {
+  padding-right: 16px;
+}
+.data {
+  padding-left: 0px;
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 48px;
+  line-height: 72px;
+  display: flex;
+  align-items: center;
+  color: #3c4852;
+}
+.span_a {
+  padding-left: 56px;
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 32px;
+  color: #3c4852;
+}
+
+.section3 {
+  background-image: url('https://cdn.pegasus.imarticus.org/Aap-landing-page/Rectangle_8_web.webp');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-left: 135px;
+}
+.columnsec3a {
+  padding-top: 150px;
+  float: left;
+  width: 65%;
+}
+.columnsec3b {
+  background-image: url('https://cdn.pegasus.imarticus.org/Aap-landing-page/Mask_group_web.webp');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  float: left;
+  width: 35%;
+  height: 540px;
+  border-top-left-radius: 8px;
+  border-bottom-left-radius: 8px;
+}
+.rowsec3::after {
+  content: '';
+  clear: both;
+  display: table;
+}
+.main {
+  display: flex;
+  gap: 31px;
+  flex-direction: row;
+}
+.headingsec3 h2 {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 40px;
+  width: 270px;
+  text-transform: capitalize;
+  color: #ffffff;
+}
+.datasec3 p {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  width: 469px;
+  color: #ffffff;
+}
+
+.section4 {
+  padding-left: 95px;
+  padding-right: 135px;
+  padding-top: 104px;
+  padding-bottom: 101px;
+}
+.mainsec4 {
+  display: flex;
+  gap: 48px;
+  flex-direction: row;
+}
+.business {
+  padding-top: 0px;
+  height: 537px;
+}
+.headingsec4 h2 {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 56px;
+  text-transform: capitalize;
+  color: #3c4852;
+}
+.pointsSec4 {
+  padding-top: 36px;
+}
+.mainpoints {
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+}
+.leftimg {
+  width: 32px;
+}
+.rightdata {
+  width: 457px;
+}
+.rightdata p {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  color: #3c4852;
+}
+.pointsSec4 li {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  color: #3c4852;
+}
+.section5 {
+  padding-left: 135px;
+  padding-right: 135px;
+  padding-bottom: 104px;
+}
+.innercard {
+  background-image: url('https://cdn.pegasus.imarticus.org/Aap-landing-page/Mask_groupAWeb.webp');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-left: 40px;
+  padding-right: 557px;
+  border-radius: 8px;
+}
+.authorized {
+  padding-top: 42px;
+}
+.authorized h2 {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 40px;
+  text-transform: capitalize;
+  color: #ffffff;
+}
+.points {
+  padding-top: 24px;
+  width: 503px;
+}
+.points li {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 34px;
+  color: #ffffff;
+}
+.sec5button {
+  padding-top: 32px;
+  padding-bottom: 40px;
+}
+.learnbutton {
+  width: 180px;
+  height: 56px;
+  background: #ffffff;
+  border-radius: 8px;
+  border: 1px solid white;
+}
+.learnbuttontext {
+  font-family: 'Source Sans Pro';
+  color: #3c4852;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 24px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  text-align: center;
+}
+
+.section6 {
+  padding-left: 135px;
+  padding-bottom: 104px;
+}
+.mainsec6 {
+  display: flex;
+  gap: 80px;
+  flex-direction: row;
+}
+.leftsec6 {
+  width: 570px;
+}
+.connected {
+  padding-top: 96px;
+}
+.connected h3 {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 40px;
+  text-transform: capitalize;
+  color: #3c4852;
+}
+.leftdata {
+  padding-top: 24px;
+}
+.leftdata p {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  color: #3c4852;
+}
+
+.section7 {
+  padding-left: 135px;
+  padding-right: 135px;
+  padding-bottom: 104px;
+}
+.innersec7 {
+  background-image: url('https://cdn.pegasus.imarticus.org/Aap-landing-page/Group_2913_Web.webp');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 48px;
+  padding-bottom: 48px;
+  border-radius: 8px;
+}
+.mainsec7 {
+  display: flex;
+  gap: 72px;
+  flex-direction: row;
+}
+.leftsec7 {
+  width: 288px;
+}
+.headingsec7 {
+  padding-top: 20px;
+}
+.headingsec7 h4 {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 40px;
+  text-transform: capitalize;
+  color: #ffffff;
+}
+.rightsec7 {
+  width: 730px;
+}
+.datasec7 p {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  color: #ffffff;
+}
+.sec7button {
+  padding-top: 24px;
+}
+.section8 {
+  padding-left: 87px;
+  padding-right: 135px;
+  padding-bottom: 0px;
+}
+.mainsec8 {
+  display: flex;
+  gap: 30px;
+  flex-direction: row;
+}
+.leftsec8 {
+  width: 618px;
+}
+.rightsec8 {
+  width: 570px;
+}
+.eligibility h2 {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 40px;
+  text-transform: capitalize;
+  color: #3c4852;
+}
+.pointsSec8 {
+  padding-top: 24px;
+}
+.mainpoint8 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+}
+.leftside {
+  width: 16px;
+}
+.rightside {
+  width: 538px;
+}
+.rightside p {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  color: #3c4852;
+}
+.pointsSec8 li {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  color: #3c4852;
+}
+.note {
+  padding-top: 40px;
+}
+.note h3 {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 23px;
+  color: #3c4852;
+}
+.note p {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 23px;
+  color: #3c4852;
+}
+.sec8button {
+  padding-top: 64px;
+  padding-bottom: 104px;
+  text-align: center;
+}
+.sec8_button {
+  width: 180px;
+  height: 56px;
+  background: #0f5644;
+  border-radius: 8px;
+  border: 1px solid white;
+}
+.sec8_buttontext {
+  font-family: 'Source Sans Pro';
+  color: #ffffff;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 24px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  text-align: center;
+}
+.section9 {
+  padding-left: 135px;
+  padding-right: 135px;
+  padding-bottom: 104px;
+}
+.offering {
+  padding-top: 8px;
+}
+.offering h3 {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 40px;
+  text-transform: capitalize;
+  color: #3c4852;
+}
+.programCards {
+  padding-top: 64px;
+}
+.offeringsec {
+  padding-top: 0px;
+  padding-left: 135px;
+  padding-right: 135px;
+  padding-bottom: 104px;
+}
+@media screen and (max-width: 500px) {
+  .section1 {
+    background-image: url('https://cdn.pegasus.imarticus.org/Aap-landing-page/Group_2903_ob.webp');
+    background-position: center;
+    background-size: 100% 85%;
+    background-repeat: no-repeat;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 12rem;
+  }
+  .column_sec1 {
+    float: none;
+    width: 100%;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    display: flex;
+    justify-content: center;
+  }
+  .row_sec1::after {
+    content: '';
+    clear: both;
+    display: table;
+  }
+  .heading {
+    padding-top: 0px;
+  }
+  .heading h1 {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    padding-bottom: 24px;
+    line-height: 34px;
+    display: flex;
+    align-items: center;
+    text-transform: capitalize;
+    width: 301px;
+    color: #ffffff;
+    text-align: center;
+  }
+  .bannerCard {
+    border: 1px solid rgba(60, 72, 82, 0.5);
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-radius: 8px;
+    margin-top: 0px;
+    padding-left: 0px;
+  }
+
+  /* section 2 */
+  .section2 {
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 48px;
+    padding-bottom: 48px;
+  }
+  .mainsec2 {
+    display: flex;
+    gap: 25px;
+    flex-direction: column;
+  }
+  .leftsec2 {
+    width: 328px;
+  }
+  .grow h2 {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 45px;
+    text-transform: capitalize;
+    color: #3c4852;
+  }
+  .sec2heading h2 {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 42px;
+    text-transform: capitalize;
+    color: #3c4852;
+    width: 358px;
+  }
+  .rightsec2 {
+    width: auto;
+  }
+  .datasec2 p {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color: #3c4852;
+  }
+  .subheading p {
+    width: 788px;
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color: #3c4852;
+  }
+  .row_sec1::after {
+    content: '';
+    clear: both;
+    display: table;
+  }
+  .numbers {
+    padding-top: 0px;
+    width: 328px;
+  }
+  .num_a {
+    float: none;
+    padding-right: 0px;
+  }
+  .num_b {
+    float: none;
+    padding-right: 0px;
+  }
+  .num_c {
+    float: none;
+    padding-right: 0px;
+  }
+  .data img {
+    padding-right: 16px;
+  }
+  .data {
+    padding-left: 0px;
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 72px;
+    display: flex;
+    align-items: center;
+    color: #3c4852;
+    padding-top: 12px;
+  }
+  .span_a {
+    padding-left: 56px;
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 32px;
+    color: #3c4852;
+    padding-top: 8px;
+  }
+
+  /* section 3 */
+  .section3 {
+    background-image: url('https://cdn.pegasus.imarticus.org/Aap-landing-page/Rectangle_8_mob.webp');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-left: 0px;
+  }
+  .columnsec3a {
+    padding-top: 48px;
+    float: none;
+    width: 100%;
+  }
+  .columnsec3b {
+    background-image: url('https://cdn.pegasus.imarticus.org/Aap-landing-page/Mask_group_mob.webp');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    float: none;
+    width: 100%;
+    height: 270px;
+  }
+  .rowsec3::after {
+    content: '';
+    clear: both;
+    display: table;
+  }
+  .main {
+    display: flex;
+    gap: 24px;
+    flex-direction: column;
+
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+  .headingsec3 h2 {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 34px;
+    text-transform: capitalize;
+    color: #ffffff;
+    width: 100%;
+  }
+  .datasec3 p {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color: #ffffff;
+    padding-bottom: 32px;
+  }
+  /* section 4 */
+  .section4 {
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 48px;
+    padding-bottom: 48px;
+  }
+  .mainsec4 {
+    display: flex;
+    gap: 40px;
+    flex-direction: column;
+  }
+  .business {
+    padding-top: 0px;
+    width: auto;
+    height: auto;
+  }
+  .headingsec4 h2 {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 34px;
+    text-transform: capitalize;
+    color: #3c4852;
+  }
+  .pointsSec4 {
+    padding-top: 26px;
+  }
+  .pointsSec4 li {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #3c4852;
+  }
+
+  /* section 5 */
+  .section5 {
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-bottom: 32px;
+    background-image: url('https://cdn.pegasus.imarticus.org/Aap-landing-page/Mask_groupA_Mob.webp');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .innercard {
+    background-image: none;
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+  .authorized {
+    padding-top: 32px;
+  }
+  .authorized h2 {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 40px;
+    text-transform: capitalize;
+    color: #ffffff;
+  }
+  .points {
+    padding-top: 16px;
+    width: 328px;
+  }
+  .points li {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 34px;
+    color: #ffffff;
+  }
+  .sec5button {
+    padding-top: 24px;
+    padding-bottom: 0px;
+  }
+  .learnbutton {
+    width: 180px;
+    height: 56px;
+    background: #ffffff;
+    border-radius: 8px;
+    border: 1px solid white;
+  }
+  .learnbuttontext {
+    font-family: 'Source Sans Pro';
+    color: #3c4852;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 24px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+  }
+
+  /* section 6 */
+  .section6 {
+    padding-left: 16px;
+    padding-bottom: 48px;
+  }
+  .mainsec6 {
+    display: flex;
+    gap: 48px;
+    flex-direction: column;
+  }
+  .leftsec6 {
+    width: auto;
+    padding-right: 16px;
+  }
+  .connected {
+    padding-top: 48px;
+  }
+  .connected h3 {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 34px;
+    text-transform: capitalize;
+    color: #3c4852;
+  }
+  .leftdata {
+    padding-top: 24px;
+  }
+  .leftdata p {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color: #3c4852;
+  }
+
+  /* section 7 */
+  .section7 {
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-bottom: 48px;
+  }
+  .innersec7 {
+    background-image: url('https://cdn.pegasus.imarticus.org/Aap-landing-page/Group_2911_Mob.webp');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 32px;
+    padding-bottom: 24px;
+  }
+  .mainsec7 {
+    display: flex;
+    gap: 24px;
+    flex-direction: column;
+  }
+  .leftsec7 {
+    width: 296px;
+  }
+  .headingsec7 {
+    padding-top: 0px;
+  }
+  .headingsec7 h4 {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 40px;
+    text-transform: capitalize;
+    color: #ffffff;
+  }
+  .rightsec7 {
+    width: auto;
+  }
+  .datasec7 p {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color: #ffffff;
+  }
+  .sec7button {
+    padding-top: 24px;
+  }
+  /* section 8 fresher world */
+  .section8 {
+    padding-left: 16px;
+    padding-right: 16px;
+    display: flex;
+    flex-direction: column;
+  }
+  .mainsec8 {
+    display: flex;
+    gap: 24px;
+    flex-direction: column-reverse;
+  }
+  .leftsec8 {
+    width: auto;
+  }
+  .rightsec8 {
+    width: auto;
+  }
+  .eligibility h2 {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 34px;
+    text-transform: capitalize;
+    color: #3c4852;
+  }
+  .rightside {
+    width: 100%;
+  }
+  .pointsSec8 {
+    padding-top: 24px;
+  }
+  .pointsSec8 li {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color: #3c4852;
+  }
+
+  .note {
+    padding-top: 24px;
+  }
+  .note h3 {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 23px;
+    color: #3c4852;
+  }
+  .note p {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color: #3c4852;
+  }
+  .sec8button {
+    padding-top: 40px;
+    padding-bottom: 48px;
+    text-align: center;
+  }
+  .sec8_button {
+    width: 180px;
+    height: 56px;
+    background: #0f5644;
+    border-radius: 8px;
+    border: 1px solid white;
+  }
+  .sec8_buttontext {
+    font-family: 'Source Sans Pro';
+    color: #ffffff;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 24px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+  }
+  .offeringsec {
+    padding-top: 0px;
+    padding-left: 16px;
+    padding-right: 0px;
+    padding-bottom: 48px;
+  }
+}
+
+@media screen and (min-width: 501px) and (max-width: 1023px) {
+  .section1 {
+    background-image: url('https://cdn.pegasus.imarticus.org/Aap-landing-page/Group%202905%20tab.webp');
+    background-position: center;
+    background-size: 100% 83%;
+    background-repeat: no-repeat;
+    padding-left: 192px;
+    position: relative;
+    padding-right: 194px;
+    padding-top: 115px;
+    height: auto;
+  }
+  .column_sec1 {
+    float: none;
+    width: 100%;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    display: flex;
+    justify-content: center;
+  }
+  .row_sec1::after {
+    content: '';
+    clear: both;
+    display: table;
+  }
+  .heading {
+    padding-top: 0px;
+  }
+  .heading h1 {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 34px;
+    padding-bottom: 16px;
+    line-height: 40px;
+    display: flex;
+    align-items: center;
+    text-transform: capitalize;
+    width: 476px;
+    color: #ffffff;
+    text-align: center;
+  }
+  .bannerCard {
+    border: 1px solid rgba(60, 72, 82, 0.5);
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-radius: 8px;
+    margin-top: 0px;
+    padding-left: 0px;
+  }
+  /* section 2 */
+  .section2 {
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 64px;
+    padding-bottom: 64px;
+  }
+  .mainsec2 {
+    display: flex;
+    gap: 40px;
+    flex-direction: column;
+  }
+  .leftsec2 {
+    width: 654px;
+  }
+  .grow h2 {
+    font-size: 48px;
+    line-height: 48px;
+  }
+  .rightsec2 {
+    width: 754px;
+  }
+  .datasec2 p {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color: #3c4852;
+  }
+  .numbers {
+    padding-top: 40px;
+    width: 754px;
+  }
+  .num_a {
+    float: left;
+    padding-right: 24px;
+  }
+  .num_b {
+    float: left;
+    padding-right: 24px;
+  }
+  .num_c {
+    float: left;
+    padding-right: 24px;
+  }
+  .num_cfsd {
+    float: left;
+    padding-right: 0px;
+  }
+  .data img {
+    padding-right: 16px;
+  }
+  .data {
+    padding-left: 0px;
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 72px;
+    display: flex;
+    align-items: center;
+    color: #3c4852;
+  }
+  .span_a {
+    padding-left: 56px;
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 32px;
+    color: #3c4852;
+  }
+
+  /* section3  */
+  .section3 {
+    background-image: url('https://cdn.pegasus.imarticus.org/Aap-landing-page/Rectangle_931_Tab.webp');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-left: 40px;
+    padding-top: 64px;
+    padding-bottom: 64px;
+  }
+  .columnsec3a {
+    padding-top: 0px;
+    float: left;
+    width: 50%;
+  }
+  .columnsec3b {
+    background-image: url('https://cdn.pegasus.imarticus.org/Aap-landing-page/Mask_group_tab.webp');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    float: left;
+    width: 50%;
+    height: 319.05px;
+    margin-top: 96px;
+    padding-bottom: 87px;
+  }
+  .rowsec3::after {
+    content: '';
+    clear: both;
+    display: table;
+  }
+  .main {
+    display: flex;
+    gap: 24px;
+    flex-direction: column;
+  }
+  .headingsec3 h2 {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 40px;
+    width: 270px;
+    text-transform: capitalize;
+    color: #ffffff;
+  }
+  .datasec3 p {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    width: 338px;
+    color: #ffffff;
+  }
+  /* section 4 */
+  .section4 {
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 64px;
+    padding-bottom: 61px;
+  }
+  .mainsec4 {
+    display: flex;
+    gap: 40px;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+  }
+  .business {
+    padding-top: 0px;
+    width: 537px;
+    height: auto;
+  }
+  .headingsec4 h2 {
+    font-size: 34px;
+    line-height: 56px;
+  }
+  .pointsSec4 {
+    padding-top: 36px;
+    text-align: start;
+  }
+  .pointsSec4 li {
+    font-size: 18px;
+    line-height: 24px;
+  }
+  /* section 5*/
+  .section5 {
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 64px;
+  }
+  .innercard {
+    background-image: url('https://cdn.pegasus.imarticus.org/Aap-landing-page/Mask_groupAtab.webp');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-left: 32px;
+    padding-right: 306px;
+  }
+  .authorized {
+    padding-top: 32px;
+  }
+  .authorized h2 {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 40px;
+    text-transform: capitalize;
+    color: #ffffff;
+  }
+  .points {
+    padding-top: 24px;
+    width: 503px;
+  }
+  .points li {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 34px;
+    color: #ffffff;
+  }
+  .sec5button {
+    padding-top: 32px;
+    padding-bottom: 40px;
+  }
+  .learnbutton {
+    width: 180px;
+    height: 56px;
+    background: #ffffff;
+    border-radius: 8px;
+    border: 1px solid white;
+  }
+  .learnbuttontext {
+    font-family: 'Source Sans Pro';
+    color: #3c4852;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 24px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+  }
+  /* section 6 */
+  .section6 {
+    padding-left: 40px;
+    padding-bottom: 40px;
+  }
+  .mainsec6 {
+    display: flex;
+    gap: 40px;
+    flex-direction: column;
+    justify-self: center;
+    text-align: center;
+  }
+  .leftsec6 {
+    width: 754px;
+    text-align: start;
+  }
+  .connected {
+    padding-top: 0px;
+  }
+  .rightside {
+    width: auto;
+  }
+  .connected h3 {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 40px;
+    text-transform: capitalize;
+    color: #3c4852;
+  }
+  .leftdata {
+    padding-top: 24px;
+  }
+  .leftdata p {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color: #3c4852;
+  }
+  /* section 7 */
+  .section7 {
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 64px;
+  }
+  .innersec7 {
+    background-image: url('https://cdn.pegasus.imarticus.org/Aap-landing-page/Group_2915_tab.webp');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-left: 40px;
+    padding-right: 32px;
+    padding-top: 44px;
+    padding-bottom: 44px;
+  }
+  .mainsec7 {
+    display: flex;
+    gap: 72px;
+    flex-direction: row;
+  }
+  .leftsec7 {
+    width: 343px;
+  }
+  .headingsec7 {
+    padding-top: 44px;
+  }
+  .headingsec7 h4 {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 40px;
+    text-transform: capitalize;
+    color: #ffffff;
+  }
+  .rightsec7 {
+    width: 322px;
+  }
+  .datasec7 p {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color: #ffffff;
+  }
+  .sec7button {
+    padding-top: 24px;
+  }
+  /* section 8 */
+  .section8 {
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+  .mainsec8 {
+    display: flex;
+    gap: 40px;
+    flex-direction: column-reverse;
+  }
+  .leftsec8 {
+    width: 754px;
+    padding-left: 68px;
+    padding-right: 68px;
+  }
+  .rightsec8 {
+    width: 618px;
+  }
+  .eligibility h2 {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 40px;
+    text-transform: capitalize;
+    color: #3c4852;
+  }
+  .pointsSec8 {
+    padding-top: 24px;
+  }
+  .pointsSec8 li {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color: #3c4852;
+  }
+
+  .note {
+    padding-top: 40px;
+  }
+  .note h3 {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 23px;
+    color: #3c4852;
+  }
+  .note p {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color: #3c4852;
+  }
+  .sec8button {
+    padding-top: 48px;
+    text-align: center;
+    padding-bottom: 64px;
+  }
+  .sec8_button {
+    width: 180px;
+    height: 56px;
+    background: #0f5644;
+    border-radius: 8px;
+    border: 1px solid white;
+  }
+  .sec8_buttontext {
+    font-family: 'Source Sans Pro';
+    color: #ffffff;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 24px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+  }
+  .offeringsec {
+    padding-top: 0px;
+    padding-left: 40px;
+    padding-right: 0px;
+    padding-bottom: 64px;
+  }
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1200px) {
+  .section1 {
+    background-image: url('https://cdn.pegasus.imarticus.org/Aap-landing-page/Group%202905%20tab.webp');
+    background-position: inherit;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding-left: 80px;
+    position: relative;
+    padding-right: 80px;
+    padding-top: 115px;
+    height: auto;
+  }
+  .column_sec1 {
+    float: none;
+    width: 100%;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    display: flex;
+    justify-content: center;
+  }
+  .row_sec1::after {
+    content: '';
+    clear: both;
+    display: table;
+  }
+  .heading {
+    padding-top: 0px;
+  }
+  .heading h1 {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 34px;
+    padding-bottom: 16px;
+    line-height: 40px;
+    display: flex;
+    align-items: center;
+    text-transform: capitalize;
+    width: 476px;
+    color: #ffffff;
+    text-align: center;
+  }
+  .bannerCard {
+    border: 1px solid rgba(60, 72, 82, 0.5);
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-radius: 8px;
+    margin-top: 0px;
+    padding-left: 0px;
+  }
+  .section2 {
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 64px;
+    padding-bottom: 64px;
+  }
+  .mainsec2 {
+    display: flex;
+    gap: 40px;
+    flex-direction: column;
+  }
+  .leftsec2 {
+    width: 654px;
+  }
+  .grow h2 {
+    font-size: 48px;
+    line-height: 48px;
+  }
+  .rightsec2 {
+    width: auto;
+  }
+  .datasec2 p {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color: #3c4852;
+  }
+  .numbers {
+    padding-top: 40px;
+    width: 754px;
+  }
+  .num_a {
+    float: left;
+    padding-right: 24px;
+  }
+  .num_b {
+    float: left;
+    padding-right: 24px;
+  }
+  .num_c {
+    float: left;
+    padding-right: 24px;
+  }
+  .num_cfsd {
+    float: left;
+    padding-right: 0px;
+  }
+  .data img {
+    padding-right: 16px;
+  }
+  .data {
+    padding-left: 0px;
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 72px;
+    display: flex;
+    align-items: center;
+    color: #3c4852;
+  }
+  .span_a {
+    padding-left: 56px;
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 32px;
+    color: #3c4852;
+  }
+  .section3 {
+    background-image: url('https://cdn.pegasus.imarticus.org/Aap-landing-page/Rectangle_931_Tab.webp');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-left: 80px;
+    padding-top: 64px;
+    padding-bottom: 80px;
+  }
+  .columnsec3a {
+    padding-top: 0px;
+    float: left;
+    width: 50%;
+  }
+  .columnsec3b {
+    background-image: url('https://cdn.pegasus.imarticus.org/Aap-landing-page/Mask_group_tab.webp');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    float: left;
+    width: 50%;
+    height: 319.05px;
+    margin-top: 96px;
+    padding-bottom: 87px;
+  }
+  .rowsec3::after {
+    content: '';
+    clear: both;
+    display: table;
+  }
+  .main {
+    display: flex;
+    gap: 24px;
+    flex-direction: column;
+  }
+  .headingsec3 h2 {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 40px;
+    width: 100%;
+    text-transform: capitalize;
+    color: #ffffff;
+  }
+  .datasec3 p {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    width: 338px;
+    color: #ffffff;
+  }
+  .section4 {
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 64px;
+    padding-bottom: 64px;
+  }
+  .mainsec4 {
+    display: flex;
+    gap: 40px;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+  }
+  .business {
+    padding-top: 0px;
+    width: 537px;
+  }
+  .headingsec4 h2 {
+    font-size: 34px;
+    line-height: 56px;
+  }
+  .pointsSec4 {
+    padding-top: 36px;
+    text-align: start;
+  }
+  .pointsSec4 li {
+    font-size: 18px;
+    line-height: 24px;
+  }
+  .section5 {
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-bottom: 48px;
+  }
+  .innercard {
+    background-image: url('https://cdn.pegasus.imarticus.org/Aap-landing-page/Mask_groupAtab.webp');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-left: 32px;
+    padding-right: 306px;
+  }
+  .authorized {
+    padding-top: 32px;
+  }
+  .authorized h2 {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 40px;
+    text-transform: capitalize;
+    color: #ffffff;
+  }
+  .points {
+    padding-top: 24px;
+    width: 503px;
+  }
+  .points li {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 34px;
+    color: #ffffff;
+  }
+  .sec5button {
+    padding-top: 32px;
+    padding-bottom: 40px;
+  }
+  .learnbutton {
+    width: 180px;
+    height: 56px;
+    background: #ffffff;
+    border-radius: 8px;
+    border: 1px solid white;
+  }
+  .learnbuttontext {
+    font-family: 'Source Sans Pro';
+    color: #3c4852;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 24px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+  }
+  .section6 {
+    padding-left: 80px;
+    padding-bottom: 80px;
+    padding-right: 80px;
+  }
+  .mainsec6 {
+    display: flex;
+    gap: 40px;
+    flex-direction: column;
+    justify-self: center;
+    text-align: center;
+  }
+  .leftsec6 {
+    width: 100%;
+    text-align: start;
+  }
+  .rightImg {
+    display: flex;
+    justify-content: end;
+  }
+  .connected {
+    padding-top: 48px;
+  }
+  .connected h3 {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 40px;
+    text-transform: capitalize;
+    color: #3c4852;
+  }
+  .leftdata {
+    padding-top: 24px;
+  }
+  .leftdata p {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color: #3c4852;
+  }
+  .section7 {
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-bottom: 64px;
+  }
+  .innersec7 {
+    background-image: url('https://cdn.pegasus.imarticus.org/Aap-landing-page/Group_2915_tab.webp');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-left: 40px;
+    padding-right: 32px;
+    padding-top: 44px;
+    padding-bottom: 44px;
+  }
+  .mainsec7 {
+    display: flex;
+    gap: 72px;
+    flex-direction: row;
+  }
+  .leftsec7 {
+    width: 343px;
+  }
+  .headingsec7 {
+    padding-top: 44px;
+  }
+  .headingsec7 h4 {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 40px;
+    text-transform: capitalize;
+    color: #ffffff;
+  }
+  .rightsec7 {
+    width: 322px;
+  }
+  .datasec7 p {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color: #ffffff;
+  }
+  .sec7button {
+    padding-top: 24px;
+  }
+
+  .section8 {
+    padding-left: 80px;
+    padding-right: 80px;
+    display: flex;
+    flex-direction: column;
+  }
+  .mainsec8 {
+    display: flex;
+    gap: 24px;
+    flex-direction: column;
+  }
+  .leftsec8 {
+    width: auto;
+  }
+  .rightsec8 {
+    width: auto;
+  }
+  .eligibility h2 {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 34px;
+    text-transform: capitalize;
+    color: #3c4852;
+  }
+  .pointsSec8 {
+    padding-top: 24px;
+  }
+  .pointsSec8 li {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color: #3c4852;
+  }
+
+  .note {
+    padding-top: 24px;
+  }
+  .note h3 {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 23px;
+    color: #3c4852;
+  }
+  .note p {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color: #3c4852;
+  }
+  .sec8button {
+    padding-top: 40px;
+    text-align: center;
+  }
+  .sec8_button {
+    width: 180px;
+    height: 56px;
+    background: #0f5644;
+    border-radius: 8px;
+    border: 1px solid white;
+  }
+  .sec8_buttontext {
+    font-family: 'Source Sans Pro';
+    color: #ffffff;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 24px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+  }
+}
+
+@media screen and (min-width: 1201px) and (max-width: 1380px) {
+  .pointsSec4 {
+    padding-top: 0px !important;
+  }
+}
+
+/*
+@media screen and (max-width: 1000px) {
+  .bannerMain {
+    justify-content: center;
+    margin: 0px;
+  }
+} */
+@media all and (min-width: 480px) {
+  .desktop {
+    display: block;
+  }
+  .mobile {
+    display: none;
+  }
+}
+@media all and (max-width: 479px) {
+  .desktop {
+    display: none;
+  }
+  .mobile {
+    display: block;
+  }
+}
+
+@media screen and (min-width: 1250px) and (max-width: 1400px) {
+  .leftsec7 {
+    width: 370px;
+  }
+}

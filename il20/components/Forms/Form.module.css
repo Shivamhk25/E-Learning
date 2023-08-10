@@ -1,0 +1,464 @@
+.custom-lightbox {
+  background: rgba(0, 0, 0, 0.8);
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}
+.industry-project-popup-title {
+  color: var(--black);
+  font-size: 20px;
+  padding: 20px 20px 0 20px;
+  font-weight: 600;
+  line-height: 28px;
+}
+.industry-project-popup-info {
+  color: var(--light-black);
+  font-size: 18px;
+  padding: 20px;
+  font-weight: 400;
+  line-height: 28px;
+}
+.lightbox-close-icon {
+  position: absolute;
+  right: 16px;
+  top: 20px;
+  cursor: pointer;
+  font-size: 20px;
+}
+.lightbox-close-icon-review {
+  position: absolute;
+  right: 16px;
+  top: 16px;
+  cursor: pointer;
+  font-size: 20px;
+}
+.instructor-detail-popup-ctnr {
+  background-color: #ffffff;
+  border-radius: 2px;
+  min-height: 200px;
+  max-height: 80vh;
+  overflow: scroll;
+}
+
+.center-all {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.industry-project-popup-ctnr {
+  background: #fff;
+  border-radius: 2px;
+  width: 935px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  position: relative;
+}
+
+.enquire_form_illustrater {
+  width: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.enquire_form_main {
+  width: 50%;
+}
+
+.enquireFormheading {
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 56px;
+  color: #3c4852;
+}
+
+.enquireFormInput {
+  width: 416px;
+  height: 48px;
+  border: 1px solid rgba(33, 42, 57, 0.25);
+  box-sizing: border-box;
+  border-radius: 4px;
+}
+
+.enquireFormInput2 {
+  width: 287px;
+  height: 48px;
+  border: 1px solid rgba(33, 42, 57, 0.25);
+  box-sizing: border-box;
+  border-radius: 4px;
+}
+
+.enquireFormInput3 {
+  width: 114px;
+  height: 48px;
+  border: 1px solid rgba(33, 42, 57, 0.25);
+  box-sizing: border-box;
+  border-radius: 4px;
+  margin-right: 14px;
+  cursor: pointer;
+}
+
+.mobile_number_input {
+  display: flex;
+  flex-direction: row;
+}
+
+.enquireFormButton {
+  width: 416px;
+  height: 56px;
+  background: #035642;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 600;
+  border-radius: 8px;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
+
+.form-submit-text {
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 25px;
+  color: #ffffff;
+}
+
+.enquire_box_space {
+  margin-bottom: 18px;
+}
+
+.form-inpt-contnr .form-inpt {
+  font-size: 16px;
+  padding: 6px 12px;
+  background-color: #fff;
+  background-image: none;
+  border-radius: 4px;
+}
+
+.top_closing_button {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 24px;
+  margin-top: 24px;
+  padding-right: 24px;
+}
+
+.enquireCheckbox {
+  margin-bottom: 48px;
+}
+
+.bottom_color {
+  position: absolute;
+  width: 100%;
+  height: 12px;
+  background: #5ec4b6;
+  border-radius: 4px;
+  bottom: 0;
+}
+
+.submit_button {
+  margin-bottom: 35px;
+}
+
+.close_arrow_pointer {
+  cursor: pointer;
+}
+
+@media screen and (max-width: 1022px) {
+  .enquire_form_illustrater {
+    display: none;
+  }
+
+  .industry-project-popup-ctnr {
+    width: 328px;
+  }
+
+  .enquire_form_main {
+    width: 100%;
+    padding: 16px 16px 16px 16px;
+  }
+
+  .enquireFormInput {
+    width: 296px;
+    height: 48px;
+  }
+
+  .enquireFormInput2 {
+    width: 167px;
+    height: 48px;
+  }
+
+  .enquireFormInput3 {
+    width: 114px;
+    height: 48px;
+  }
+
+  .enquireFormButton {
+    width: 296px;
+    height: 56px;
+  }
+
+  .enquireFormheading {
+    font-size: 18px;
+    line-height: 56px;
+    /* margin-bottom: 24px; */
+  }
+
+  .top_closing_button {
+    margin-bottom: 10px;
+    padding-right: 0;
+  }
+
+  .submit_button {
+    margin-bottom: 16px;
+  }
+}
+
+.custom-lightbox {
+  background: rgba(0, 0, 0, 0.8);
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}
+
+.industry-project-popup-ctnr-otp {
+  width: 438px;
+  height: 566px;
+  background: #fff;
+  border-radius: 8px;
+}
+
+.close_otp_icon {
+  text-align: end;
+  padding-right: 10px;
+  padding-top: 10px;
+}
+
+.vrfy-otp-head {
+  text-align: center;
+}
+
+.enquire_otp_img {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+.enter_otp {
+  font-size: 16px;
+  text-align: center;
+}
+
+.enquireotpInput {
+  width: 416px;
+  height: 48px;
+  border: 1px solid rgba(33, 42, 57, 0.25);
+  box-sizing: border-box;
+  border-radius: 4px;
+  text-align: center;
+  margin-top: 24px;
+}
+
+.enquireotpButton {
+  width: 358px;
+  height: 56px;
+  background: #035642;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 600;
+  border-radius: 8px;
+  outline: 0;
+  border: none;
+  cursor: pointer;
+}
+
+.opt_btn_cntr {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.verify-otp-bottom-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* position: relative; */
+}
+
+.resend_otp {
+  position: absolute;
+  right: 60px;
+  bottom: 160px;
+}
+
+.get-on-call {
+  outline: none;
+  background: #fff;
+  border: none;
+  color: rgba(60, 72, 82, 0.5);
+}
+
+.position_relative {
+  position: relative;
+}
+
+.countdown_timer {
+  display: flex;
+  justify-content: center;
+}
+
+/* {
+      "otp": "133496",
+      "crs_pg_id": "60e63681f8793842aa5af553",
+      "aid": "612721f2df571e708214e5af"
+  } */
+
+.hidden {
+  display: none;
+}
+
+.form-bottom-alert-error {
+  color: #d8000c;
+  font-size: 16px;
+  padding: 0;
+  text-align: center;
+}
+
+.center_alert {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 22px;
+}
+
+.form-bottom-alert-info {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 16px;
+  color: #035642;
+}
+
+.otp_enter_button {
+  padding: 0px 0px 20px 0px;
+}
+
+.error_msg_bottom {
+  color: #d8000c;
+  font-size: 16px;
+  padding: 0 0 20px 0;
+  text-align: center;
+  width: 90%;
+}
+
+.loaderHeight {
+  top: 23vw;
+  position: relative;
+}
+@media (max-width: 1080px) {
+  .loaderHeight {
+    top: 34vw;
+  }
+}
+@media (max-width: 480px) {
+  .loaderHeight {
+    top: 69vw;
+  }
+}
+
+.rotate360 {
+  animation: rotate 0.6s linear infinite;
+}
+
+@media screen and (max-width: 1022px) {
+  .industry-project-popup-ctnr-otp {
+    width: 328px;
+  }
+
+  .enquireotpButton {
+    width: 296px;
+  }
+
+  .enquireotpInput {
+    width: 296px;
+  }
+
+  .resend_otp {
+    right: 18px;
+  }
+
+  /* .error_msg_bottom{
+        width: 100%;
+        bottom: 0;
+        left: 81px;
+    } */
+}
+
+.visible-loader {
+  display: block;
+  font-size: 0;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 9999999999;
+  background-color: rgba(255, 255, 255, 0.6);
+}
+.loading-icon {
+  background: url(https://cdn.pegasus.imarticus.org/imarticus_2/imarticus_logo_loader.svg)
+    center no-repeat;
+  display: block;
+  font-size: 0;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 9999999999;
+}
+
+.rotate360 {
+  animation: rotate 0.6s linear infinite;
+}
+
+@keyframes rotate {
+  from {
+    -webkit-transform: rotate(0deg);
+  }
+  to {
+    -webkit-transform: rotate(360deg);
+  }
+}
+
+[visible-when-invalid]:not(.visible),
+form [submit-error],
+form [submit-success],
+form [submitting] {
+  display: none;
+}
+
+form.amp-form-submit-error [submit-error],
+form.amp-form-submit-success [submit-success],
+form.amp-form-submitting [submitting] {
+  display: block;
+}
+
+amp-script {
+  opacity: 1.7;
+}
+
+.industry-project-otppopup-ctnr {
+  background: #fff;
+  border-radius: 2px;
+  width: 438px;
+  flex-direction: row;
+  justify-content: center;
+  position: relative;
+}

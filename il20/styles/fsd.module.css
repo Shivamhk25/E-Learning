@@ -1,0 +1,2379 @@
+@font-face {
+  font-family: 'coding';
+  src: url('https://cdn.pegasus.imarticus.org/fonts/Anonymous/Anonymous.ttf');
+}
+
+.page {
+  background-image: url(https://cdn.pegasus.imarticus.org/Fsd/HeaderBG.webp);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.mycontainer {
+  max-width: 1450px;
+  margin: 0 auto;
+  padding: 163px 135px 104px 135px;
+}
+.section1 {
+  display: flex;
+  flex-direction: row;
+  gap: 84px;
+}
+.leftsec {
+  width: 564px;
+}
+.heading h1 {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 50px;
+  color: #ffffff;
+}
+.subheading {
+  padding-top: 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+.leftpoint {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  color: #ffffff;
+}
+.leftpoint span {
+  padding-left: 8.67px;
+}
+.rightpoint {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 25px;
+  color: #ffffff;
+}
+.rightpoint span {
+  padding-left: 8.67px;
+}
+
+.skillenza {
+  padding-top: 40px;
+  display: flex;
+  flex-direction: row;
+  gap: 6.7px;
+}
+.community {
+  padding-top: 16px;
+}
+.community p {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 12px;
+  color: #ffffff;
+}
+.text {
+  padding-top: 40px;
+}
+.text h3 {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 24px;
+  color: #ffffff;
+}
+.animate {
+  padding-top: 12px;
+}
+.animate h3 {
+  font-family: 'coding';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 24px;
+  color: #1cf2ec;
+}
+.animate span {
+  font-family: 'coding';
+}
+.job {
+  padding-top: 13px;
+}
+.job h3 {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 24px;
+  color: #ffffff;
+}
+
+.btngrp {
+  padding-top: 64px;
+}
+
+.sec1_buttons {
+  width: 197.91px;
+  height: 48px;
+  border-radius: 5px;
+  box-sizing: border-box;
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 15px;
+  border: 1px solid #ffffff;
+  color: white;
+  background: none;
+}
+
+.sec1_buttons_applyNow {
+  margin-left: 19.9px;
+  width: 197.91px;
+  height: 48px;
+  background: #0fafa9;
+  border: 1px solid #0fafa9;
+  box-sizing: border-box;
+  border-radius: 5px;
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 15px;
+  color: #ffffff;
+}
+
+.rightsec {
+  padding-top: 16px;
+  width: 516px;
+}
+
+.points {
+  padding-top: 80px;
+  display: flex;
+  justify-content: center;
+}
+
+.data img {
+  padding-right: 12px;
+}
+.data {
+  padding-left: 0px;
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 35px;
+  align-items: center;
+  color: #ffffff;
+}
+.span_a {
+  padding-left: 35px;
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 25px;
+  color: #ffffff;
+}
+
+/* section2 ============================================================ */
+
+.ourAlumni {
+  padding: 80px 135px 80px 135px;
+  max-width: 1450px;
+  margin: 0 auto;
+}
+
+.alumniHeader {
+  text-align: center;
+}
+.alumniHeader h3 {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 43px;
+  color: #3c4852;
+}
+.main {
+  max-width: 1450px;
+  margin: 0 auto;
+  padding: 80px 135px 80px 135px;
+}
+.career {
+  background: #f8f9fa;
+}
+
+.careerHeading {
+  text-align: center;
+}
+.careerHeading h3 {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 43px;
+  color: #3c4852;
+}
+.careerCard {
+  padding-top: 40px;
+}
+.cardData {
+  width: 270px;
+  height: 342px;
+  background: #ffffff;
+  box-shadow: 0px 0px 50px #e9eaec;
+  border-radius: 10px;
+}
+.cardimage {
+  padding: 25px 70px 12px 70px;
+}
+.bw {
+  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(100%);
+}
+.animateimg:hover .bw {
+  -webkit-filter: grayscale(0%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(0%);
+}
+.name {
+  text-align: center;
+}
+.name p {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 10px;
+  text-align: center;
+  color: #3c4852;
+}
+.designation {
+  padding-top: 7px;
+  text-align: center;
+}
+.designation p {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 10px;
+  text-align: center;
+  color: #3c4852;
+}
+.arrow {
+  padding-top: 12px;
+  padding-bottom: 19px;
+  display: flex;
+  justify-content: center;
+}
+.company {
+  text-align: center;
+  width: 120px;
+  margin-left: 75px;
+}
+.branch {
+  padding: 19px 0px 24px 0px;
+  text-align: center;
+}
+.branch p {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 15px;
+  text-align: center;
+  color: #3c4852;
+}
+
+/* section4 =================================================*/
+.sec4main {
+  max-width: 1450px;
+  margin: 0 auto;
+  padding: 80px 135px 80px 135px;
+}
+.section4 {
+  background: #f0fffd;
+}
+.heading h3 {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 43px;
+  color: #3c4852;
+}
+.para {
+  padding-top: 16px;
+  width: 1170px;
+}
+.para p {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 25px;
+  color: #3c4852;
+}
+.box {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+}
+.toggletext {
+  /* display: none; */
+}
+.animebox {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+.aboutbox {
+  width: 370px;
+}
+.mybox {
+  width: 370px;
+  padding-top: 40px;
+}
+.mybox2 {
+  width: 370px;
+  padding-top: 36px;
+}
+.boxheading {
+  padding-top: 19px;
+}
+.boxheading p {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  color: #3c4852;
+}
+.boxdata {
+  padding-top: 8px;
+}
+.boxdata p {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #3c4852;
+}
+.enrollbtn {
+  padding-top: 48px;
+  text-align: center;
+}
+.enrollbtn_2 {
+  padding-bottom: 56px;
+  text-align: center;
+}
+.enrollbtn_leader {
+  padding-top: 0px;
+  text-align: center;
+}
+.enroll_button {
+  width: 236px;
+  height: 56px;
+  background: #035642;
+  border-radius: 8px;
+  border: 1px solid white;
+}
+.enroll_buttontext {
+  font-family: 'Source Sans Pro';
+  color: #ffffff;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 15px;
+  text-align: center;
+}
+/* section 5 ---------------------------------------------------- */
+.curriculum {
+  padding: 80px 135px 0px 135px;
+  max-width: 1450px;
+  margin: 0 auto;
+}
+.sec5heading {
+  width: auto;
+}
+.sec5heading h3 {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 43px;
+  text-transform: capitalize;
+  color: #3c4852;
+}
+.sec5para {
+  padding-top: 16px;
+}
+.sec5para p {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #3c4852;
+}
+.curriculumbox {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+}
+.sec5box {
+  width: 270px;
+}
+.mysec5box {
+  width: 270px;
+  padding-top: 40px;
+}
+
+.sec5boxdata {
+  padding-top: 24px;
+}
+.boxdata p {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #3c4852;
+}
+.curriculum_heading {
+  padding-top: 80px;
+}
+.curriculum_heading h3 {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 43px;
+  color: #3c4852;
+}
+.curriculum_data {
+  padding-top: 16px;
+  width: 705px;
+}
+.curriculum_data p {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #3c4852;
+}
+.curriculumsec {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  padding-top: 0px;
+}
+.contactform {
+  width: 370px;
+}
+.contactus {
+  background: #ffffff;
+  box-shadow: 0px 0px 16px rgba(60, 72, 82, 0.1);
+  border-radius: 8px;
+  position: sticky;
+}
+.accordionsection {
+  width: 718px;
+  padding-top: 40px;
+}
+.accHeader1 {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+  color: #3c4852;
+}
+.accordiondata {
+  padding-left: 32px;
+  padding-top: 19px;
+  padding-bottom: 21px;
+}
+.accordionlist {
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+}
+.leftacc {
+  width: 14px;
+}
+.rightacc {
+  width: 342px;
+}
+.rightacc p {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  color: #3c4852;
+}
+.coursedetailss {
+  margin-top: 24px;
+  width: 370px;
+  height: 215px;
+  background: #ffffff;
+  box-shadow: 0px 0px 16px rgba(60, 72, 82, 0.1);
+  border-radius: 8px;
+  background-image: url(https://cdn.pegasus.imarticus.org/Fsd/Group2995.webp);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.sticky {
+  top: 70px;
+  position: sticky;
+}
+/* tools ========================================================================*/
+.toolheading h2 {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 35px;
+
+  color: #3c4852;
+}
+.toolimages {
+  padding-top: 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 46px;
+}
+/* sectopn7 ========================================================= */
+.projectsmain {
+  max-width: 1450px;
+  margin: 0 auto;
+  padding: 80px 135px 0px 135px;
+}
+.projects {
+  background: #f0fffd;
+}
+.projectheading h3 {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 40px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  text-transform: capitalize;
+  color: #3c4852;
+}
+.projectpara {
+  padding-top: 16px;
+}
+.projectpara p {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #3c4852;
+}
+.projectcards {
+  padding-top: 40px;
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+}
+
+.box {
+  width: 100%;
+}
+
+.box > h1 {
+  font-size: 20px;
+  margin: 0 0 1rem 0;
+  padding-top: 15px;
+  text-align: center;
+  /* border: solid 1px; */
+  border-radius: 5px;
+  height: 100px;
+  background: gray;
+}
+.container {
+  width: 270px;
+  height: 376px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-image: url(https://cdn.pegasus.imarticus.org/Fsd/capstone1clr.webp);
+  justify-content: flex-end;
+}
+.container2 {
+  width: 270px;
+  height: 376px;
+  padding-left: 24px;
+  padding-right: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: url(https://cdn.pegasus.imarticus.org/Fsd/capstone2.webp);
+}
+.container3 {
+  width: 270px;
+  height: 376px;
+  padding-left: 24px;
+  padding-right: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: url(https://cdn.pegasus.imarticus.org/Fsd/capstone1.webp);
+}
+.container4 {
+  width: 270px;
+  height: 376px;
+  padding-left: 24px;
+  padding-right: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: url(https://cdn.pegasus.imarticus.org/Fsd/capstone3.webp);
+}
+.container5 {
+  width: 270px;
+  height: 376px;
+  padding-left: 24px;
+  padding-right: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: url(https://cdn.pegasus.imarticus.org/Fsd/capstone2.webp);
+}
+.Intro {
+  font-size: 20px;
+}
+
+.pcard {
+  width: 270px;
+  height: 376px;
+}
+.capstone {
+  padding-left: 24px;
+  padding-right: 24px;
+}
+
+.toggletext {
+  opacity: 0;
+  transition: all 0s;
+  height: 40px;
+}
+
+.containergradient {
+  background: linear-gradient(
+    180deg,
+    rgba(48, 59, 87, 0.72) 0%,
+    rgba(31, 142, 167, 0.9) 100%
+  );
+  padding-left: 24px;
+  padding-right: 24px;
+  display: flex;
+  align-items: flex-end;
+  height: 106px;
+  transition: all 0.5s;
+}
+
+.projecttopic {
+  position: relative;
+}
+.projecttopic p {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  color: #ffffff;
+}
+.projectdetail p {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #ffffff;
+}
+.projectdetail {
+  padding-bottom: 70px;
+}
+
+.container:hover .containergradient {
+  height: 100%;
+}
+
+.container:hover .toggletext {
+  opacity: 1;
+  transition: all 1s;
+  height: 100%;
+}
+
+.container:hover .projectdetail p {
+  padding-bottom: 30px;
+}
+
+/* section certificate ========================================================== */
+.certificate {
+  padding: 80px 135px 80px 135px;
+  max-width: 1450px;
+  margin: 0 auto;
+}
+.certisections {
+  display: flex;
+  flex-direction: row;
+  gap: 130px;
+}
+.certileft {
+  width: 470px;
+}
+.certiheading {
+  padding-top: 62px;
+}
+.certiheading h3 {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 43px;
+  color: #3c4852;
+}
+.certidata {
+  padding-top: 32px;
+}
+.certidata p {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 25px;
+  color: #3c4852;
+}
+.certiimg {
+  box-shadow: 0px 0px 16px rgba(60, 72, 82, 0.1);
+}
+.enrollbtn_certi {
+  padding-top: 48px;
+  text-align: left;
+}
+.partnerZoom_fsd {
+  position: absolute;
+  bottom: 2vh;
+  right: 2vw;
+}
+/* section leaders ============================================================== */
+.leadermain {
+  max-width: 1450px;
+  margin: 0 auto;
+  padding: 80px 135px 80px 135px;
+}
+.leaders {
+  background: #f0fffd;
+}
+.leaderheading h3 {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 43px;
+  color: #3c4852;
+}
+.leadercards {
+  padding-top: 87px;
+  width: auto;
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+}
+
+.cardsec {
+  background: #ffffff;
+  height: 275px;
+  width: 270px;
+  margin-top: 50px;
+}
+.cardimg {
+  padding-left: 16px;
+}
+.leaderimage {
+  position: relative;
+  margin-top: -50px;
+  height: 94px;
+  width: 94px;
+}
+.cardhead {
+  padding: 16px 16px 16px 16px;
+}
+.cardhead p {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+  color: #3c4852;
+  height: 124px;
+}
+.carddetails {
+  padding-left: 16px;
+  padding-bottom: 24px;
+}
+.carddetails p {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+  color: #3c4852;
+}
+/* section learn ================================================================ */
+.learn {
+  padding: 80px 320px 80px 320px;
+  text-align: center;
+  max-width: 1450px;
+  margin: 0 auto;
+}
+.learnhead h3 {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 48px;
+  color: #3c4852;
+}
+.learnStudent {
+  padding-top: 70px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 80px;
+}
+.studentimg {
+}
+a:active ~ .studentimg {
+  -ms-transform: scale(1.5); /* IE 9 */
+  -webkit-transform: scale(1.5); /* Safari 3-8 */
+  transform: scale(1.5);
+  -webkit-filter: opacity(1); /* Safari 6.0 - 9.0 */
+  filter: opacity(1);
+}
+.studentimg:target {
+}
+.students {
+  width: 102px;
+  height: 102px;
+  transition: transform 0.2s;
+}
+.students:target {
+  -ms-transform: scale(1.5); /* IE 9 */
+  -webkit-transform: scale(1.5); /* Safari 3-8 */
+  transform: scale(1.5);
+  opacity: 1;
+}
+a:active ~ .students {
+  -ms-transform: scale(1.5); /* IE 9 */
+  -webkit-transform: scale(1.5); /* Safari 3-8 */
+  transform: scale(1.5);
+  opacity: 1;
+}
+.studentname {
+  padding-top: 82px;
+}
+.studentname p {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 20px;
+  text-align: center;
+  color: #3c4852;
+}
+.studentdetail {
+  padding-top: 16px;
+  width: 799px;
+}
+.studentdetail p {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  text-align: center;
+  color: #3c4852;
+}
+/* career ============================================================== */
+
+.careermain {
+  max-width: 1450px;
+  margin: 0 auto;
+  padding: 80px 135px 80px 135px;
+}
+.careersupport {
+  background-image: url(https://cdn.pegasus.imarticus.org/Fsd/BGweb.webp);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.careersupportsec {
+  display: flex;
+  flex-direction: row;
+  gap: 130px;
+}
+.leftcareersupport {
+  width: 470px;
+}
+.careersupportheading {
+  padding-top: 207px;
+  width: 284px;
+}
+.careersupportheading h3 {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 40px;
+  align-items: center;
+  text-transform: capitalize;
+  color: #ffffff;
+}
+.careersupportdata {
+  padding-top: 16px;
+}
+.careersupportdata p {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #ffffff;
+}
+.multicard {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+}
+.leftcol {
+  padding-top: 83px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+.jobcard {
+  padding: 22px 30px 12px 30px;
+  width: 270px;
+  height: 262px;
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0) 0%,
+    rgba(0, 199, 255, 0.25) 0%,
+    rgba(143, 255, 159, 0.25) 100%,
+    rgba(0, 0, 0, 0) 99%
+  );
+  border-radius: 8px;
+  text-align: center;
+}
+/* .jobcard:after{
+    background: linear-gradient(180deg, #00C9FF 48.44%, #92FE9D 100%);
+    opacity: 0.25;
+    position:absolute;
+    width: 270px;
+    height: 262px;
+} */
+
+.cardlogo {
+  padding-top: 0px;
+}
+.assurance {
+  padding-top: 5px;
+  position: relative;
+}
+.assurance p {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 28px;
+  text-align: center;
+  text-transform: capitalize;
+  color: #ffffff;
+}
+.assurancedata {
+  padding-top: 8px;
+}
+.assurancedata p {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+  color: #ffffff;
+}
+.rightcol {
+  padding-top: 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+.resume {
+  width: 270px;
+  height: 262px;
+  background: linear-gradient(180deg, #00c9ff 48.44%, #92fe9d 100%);
+  opacity: 0.25;
+  border-radius: 8px;
+}
+/* hackathons ======================================================================== */
+.hackathonmain {
+  max-width: 1450px;
+  margin: 0 auto;
+  padding: 80px 135px 80px 135px;
+}
+.hackathons {
+  background-image: url(https://cdn.pegasus.imarticus.org/Fsd/Sec9WEB.webp);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.hackathonsections {
+  display: flex;
+  flex-direction: row;
+  gap: 123px;
+}
+.lefthackathon {
+  width: 570px;
+  padding-top: 84px;
+}
+.participate {
+  width: 490px;
+}
+.participate h3 {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 45px;
+  text-transform: capitalize;
+  color: #ffffff;
+}
+.participatePoints {
+  padding-top: 15px;
+}
+.pointsection {
+  display: flex;
+  flex-direction: row;
+  gap: 13px;
+}
+.tick {
+  width: 21px;
+  padding-top: 4px;
+  padding-left: 2px;
+}
+.participatelist {
+  width: 534px;
+}
+.participatelist p {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 35px;
+  color: #ffffff;
+}
+.righthackathon {
+  width: auto;
+}
+.hackathonheading {
+  text-align: center;
+}
+.hackathonheading h3 {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 20px;
+  color: #ffffff;
+}
+.hackathonwinners {
+  padding-top: 27px;
+}
+/* profram fees =================================================] */
+.feemain {
+  max-width: 1450px;
+  margin: 0 auto;
+  padding: 80px 135px 80px 135px;
+}
+.programfees {
+  background: #f8f9fa;
+}
+.feesections {
+  display: flex;
+  flex-direction: row;
+  box-shadow: 0px 0px 50px rgba(0, 0, 0, 0.08);
+  border-radius: 8px;
+  width: 1170px;
+  height: 710px;
+  background: #ffffff;
+}
+.feeleft {
+  width: 585px;
+  background: linear-gradient(100.32deg, #147159 -12.65%, #1f8ea7 111.88%);
+  border-radius: 8px 0px 0px 8px;
+}
+.fee {
+  padding: 64px 149px 83px 148px;
+}
+.feeheading {
+  text-align: center;
+}
+.feeheading h3 {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 34px;
+  line-height: 40px;
+  align-items: center;
+  text-align: center;
+  text-transform: capitalize;
+  color: #ffffff;
+}
+.amount {
+  padding-top: 24px;
+  width: 288px;
+}
+.amount p {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 40px;
+  align-items: center;
+  text-align: center;
+  text-transform: capitalize;
+  color: #ffffff;
+}
+.enquirebtn {
+  padding-top: 56px;
+  text-align: center;
+}
+.enquire_button {
+  width: 201px;
+  height: 48px;
+  background: #ffffff;
+  border-radius: 5px;
+  border: 1px solid white;
+}
+.enquire_buttontext {
+  font-family: 'Source Sans Pro';
+  color: #3c4852;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 16px;
+  text-align: center;
+}
+hr.divider {
+  margin-left: 48px;
+  margin-right: 48px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  opacity: 0.5;
+  border: 1px solid #ffffff;
+}
+hr.divider2 {
+  margin-left: 0px;
+  margin-right: 169px;
+  margin-top: 16px;
+  margin-bottom: 24px;
+  opacity: 1;
+  border: 1px solid #ffffff;
+}
+.emi {
+  padding: 83px 126px 0px 126px;
+}
+.emiheading {
+  text-align: center;
+}
+.emiheading h3 {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 34px;
+  line-height: 40px;
+  align-items: center;
+  text-align: center;
+  text-transform: capitalize;
+  color: #ffffff;
+}
+.emiamount {
+  padding-top: 24px;
+  width: 333px;
+}
+.emiamount p {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 40px;
+  align-items: center;
+  text-align: center;
+  text-transform: capitalize;
+  color: #ffffff;
+}
+.emiamount span {
+  text-transform: none;
+  font-size: 36px;
+}
+.feeright {
+  width: 585px;
+  background: #ffffff;
+}
+.feerightdetail {
+  padding: 64px 48px 64px 48px;
+}
+.detailpara {
+  text-align: center;
+}
+.detailpara p {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  text-align: center;
+  color: #3c4852;
+}
+.feepartner {
+  padding-top: 40px;
+  display: flex;
+  flex-direction: row;
+  gap: 94px;
+}
+.bajaj {
+  width: 200.48px;
+}
+.zest {
+  width: 195.34px;
+}
+.bw2 {
+  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(100%);
+}
+.bajaj:hover .bw2 {
+  -webkit-filter: grayscale(0%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(0%);
+}
+.zest:hover .bw2 {
+  -webkit-filter: grayscale(0%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(0%);
+}
+.feetable {
+  padding-top: 141.11px;
+}
+
+.feetable table {
+  border-collapse: collapse;
+  width: 100%;
+  border: 1px solid rgba(60, 72, 82, 0.5);
+  text-align: left;
+}
+.feetable th {
+  padding: 15px;
+  text-align: left;
+  font-family: 'Source Sans Pro';
+  border: 1px solid rgba(60, 72, 82, 0.5);
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 12px;
+  text-transform: capitalize;
+  color: #3c4852;
+  border-radius: 8px;
+}
+.feetable td {
+  padding: 15px;
+  text-align: left;
+  font-family: 'Source Sans Pro';
+  border: 1px solid rgba(60, 72, 82, 0.5);
+  font-style: normal;
+  font-size: 18px;
+  line-height: 20px;
+  text-transform: capitalize;
+  color: #3c4852;
+  border-radius: 8px;
+}
+.feetable td span {
+  font-weight: 700;
+}
+.tablestyle {
+  border: none;
+}
+/* faq ==================================================================================== */
+.faq {
+  padding: 80px 135px 0px 135px;
+  max-width: 1450px;
+  margin: 0 auto;
+}
+.faqhead {
+  text-align: center;
+}
+.faqhead h3 {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 58px;
+  align-items: center;
+  text-align: center;
+  text-transform: capitalize;
+  color: #3c4852;
+}
+.similiarProgram_fsd {
+  padding: 104px 0px 104px 135px;
+  width: auto;
+}
+.slider_controls {
+  display: block;
+  padding-top: 20px;
+}
+.slider_controls2 {
+  display: block;
+  padding-top: 0px;
+}
+.anime {
+  display: none;
+}
+.anime:target {
+  display: block;
+  opacity: 1;
+}
+
+.naveen :focus {
+  opacity: 1;
+}
+@media screen and (max-width: 500px) {
+  .page {
+    background-image: url(https://cdn.pegasus.imarticus.org/Fsd/Group_3148.webp);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .mycontainer {
+    padding: 114px 16px 48px 16px;
+    justify-content: center;
+  }
+  .section1 {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+  }
+  .leftsec {
+    width: auto;
+  }
+  .heading h1 {
+    font-size: 24px;
+  }
+  .subheading {
+    padding-top: 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  .skillenza {
+    padding-top: 24px;
+    display: flex;
+    flex-direction: row;
+    gap: 6.7px;
+  }
+  .community {
+    padding-top: 16px;
+    padding-bottom: 0px;
+  }
+  .text {
+    padding-top: 24px;
+  }
+  .text h3 {
+    font-size: 20px;
+  }
+  .animate {
+    padding-top: 4px;
+  }
+  .animate h3 {
+    font-size: 17px;
+  }
+  .job {
+    padding-top: 4px;
+  }
+  .job h3 {
+    font-size: 20px;
+  }
+  .btngrp {
+    padding-top: 48px;
+  }
+
+  .sec1_buttons {
+    width: 158px;
+  }
+
+  .sec1_buttons_applyNow {
+    margin-left: 10px;
+    width: 158px;
+  }
+
+  .rightsec {
+    padding-top: 0px;
+    width: auto;
+  }
+  /* section 2====================================== */
+  .ourAlumni {
+    padding: 48px 16px 48px 16px;
+  }
+  .alumniHeader h3 {
+    font-size: 28px;
+    line-height: 38px;
+  }
+  .main {
+    padding: 48px 0px 48px 16px;
+  }
+  .career {
+    background: #f8f9fa;
+  }
+  .careerHeading {
+    text-align: start;
+  }
+  .careerHeading h3 {
+    font-size: 28px;
+    line-height: 35px;
+  }
+  .careerCard {
+    padding-top: 24px;
+  }
+  .branch {
+    padding: 19px 0px 0px 0px;
+    text-align: center;
+  }
+  /* section 4 ====================================================== */
+  .sec4main {
+    padding: 48px 16px 48px 16px;
+  }
+  .section4 {
+    background: #f0fffd;
+  }
+  .heading h3 {
+    font-size: 28px;
+    line-height: 35px;
+  }
+  .para {
+    padding-top: 16px;
+    width: auto;
+  }
+  .box {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+  }
+  .aboutbox {
+    width: 328px;
+  }
+  .mybox {
+    width: 328px;
+    padding-top: 24px;
+  }
+  .mybox2 {
+    width: 328px;
+    padding-top: 24px;
+  }
+  /* curriculum ============================================================ */
+  .curriculum {
+    padding: 48px 16px 0px 16px;
+  }
+  .sec5heading {
+    width: auto;
+  }
+  .curriculum_heading {
+    padding-top: 48px;
+  }
+  .curriculum_heading h3 {
+    font-size: 28px;
+    line-height: 35px;
+  }
+  .sec5heading h3 {
+    font-size: 28px;
+    line-height: 35px;
+  }
+  .sec5para {
+    padding-top: 24px;
+  }
+  .curriculumbox {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+  }
+  .sec5box {
+    width: auto;
+    display: flex;
+    justify-content: center;
+  }
+  .mysec5box {
+    width: 270px;
+    padding-top: 24px;
+    text-align: center;
+  }
+  .curriculumsec {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    padding-top: 0px;
+  }
+  .contactform {
+    width: auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+  .sec5boxdata {
+    padding-top: 24px;
+  }
+  /* projects ======================================================= */
+  .projectsmain {
+    padding: 48px 16px 48px 16px;
+  }
+  .capstone {
+    padding-top: 60px;
+  }
+  .projects {
+    background: #f0fffd;
+  }
+  .projectheading h3 {
+    font-size: 28px;
+    line-height: 38px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+  }
+  .projectcards {
+    padding-top: 40px;
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+  }
+  .pcard {
+    width: 270px;
+    height: 376px;
+  }
+  /* certified ================================================= */
+  .certificate {
+    padding: 48px 16px 48px 16px;
+  }
+  .enrollbtn_certi {
+    padding-top: 24px;
+  }
+  .certisections {
+    display: flex;
+    flex-direction: column;
+    gap: 46.25px;
+  }
+  .certileft {
+    width: auto;
+  }
+  .certiheading {
+    padding-top: 0px;
+  }
+  .certiheading h3 {
+    font-size: 28px;
+    line-height: 35px;
+  }
+  .certidata {
+    padding-top: 16px;
+  }
+  .leadermain {
+    padding: 48px 16px 48px 16px;
+  }
+  .leaders {
+    background: #f0fffd;
+  }
+  .leaderheading h3 {
+    font-size: 28px;
+    line-height: 35px;
+  }
+  .leadercards {
+    padding-top: 87px;
+    width: 270px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+  }
+  .enrollbtn_leader {
+    padding-top: 0px;
+    text-align: center;
+  }
+  .partnerZoom_fsd {
+    position: absolute;
+    bottom: 2vh;
+    right: 2vw;
+  }
+  /* learn ============================================================== */
+  .learn {
+    padding: 48px 16px 48px 16px;
+    text-align: center;
+  }
+  .learnhead h3 {
+    font-size: 28px;
+    line-height: 40px;
+  }
+  .learnStudent {
+    padding-top: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 40px;
+  }
+  .studentimg {
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.5);
+    -webkit-filter: opacity(1); /* Safari 6.0 - 9.0 */
+    filter: opacity(1);
+  }
+  .studentname {
+    padding-top: 42px;
+  }
+  /* careersupport ========================================================== */
+  .careermain {
+    padding: 48px 16px 48px 16px;
+  }
+  .careersupport {
+    background-image: url(https://cdn.pegasus.imarticus.org/Fsd/BGmob.webp);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .careersupportsec {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+  }
+  .leftcareersupport {
+    width: auto;
+  }
+  .careersupportheading {
+    padding-top: 0px;
+    width: 284px;
+  }
+  .careersupportheading h3 {
+    font-size: 28px;
+    line-height: 38px;
+  }
+  .multicard {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+  }
+  .leftcol {
+    padding-top: 32px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+  }
+  .hackathonmain {
+    padding: 48px 16px 48px 16px;
+  }
+  .hackathons {
+    background-image: url(https://cdn.pegasus.imarticus.org/Fsd/Sec9MOB.webp);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .hackathonsections {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+  }
+  .lefthackathon {
+    width: auto;
+    padding-top: 0px;
+  }
+  .participate {
+    width: auto;
+  }
+  .participate h3 {
+    font-size: 28px;
+    line-height: 38px;
+  }
+  .participatePoints {
+    padding-top: 16px;
+  }
+  .pointsection {
+    display: flex;
+    flex-direction: row;
+    gap: 13px;
+  }
+  .participatelist {
+    width: auto;
+  }
+  /* profram fees =================================================] */
+  .feemain {
+    padding: 48px 16px 48px 16px;
+  }
+  .programfees {
+    background: #f8f9fa;
+  }
+  .feesections {
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0px 0px 50px rgba(0, 0, 0, 0.08);
+    border-radius: 8px;
+    width: 1170px;
+    height: auto;
+    background: #ffffff;
+  }
+  .feeleft {
+    width: 585px;
+    background: linear-gradient(100.32deg, #147159 -12.65%, #1f8ea7 111.88%);
+    border-radius: 8px 8px 8px 8px;
+  }
+  .fee {
+    padding: 32px 0px 32px 0px;
+  }
+  .feeheading {
+    text-align: center;
+  }
+  .feeheading h3 {
+    font-size: 24px;
+  }
+  .amount {
+    width: auto;
+  }
+  .amount p {
+    font-size: 48px;
+  }
+  .enquirebtn {
+    padding-top: 48px;
+    text-align: center;
+  }
+  hr.divider {
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    opacity: 0.5;
+    border: 1px solid #ffffff;
+  }
+  .emi {
+    padding: 32px 0px 88px 0px;
+  }
+  .emiheading {
+    text-align: center;
+  }
+  .emiheading h3 {
+    font-size: 24px;
+  }
+  .emiamount {
+    padding-top: 24px;
+    width: auto;
+  }
+  .emiamount p {
+    font-size: 48px;
+  }
+  .emiamount span {
+    text-transform: none;
+    font-size: 24px;
+  }
+  .feeright {
+    width: auto;
+    background: #ffffff;
+  }
+  .feerightdetail {
+    padding: 32px 16px 32px 16px;
+  }
+  .feepartner {
+    padding-top: 32px;
+    display: flex;
+    flex-direction: row;
+    gap: 54px;
+  }
+  .bajaj {
+    width: auto;
+  }
+  .zest {
+    width: auto;
+  }
+  .feetable {
+    padding-top: 52px;
+  }
+
+  .feetable table {
+    border-collapse: collapse;
+    width: 100%;
+    border: 1px solid rgba(60, 72, 82, 0.5);
+    text-align: left;
+  }
+  .feetable th {
+    padding: 15px;
+    text-align: left;
+    font-family: 'Source Sans Pro';
+    border: 1px solid rgba(60, 72, 82, 0.5);
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
+    text-transform: capitalize;
+    color: #3c4852;
+    border-radius: 8px;
+  }
+  .feetable td {
+    font-size: 16px;
+  }
+  /* faq ==================================================================================== */
+  .faq {
+    padding: 48px 16px 48px 16px;
+  }
+  .faqhead {
+    text-align: center;
+  }
+  .faqhead h3 {
+    font-size: 24px;
+    line-height: 38px;
+  }
+  .supportslider {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+  }
+  .similiarProgram_fsd {
+    padding: 48px 0px 48px 16px;
+    width: auto;
+  }
+  .tick {
+    width: 31px;
+    padding-top: 4px;
+    padding-left: 2px;
+  }
+  .slider_controls {
+    display: none;
+    padding-top: 20px;
+  }
+  .slider_controls2 {
+    display: none;
+    padding-top: 0px;
+  }
+  .enrollbtn_2 {
+    padding-top: 0px;
+    padding-bottom: 0px;
+  }
+}
+
+/* tab view ============================================================== */
+@media screen and (min-width: 501px) and (max-width: 900px) {
+  .mycontainer {
+    background-image: url(https://cdn.pegasus.imarticus.org/Fsd/HeaderBGTab.webp);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 104px 40px 48px 40px;
+  }
+  .section1 {
+    display: flex;
+    flex-direction: row;
+    gap: 49px;
+  }
+  .leftsec {
+    width: 377px;
+  }
+  .heading h1 {
+    font-size: 24px;
+  }
+  .subheading {
+    padding-top: 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  .text {
+    padding-top: 24px;
+  }
+  .text h3 {
+    font-size: 22px;
+  }
+  .animate {
+    padding-top: 8px;
+  }
+  .animate h3 {
+    font-size: 17px;
+  }
+  .job {
+    padding-top: 8px;
+  }
+  .job h3 {
+    font-size: 22px;
+  }
+
+  .btngrp {
+    padding-top: 40px;
+  }
+
+  .sec1_buttons {
+    width: 158px;
+  }
+
+  .sec1_buttons_applyNow {
+    margin-left: 10px;
+    width: 158px;
+  }
+  .rightsec {
+    padding-top: 6px;
+    width: 360px;
+  }
+
+  .points {
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+  }
+
+  .data img {
+    padding-right: 12px;
+  }
+  .data {
+    font-size: 22px;
+  }
+  .span_a {
+    font-size: 16px;
+    padding-left: 15px;
+  }
+  /* section2 */
+  .ourAlumni {
+    padding: 48px 40px 48px 40px;
+  }
+
+  .main {
+    padding: 48px 40px 48px 40px;
+  }
+  .sec4main {
+    padding: 48px 40px 48px 40px;
+  }
+  .box {
+    display: flex;
+    flex-direction: row;
+    gap: 46px;
+  }
+  .aboutbox {
+    width: 332px;
+  }
+  .mybox {
+    width: 332px;
+    padding-top: 32px;
+  }
+  .mybox2 {
+    width: 332px;
+    padding-top: 36px;
+  }
+  .curriculum {
+    padding: 48px 40px 0px 40px;
+  }
+  .sec5box {
+    width: auto;
+    display: flex;
+  }
+  .curriculumbox {
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+  }
+  .mysec5box {
+    text-align: none;
+  }
+  .projectsmain {
+    padding: 48px 40px 0px 40px;
+  }
+  .certificate {
+    padding: 48px 40px 48px 40px;
+  }
+  .certisections {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+  }
+  .curriculumsec {
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    padding-top: 0px;
+    justify-content: center;
+  }
+  .certileft {
+    width: auto;
+  }
+  .certiheading {
+    padding-top: 0px;
+  }
+  .partnerZoom_fsd {
+    position: absolute;
+    bottom: 2vh;
+    right: 27vw;
+  }
+  .enrollbtn_certi {
+    padding-top: 40px;
+  }
+  .leadermain {
+    padding: 48px 40px 48px 40px;
+  }
+  .learn {
+    padding: 48px 40px 48px 40px;
+  }
+  .careermain {
+    padding: 48px 0px 48px 40px;
+  }
+  .careersupportsec {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+  }
+  .careersupportheading {
+    padding-top: 0px;
+  }
+  .leftcareersupport {
+    width: auto;
+  }
+  .hackathonmain {
+    padding: 48px 40px 48px 40px;
+  }
+  .hackathonsections {
+    gap: 40px;
+    display: flex;
+    flex-direction: column;
+  }
+  .lefthackathon {
+    padding-top: 0px;
+  }
+  .hackathonwinners {
+    display: flex;
+    justify-content: center;
+  }
+  .faq {
+    padding: 48px 40px 48px 40px;
+  }
+  .feemain {
+    padding: 48px 40px 48px 40px;
+  }
+  .feesections {
+    width: auto;
+    height: auto;
+  }
+  .feeleft {
+    width: 344px;
+  }
+  .feeright {
+    width: 344px;
+  }
+  .fee {
+    padding: 90px 25px 32px 25px;
+  }
+  .feeheading h3 {
+    font-size: 24px;
+  }
+  .amount p {
+    font-size: 48px;
+  }
+  .enquirebtn {
+    padding-top: 48px;
+  }
+  .emi {
+    padding: 32px 25px 0px 25px;
+  }
+  .emiheading h3 {
+    font-size: 24px;
+  }
+  .emiamount p {
+    font-size: 48px;
+  }
+  .emiamount span {
+    font-size: 28px;
+  }
+  .feerightdetail {
+    padding: 32px 40px 35px 40px;
+  }
+  .feetable {
+    padding-top: 52px;
+  }
+  .feetable th {
+    font-size: 16px;
+    padding: 12px;
+    line-height: 1.5;
+  }
+  .feetable td {
+    font-size: 16px;
+    padding: 12px;
+  }
+  .accordionsection {
+    width: auto;
+    padding-top: 0px;
+  }
+  .contactform {
+    width: 330px;
+  }
+  .accordionfsd {
+    width: 330px;
+  }
+  .similiarProgram_fsd {
+    padding: 48px 0px 48px 40px;
+    width: auto;
+  }
+  .slider_controls {
+    display: none;
+    padding-top: 20px;
+  }
+  .slider_controls2 {
+    display: none;
+    padding-top: 0px;
+  }
+  .enrollbtn_2 {
+    padding-top: 0px;
+  }
+}
+
+/* ================================================================= */
+
+@media screen and (min-width: 901px) and (max-width: 1024px) {
+  .mycontainer {
+    background-image: url(https://cdn.pegasus.imarticus.org/Fsd/HeaderBGTab.webp);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 104px 40px 48px 40px;
+  }
+  .animate h3 {
+    font-size: 22px;
+  }
+  .ourAlumni {
+    padding: 48px 40px 48px 40px;
+  }
+  .main {
+    padding: 48px 40px 48px 40px;
+  }
+  .sec4main {
+    padding: 48px 40px 48px 40px;
+  }
+  .aboutbox {
+    width: 300px;
+  }
+  .mybox {
+    width: 300px;
+    padding-top: 32px;
+  }
+  .mybox2 {
+    width: 300px;
+    padding-top: 36px;
+  }
+  .curriculum {
+    padding: 48px 40px 0px 40px;
+  }
+  .sec5box {
+    width: 220px;
+  }
+  .projectsmain {
+    padding: 48px 40px 0px 40px;
+  }
+  .certificate {
+    padding: 48px 40px 48px 40px;
+  }
+  .partnerZoom_fsd {
+    position: absolute;
+    bottom: 2vh;
+    right: 2vw;
+  }
+  .leadermain {
+    padding: 48px 40px 48px 40px;
+  }
+  .learn {
+    padding: 48px 40px 48px 40px;
+  }
+  .studentdetail {
+    width: auto;
+  }
+  .careermain {
+    padding: 48px 80px 48px 80px;
+  }
+  .careersupportsec {
+    display: flex;
+    flex-direction: column;
+    gap: 70px;
+  }
+  .leftcareersupport {
+    width: auto;
+  }
+  .careersupportheading {
+    padding-top: 107px;
+  }
+  .multicard {
+    justify-content: center;
+  }
+  .hackathonmain {
+    padding: 48px 40px 48px 40px;
+  }
+  .hackathonsections {
+    gap: 0px;
+  }
+  .feemain {
+    padding: 48px 40px 48px 40px;
+  }
+  .feesections {
+    width: auto;
+  }
+  .feeleft {
+    width: 472px;
+  }
+  .feeright {
+    width: 472px;
+  }
+  .fee {
+    padding: 64px 75px 83px 75px;
+  }
+  .emi {
+    padding: 83px 65px 0px 65px;
+  }
+  .faq {
+    padding: 48px 40px 48px 40px;
+  }
+  .accordionsection {
+    padding-top: 0px;
+  }
+  .similiarProgram_fsd {
+    padding: 48px 0px 48px 40px;
+    width: auto;
+  }
+  .feetable {
+    padding-top: 110px;
+  }
+  .feetable th {
+    line-height: 1.5;
+  }
+  .slider_controls {
+    display: block;
+    padding-top: 20px;
+  }
+  .slider_controls2 {
+    display: block;
+    padding-top: 0px;
+  }
+}
+
+/* =================================================================== */
+@media all and (min-width: 480px) {
+  .desktop {
+    display: block;
+  }
+  .mobile {
+    display: none;
+  }
+}
+@media all and (max-width: 479px) {
+  .desktop {
+    display: none;
+  }
+  .mobile {
+    display: block;
+  }
+}
+
+@media screen and (max-width: 357px) {
+  .btngrp {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding-top: 20px;
+  }
+  .sec1_buttons_applyNow {
+    margin-left: 0px;
+  }
+  .animate h3 {
+    font-size: 14px;
+  }
+}
+
+@media screen and (min-width: 1025px) and (max-width: 1399px) {
+  .section1 {
+    gap: 38px;
+  }
+  .rightsec {
+    width: 464px;
+    height: 429px;
+  }
+  .animate h3 {
+    font-size: 26px;
+  }
+  .similiarProgram_fsd {
+    padding: 80px 0px 80px 135px;
+    width: auto;
+  }
+  .feeleft {
+    width: 50%;
+  }
+  .fee {
+    padding: 64px 0px 64px 0px;
+  }
+  .amount {
+    width: auto;
+  }
+  .emi {
+    padding: 83px 0px 0px 0px;
+  }
+  .emiamount {
+    width: auto;
+  }
+  .feeright {
+    width: 50%;
+  }
+  .feetable {
+    padding-top: 110px;
+  }
+  .feetable th {
+    line-height: 1.5;
+  }
+}
+
+@media all and (min-width: 901px) {
+  .desktop1 {
+    display: block;
+  }
+  .mobile1 {
+    display: none;
+  }
+  .tab1 {
+    display: none;
+  }
+}
+@media all and (max-width: 479px) {
+  .desktop1 {
+    display: none;
+  }
+  .mobile1 {
+    display: block;
+  }
+  .tab1 {
+    display: none;
+  }
+}
+@media all and (min-width: 480px) and (max-width: 900px) {
+  .desktop1 {
+    display: none;
+  }
+  .mobile1 {
+    display: none;
+  }
+  .tab1 {
+    display: block;
+  }
+}

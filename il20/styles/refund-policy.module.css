@@ -1,0 +1,40 @@
+.main_container {
+  padding: 120px 72px 72px 72px;
+}
+.main_heading {
+  color: rgba(0, 0, 0, 0.85);
+  font-weight: 700;
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-size: 32px;
+  line-height: 36px;
+}
+.main_para {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  color: #3c4852;
+}
+.main_heading1 {
+  color: rgba(0, 0, 0, 0.85);
+  font-weight: 600;
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-size: 24px;
+  line-height: 30px;
+}
+.main_container_div {
+  margin: 24px 0px 24px 0px;
+}
+@media screen and (max-width: 1150px) {
+  .main_container {
+    padding: 96px 48px 48px 48px;
+  }
+}
+@media screen and (max-width: 600px) {
+  .main_container {
+    padding: 80px 16px 16px 16px;
+  }
+}

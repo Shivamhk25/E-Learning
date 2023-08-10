@@ -1,0 +1,932 @@
+.MainHeader1 {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 50px;
+  text-transform: capitalize;
+  color: #3c4852;
+}
+.MainDivWeb {
+  position: relative;
+  margin-top: 64px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 716px;
+}
+.MainDiv1 {
+  padding: 105px 0px 0px 135px;
+  width: 50%;
+}
+.MainDiv2 {
+  position: absolute;
+  top: 0px;
+  right: 135px;
+}
+.MainDiv3 {
+  position: absolute;
+  top: 477px;
+  right: 0px;
+  width: 467px;
+  height: 43px;
+  background: linear-gradient(180deg, #0d736d 0%, #006f7e 100%);
+  display: flex;
+  align-items: center;
+  border-radius: 8px 0px 0px 8px;
+}
+
+.MainDiv4 {
+  position: absolute;
+  top: 596px;
+  right: 0px;
+  border-top: 120px solid #006f7e;
+  border-left: 60px solid transparent;
+  /* bottom: 0px; */
+}
+.MainDiv4Big {
+  padding-right: 116px;
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  top: -160px;
+}
+.MainDiv4Small {
+  display: flex;
+  flex-direction: column;
+  margin-left: 24px;
+  justify-content: center;
+  align-items: center;
+}
+.MainspeakerCard {
+  width: 282px;
+  display: flex;
+  background: rgba(245, 245, 245);
+  flex-direction: column;
+  border-radius: 0px 0px 8px 8px;
+}
+.MainHeader2 {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 48px;
+  text-transform: capitalize;
+  color: #3c4852;
+  margin-top: 24px;
+}
+.MainDiv21 {
+  margin-top: 16px;
+}
+.MainInteractHeader {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 34px;
+  text-align: right;
+  text-transform: capitalize;
+  color: #ffffff;
+  margin-left: 24px;
+  margin-bottom: 0px;
+}
+.MainHeader3 {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 30px;
+  display: flex;
+  align-items: center;
+  text-transform: capitalize;
+  color: #3c4852;
+}
+.aboutcontainerdiv1 {
+  margin: 80px 0px 0px 135px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.aboutcontainerdiv4 {
+  margin: 80px 135px 0px 135px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.aboutcontainerdiv2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 45%;
+  margin-right: 20px;
+}
+.beocomecontainerdiv2 {
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+  justify-content: center;
+  margin: 0px 0px 0px 80px;
+}
+.partnerbutton {
+  width: 190px;
+  height: 56px;
+  background: #ffffff;
+  border-radius: 8px;
+  border: 1px solid white;
+}
+.partnerbutton1 {
+  width: 190px;
+  height: 56px;
+  background: #ffffff;
+  border-radius: 8px;
+  border: 1px solid white;
+}
+.aboutHeader {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 40px;
+  display: flex;
+  align-items: center;
+  text-transform: capitalize;
+  color: #3c4852;
+}
+.beocomecontainerdiv2Main {
+  margin-bottom: -12px;
+}
+.aboutpara {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  color: #3c4852;
+  margin-top: 8px;
+}
+.aboutparaPop {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  text-align: center;
+  color: #ffffff;
+}
+.becomepara {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  color: #3c4852;
+  margin-left: 16px;
+}
+.aboutImageDiv {
+  /* width: 585px;
+  height: 328px;*/
+  position: relative;
+}
+.aboutImageDivSec1 {
+  padding-top: 48px;
+}
+.aboutImageDivSec {
+  border-radius: 232px 0px 0px 232px;
+  background: #097273;
+  width: 588px;
+  height: 560px;
+}
+.cross {
+  width: 32px;
+  height: 32px;
+}
+.becomePop {
+  padding: 48px 64px 48px 64px;
+}
+.BecomePopMain {
+  margin: 0px 135px 0px 135px;
+  position: relative;
+  opacity: 0.96;
+}
+.becomeImageDiv {
+  width: 585px;
+  height: 560px;
+  position: relative;
+}
+.speakerCardPop {
+  padding: 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 330px;
+}
+.aboutEnquire {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 64px;
+}
+.aboutEnquireNew {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  margin-top: 64px;
+}
+.aboutEnquire2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 64px;
+  padding-bottom: 80px;
+}
+.aboutEnquire3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 64px;
+}
+.aboutEnquire4 {
+  margin-top: 116px;
+}
+.aboutEnquire1 {
+  margin-top: 48px;
+}
+.becomeMain {
+  display: flex;
+  flex-direction: row;
+  margin-top: 24px;
+}
+.speakerMain {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 32px;
+}
+.MainDivTab,
+.MainDivMobile,
+.aboutparaMobile {
+  display: none;
+}
+.speakerMain1 {
+  background: rgba(29, 74, 96, 0.5);
+  width: 360px;
+  height: 333px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.speakerCard {
+  width: 272px;
+  height: 301px;
+  display: flex;
+  position: absolute;
+  background: rgba(245, 245, 245, 1);
+  flex-direction: column;
+  border-radius: 0px 0px 8px 8px;
+}
+.MainspeakerCardDiv {
+  width: 123px;
+  height: 28px;
+  background: linear-gradient(180deg, #0d736d 0%, #006f7e 100%);
+  border-radius: 21px;
+  margin-top: 16px;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-content: center;
+  left: -26px;
+}
+.MainspeakerCardDiv2 {
+  margin: 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+.MainspeakerCardDiv1 {
+  display: flex;
+  flex-direction: column;
+  margin-top: 4px;
+}
+.speakerCardDiv {
+  width: 152px;
+  height: 42px;
+  background: #1d4a60;
+  border-radius: 21px;
+  margin-top: 16px;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  left: -26px;
+}
+.speakerImageDiv {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 10px;
+}
+.speakerMainDiv {
+  margin: 80px 135px 80px 135px;
+}
+.speakerName {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 25px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  text-align: center;
+  color: #000000;
+  margin-top: 12px;
+  /* width: 100%; */
+}
+.careerHeader {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 40px;
+  display: flex;
+  align-items: center;
+  text-transform: capitalize;
+  color: #3c4852;
+  margin-bottom: 40px;
+}
+.speakerBackground {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 23px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  text-align: center;
+  color: #000000;
+  margin: 10px 23px 0px 23px;
+}
+.speakerNameBorder {
+  width: 176px;
+  border: 1px solid #3c4852;
+}
+.speakerHead {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 23px;
+  line-height: 29px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  text-transform: uppercase;
+  color: #ffffff;
+  margin-top: 8px;
+}
+.MainspeakerHead {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 23px;
+  text-transform: uppercase;
+  color: #ffffff;
+  margin-top: 2px;
+}
+.MainspeakerHead1 {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  display: flex;
+  align-items: center;
+  color: #ffffff;
+}
+.speakerMain2 {
+  width: 54%;
+  margin-top: -16px;
+  margin-left: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.careerMain {
+  padding: 80px 0px 80px 135px;
+}
+.coursepara {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  color: #3c4852;
+  margin-top: 16px;
+}
+.freeCardMainDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 0px 135px 0px 135px;
+}
+.MainDivOuter {
+  width: '100%';
+}
+.courseCard {
+  margin-top: 48px;
+  margin-left: 135px;
+}
+.freeCardMain {
+  width: 300px;
+  margin-top: 30px;
+  /* margin-left: 30px; */
+}
+.freeCard {
+  width: 270px;
+  height: 432px;
+  background: #ffffff;
+  border: 1px solid rgba(60, 72, 82, 0.3);
+  border-radius: 8px 8px 0px 0px;
+  position: relative;
+}
+.freeCardImageDiv {
+  width: 270px;
+  height: 174px;
+  position: relative;
+  border: 8px 8px 0px 0px;
+}
+.freeCardDiv {
+  margin: 16px 16px 0px 16px;
+}
+.freeCardHeading {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 24px;
+  text-transform: uppercase;
+  color: #3c4852;
+}
+.freeCardPara {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  color: #3c4852;
+  mix-blend-mode: normal;
+  opacity: 0.75;
+}
+.freeCardBorder {
+  border: 1px solid rgba(60, 72, 82, 0.5);
+}
+.freeCardFooter1 {
+  width: 88%;
+  position: absolute;
+  bottom: 8px;
+}
+.freeCardFooter {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 8px;
+}
+.freeCardFooterLogo {
+  width: 95px;
+  height: 18px;
+  position: relative;
+}
+.freeMainDiv1 {
+  padding: 80px 135px 80px 135px;
+}
+.careerArrow {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+.excelMainDiv {
+  padding: 80px 0px 0px 135px;
+}
+.excelMainDiv1 {
+  padding: 56px 0px 0px 135px;
+}
+.ReadMore {
+  margin-top: 64px;
+  padding-bottom: 80px;
+}
+.excelMainHeader {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 56px;
+  text-transform: capitalize;
+  color: #3c4852;
+}
+.excelButton {
+  width: 258px;
+  height: 56px;
+  background: #035642;
+  border-radius: 8px;
+  border: 1px solid white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.aboutImageTab,
+.aboutImageMobile,
+.becomeImageTab,
+.FreeTabView,
+.careerArrow1 {
+  display: none;
+}
+@media screen and (max-width: 1350px) {
+  .aboutcontainerdiv2 {
+    width: 35%;
+  }
+}
+/* @media screen and (min-width:1900px) and (max-width: 8000px) {
+  .TvView {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .MainDiv{ 
+    width: 60%;
+  }
+  .MainDivOuter{
+    width: 65%;
+  }
+  .freeMainDiv1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+  .excelMainDiv1{
+    padding: 0px;
+    padding-top: 60px;
+  }
+  .excelMainDiv1 > div > div  > div{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+  .speakerMainDiv{
+    margin-bottom: 0px;
+  }
+} */
+@media screen and (max-width: 1150px) {
+  .MainDivTab {
+    display: block;
+    position: relative;
+    margin-top: 64px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 720px;
+  }
+  .MainDivWeb {
+    display: none;
+  }
+  .MainDiv1 {
+    padding: 80px 0px 0px 40px;
+    width: 55%;
+  }
+  .MainHeader1 {
+    width: 80%;
+  }
+  .aboutEnquire4 {
+    margin-top: 64px;
+  }
+  .MainDiv3 {
+    width: 400px;
+  }
+  .MainDiv4Big {
+    padding-right: 40px;
+  }
+  .MainDiv2 {
+    right: 40px;
+  }
+  .aboutcontainerdiv1 {
+    margin: 64px 40px 0px 40px;
+  }
+  .aboutcontainerdiv4 {
+    margin: 64px 40px 0px 40px;
+  }
+  .MainHeader1 {
+    line-height: 28px;
+  }
+  .aboutImageWeb,
+  .freeCardMainDiv {
+    display: none;
+  }
+  .aboutImageTab {
+    display: block;
+  }
+  .FreeTabView {
+    display: block;
+    padding: 0px 0px 0px 40px;
+  }
+  .BecomePopMain {
+    margin: 0px 48px 0px 48px;
+    position: relative;
+    opacity: 0.96;
+  }
+  .aboutcontainerdiv2 {
+    width: 43%;
+    justify-content: space-between;
+  }
+  .aboutEnquire {
+    margin-top: 40px;
+  }
+  .aboutEnquireNew {
+    margin-top: 40px;
+  }
+  .aboutEnquire2 {
+    margin-top: 40px;
+    padding-bottom: 80px;
+  }
+  .aboutEnquire3 {
+    margin-top: 40px;
+    padding-bottom: 0px;
+  }
+  .speakerMainDiv {
+    margin: 80px 40px 80px 40px;
+  }
+  .speakerMain2 {
+    margin-left: 22px;
+  }
+  .speakerMain1 {
+    height: 400px;
+  }
+  .careerMain {
+    padding: 64px 0px 64px 40px;
+  }
+  .courseCard {
+    margin-left: 40px;
+    margin-top: 32px;
+  }
+  .freeMainDiv1 {
+    padding: 64px 40px 64px 40px;
+  }
+  .careerArrow1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+  }
+  .excelMainDiv {
+    padding: 64px 0px 0px 40px;
+  }
+  .excelMainDiv1 {
+    padding: 32px 0px 0px 40px;
+  }
+  .ReadMore {
+    margin-top: 40px;
+    padding-bottom: 64px;
+  }
+  .MainDiv21 {
+    margin-top: 32px;
+  }
+  .becomePop {
+    padding: 48px 40px 48px 40px;
+  }
+}
+@media screen and (max-width: 1000px) {
+  .becomeImageTab {
+    display: block;
+  }
+  .becomeImageWeb {
+    display: none;
+  }
+  .becomeImageDiv {
+    width: 328px;
+    height: 518px;
+  }
+  .beocomecontainerdiv2 {
+    margin: 0px 0px 0px 32px;
+  }
+}
+@media screen and (max-width: 800px) {
+  .beocomecontainerdiv2 {
+    margin: 0px 0px 0px 16px;
+  }
+}
+@media screen and (max-width: 700px) {
+  .MainDivMobile {
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    padding: 0px 16px 48px 16px;
+    margin-top: 64px;
+  }
+  .MainDivTab {
+    display: none;
+  }
+
+  .MainDiv1 {
+    padding: 40px 0px 0px 0px;
+    width: 90%;
+  }
+  .MainDiv2 {
+    position: static;
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-left: 26px;
+  }
+  .MainDiv3 {
+    position: static;
+    width: 100%;
+    height: 78px;
+    margin: 32px 0px 0px 0px;
+    border-radius: 8px;
+  }
+  .MainDiv4 {
+    position: static;
+    margin-top: 32px;
+    border: 0px;
+  }
+  .aboutEnquire4 {
+    margin-top: 40px;
+  }
+
+  .MainDiv4Big {
+    padding-right: 0px;
+    position: static;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background: linear-gradient(180deg, #0d736d 0%, #006f7e 100%);
+    border-radius: 8px;
+    padding-bottom: 8px;
+  }
+  .MainDiv4Small {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 16px;
+    margin-left: 0px;
+  }
+  .MainspeakerHead1 {
+    font-size: 16px;
+  }
+}
+@media screen and (max-width: 600px) {
+  .aboutEnquireNew {
+    justify-content: center;
+  }
+  .viewMore {
+    display: none;
+  }
+  .aboutcontainerdiv1 {
+    margin: 64px 0px 0px 0px;
+    flex-direction: column-reverse;
+  }
+  .aboutcontainerdiv4 {
+    margin: 48px 16px 0px 16px;
+    flex-direction: column-reverse;
+  }
+  .aboutImageTab,
+  .becomeImageTab {
+    display: none;
+  }
+  .aboutImageMobile {
+    display: block;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+  .aboutImageDiv {
+    width: 100%;
+    height: 300px;
+    margin: 0px 16px 0px 16px;
+  }
+  .aboutcontainerdiv2 {
+    width: 100%;
+  }
+  .becomeImageDiv {
+    width: 100%;
+    height: 242px;
+  }
+  .beocomecontainerdiv2 {
+    width: 100%;
+    margin: 0px;
+  }
+  .becomeMain {
+    margin: 16px 16px 0px 16px;
+  }
+  .becomeMainIcon {
+    margin-top: 24px;
+  }
+  .aboutEnquire1 {
+    margin: 40px 16px 32px 16px;
+  }
+  .speakerMainDiv {
+    margin: 48px 0px 48px 0px;
+  }
+  .speakerMain {
+    flex-direction: column;
+  }
+  .aboutHeader {
+    margin: 32px 16px 0px 16px;
+  }
+  .coursepara {
+    margin: 16px 16px 0px 16px;
+  }
+  .speakerMain1 {
+    height: 384px;
+    width: 100%;
+  }
+  .speakerMain2 {
+    margin: 0px;
+    width: 100%;
+  }
+  .careerMain {
+    padding: 48px 16px 48px 16px;
+  }
+  .careerHeader {
+    margin-bottom: 32px;
+  }
+  .careerArrow,
+  .careerArrow1,
+  .aboutpara {
+    display: none;
+  }
+  .courseCard {
+    margin-left: 16px;
+  }
+  .aboutEnquire2 {
+    padding-bottom: 48px;
+  }
+  .aboutEnquire3 {
+    margin-bottom: 0px;
+  }
+  .freeMainDiv1 {
+    padding: 48px 0px 48px 0px;
+  }
+  .FreeTabView {
+    padding: 0px 0px 0px 16px;
+  }
+  .excelMainDiv {
+    padding: 48px 16px 0px 0px;
+  }
+  .excelMainDiv1 {
+    padding: 24px 0px 0px 16px;
+  }
+  .ReadMore {
+    margin-top: 40px;
+    padding-bottom: 48px;
+  }
+  .excelMainHeader {
+    margin-left: 16px;
+    font-size: 28px;
+    line-height: 34px;
+  }
+  .MainHeader1 {
+    font-size: 18px;
+    line-height: 24px;
+  }
+  .MainHeader2 {
+    font-size: 34px;
+    line-height: 34px;
+  }
+  .MainHeader3 {
+    font-size: 18px;
+    line-height: 24px;
+  }
+  .aboutHeader {
+    font-size: 28px;
+    line-height: 34px;
+  }
+  .MainHeader2 {
+    width: 100%;
+  }
+  .MainspeakerCard {
+    border-radius: 8px;
+  }
+  .partnerbutton1 {
+    width: 100%;
+  }
+  .aboutparaMobile {
+    display: block;
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color: #3c4852;
+    margin: 8px 16px 0px 16px;
+  }
+}

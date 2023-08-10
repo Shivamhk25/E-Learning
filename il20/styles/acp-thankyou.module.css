@@ -1,0 +1,199 @@
+.maincontainer {
+  background-image: url(https://cdn.pegasus.imarticus.org/Acp-Thankyou/acpthanku.webp);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  height: auto;
+  padding: 163px 236px 104px 236px;
+}
+
+.containerr {
+  width: 968px;
+  height: 353px;
+  background: #ffffff;
+  opacity: 0.95;
+  border-radius: 8px;
+}
+.heading {
+  padding: 64px 112px 48px 110px;
+  display: grid;
+  justify-content: center;
+}
+.heading h1 {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 32px;
+
+  /* or 67% */
+  display: flex;
+  align-items: center;
+  text-align: center;
+  text-transform: capitalize;
+
+  color: #006f7e;
+}
+.para {
+  padding-bottom: 24px;
+  display: flex;
+  justify-content: center;
+  padding-top: 48px;
+}
+.para p {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+
+  /* or 133% */
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #006f7e;
+}
+
+.icons {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  justify-content: center;
+}
+
+@media screen and (max-width: 600px) {
+  .maincontainer {
+    background-image: url(https://cdn.pegasus.imarticus.org/Acp-Thankyou/acpthanku.webp);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    height: auto;
+    padding: 100px 16px 40px 16px;
+  }
+
+  .containerr {
+    width: auto;
+    height: auto;
+    background: #ffffff;
+    opacity: 0.95;
+    border-radius: 8px;
+  }
+  .heading {
+    padding: 34px 34px 34px 34px;
+    display: grid;
+    justify-content: center;
+  }
+  .heading h1 {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 26px;
+
+    /* or 67% */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: capitalize;
+
+    color: #006f7e;
+  }
+  .para {
+    padding-bottom: 24px;
+    display: flex;
+    justify-content: center;
+    padding-top: 24px;
+  }
+  .para p {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+
+    /* or 133% */
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #006f7e;
+  }
+
+  .icons {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    justify-content: center;
+    padding-bottom: 10px;
+  }
+}
+@media screen and (min-width: 601px) and (max-width: 1024px) {
+  .maincontainer {
+    background-image: url(https://cdn.pegasus.imarticus.org/Acp-Thankyou/acpthanku.webp);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    height: auto;
+    padding: 100px 64px 40px 64px;
+  }
+
+  .containerr {
+    width: auto;
+    height: auto;
+    background: #ffffff;
+    opacity: 0.95;
+    border-radius: 8px;
+  }
+  .heading {
+    padding: 34px 34px 34px 34px;
+    display: grid;
+    justify-content: center;
+  }
+  .heading h1 {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 26px;
+
+    /* or 67% */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: capitalize;
+
+    color: #006f7e;
+  }
+  .para {
+    padding-bottom: 24px;
+    display: flex;
+    justify-content: center;
+    padding-top: 24px;
+  }
+  .para p {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+
+    /* or 133% */
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #006f7e;
+  }
+
+  .icons {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    justify-content: center;
+    padding-bottom: 10px;
+  }
+}

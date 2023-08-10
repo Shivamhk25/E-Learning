@@ -1,0 +1,231 @@
+.certiCourses {
+  display: flex;
+  flex-direction: row;
+  padding: 0;
+  margin: 0;
+  transition: background-image 0.5s ease-in-out;
+}
+
+@media (max-width: 768px) {
+  .certiCourses {
+    overflow-x: auto;
+  }
+  .certiCourses .feature {
+    min-width: 320px;
+  }
+}
+
+/* @media only screen and (min-device-width: 768px) and (max-device-width: 1023px) {  
+    .web-view{
+      display: none;
+    }
+  } */
+
+.certi-mobile-1 {
+  height: 200px;
+  display: flex;
+  align-items: end;
+  padding-left: 16px;
+  padding-right: 16px;
+  position: relative;
+}
+
+@media screen and (max-width: 1023px) {
+  .web-view {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 1023px) {
+  .mobile-tab-view {
+    display: none;
+  }
+}
+
+.certiCourses-heading {
+  position: absolute;
+  margin: 75px;
+  font-size: 56px;
+  font-weight: bold;
+  font-style: normal;
+  font-family: Source Sans Pro;
+  color: #fff;
+  text-transform: uppercase;
+  margin-top: 110px;
+}
+
+.course_background {
+  display: flex;
+  flex-direction: row;
+  background-size: 100%;
+  background-size: cover;
+  background-position-y: center;
+  height: 800px;
+}
+
+.course-images-div1 {
+  width: 50%;
+  background-image: url(https://cdn.pegasus.imarticus.org/imarticus_2/certificationheader.webp);
+  background-position-x: center;
+  transition: width 1s;
+  position: relative;
+}
+
+.course-images-div2 {
+  background-image: url(https://cdn.pegasus.imarticus.org/imarticus_2/jobassuranceheader.jpg);
+  width: 50%;
+  transition: width 1s;
+  background-position-x: center;
+  position: relative;
+}
+
+.course-images-div3 {
+  background-image: url(https://cdn.pegasus.imarticus.org/imarticus_2/universityheader.webp);
+  width: 33.3%;
+  transition: width 1s;
+  background-position-x: center;
+  position: relative;
+}
+
+.main_heading {
+  font-size: 34px;
+  font-weight: bold;
+  color: #fff;
+  text-transform: uppercase;
+  margin-left: 40px;
+  position: absolute;
+  bottom: 213px;
+  transition: all 1s;
+  text-decoration: none;
+}
+
+.course-images-div1:hover {
+  width: 60%;
+  background-image: url('https://cdn.pegasus.imarticus.org/imarticus_2/certificationcourse.jpg')
+    rgba(18, 18, 18, 0.35);
+  background-position-x: center;
+}
+
+.course-images-div2:hover {
+  width: 60%;
+  background-image: rgb(18, 18, 18, 0.35),
+    url('https://cdn.pegasus.imarticus.org/imarticus_2/certificationcourse.jpg');
+  background-position-x: center;
+}
+
+.course-images-div3:hover {
+  width: 60%;
+  background-image: url('https://cdn.pegasus.imarticus.org/imarticus_2/universityprogram.jpg'),
+    rgba(18, 18, 18, 0.35);
+  background-position-x: center;
+}
+
+.course_descr {
+  font-size: 24px;
+  line-height: 32px;
+  color: #fff;
+  margin-bottom: 40px;
+  text-decoration: none;
+}
+
+.explore_tag {
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 24px;
+  color: #fff;
+  margin-right: 12px;
+}
+
+.explore_div {
+  display: flex;
+  align-items: center;
+  padding-top: 40px;
+}
+
+.course_desc_div {
+  position: absolute;
+  bottom: 62px;
+  margin-left: 40px;
+}
+.course_descr {
+  opacity: 0;
+  transition: all 1s;
+}
+
+.explore_tag {
+  opacity: 0;
+}
+
+.course-images-div2:hover .course_descr {
+  opacity: 1;
+  width: 316px;
+}
+.course-images-div2:hover .explore_tag {
+  opacity: 1;
+}
+
+.course-images-div1:hover .explore_tag {
+  opacity: 1;
+}
+.course-images-div1:hover .course_descr {
+  opacity: 1;
+  width: 316px;
+}
+
+.course-images-div3:hover .explore_tag {
+  opacity: 1;
+}
+.course-images-div3:hover .course_descr {
+  opacity: 1;
+  width: 316px;
+}
+
+.course-images-div1:hover .main_heading {
+  font-size: 56px;
+  transition: all 1s;
+  transform: translateY(-200px);
+}
+.course-images-div2:hover .main_heading {
+  font-size: 56px;
+  transition: all 1s;
+  transform: translateY(-200px);
+}
+.course-images-div3:hover .main_heading {
+  font-size: 56px;
+  transition: all 1s;
+  transform: translateY(-200px);
+}
+
+.mobile_course_div {
+  display: flex;
+  align-items: end;
+  margin-bottom: 24px;
+  margin-top: auto;
+}
+
+.mobile_course_div h1 {
+  font-size: 28px;
+  color: #fff;
+  font-weight: bold;
+  margin-right: 16px;
+  width: 226px;
+  margin-block-start: 0em;
+  margin-block-end: 0em;
+}
+
+.page_route {
+  display: flex;
+  flex-direction: row;
+  text-decoration: none;
+}
+
+/* .arrow_link{
+    position:absolute;
+    right: 20px;
+  } */
+
+@media screen and (max-width: 450px) {
+  .certi_text_with {
+    width: 78%;
+  }
+}

@@ -1,0 +1,2377 @@
+.sec_1 {
+  background-image: url(https://cdn.pegasus.imarticus.org/imarticus_2/aboutus/Group2829.webp);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  padding-left: 136px;
+  padding-right: 135px;
+}
+.sec_1 h1 {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 57px;
+  line-height: 73px;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+.sec_1 h1 span {
+  font-size: 87px;
+}
+.sec1_para {
+  width: 701.3px;
+}
+.sec1_para p {
+  padding-top: 24px;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 25px;
+}
+
+.aboutswipermobile {
+  margin-top: 50px;
+}
+
+@media screen and (max-width: 600px) {
+  .sec_1 {
+    background-image: url(https://cdn.pegasus.imarticus.org/imarticus_2/aboutus/Group2841.webp);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    padding-left: 0.8rem;
+    text-align: center;
+    padding-right: 1rem;
+    color: white;
+  }
+  .sec_1 h1 {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 56px;
+  }
+  .sec_1 h1 span {
+    font-size: 60px;
+  }
+  .sec1_para {
+    width: 100%;
+  }
+  .sec1_para p {
+    padding-top: 32px;
+    font-weight: 400;
+    font-size: 18.7849px;
+    line-height: 25px;
+  }
+}
+
+.learnmore {
+  padding-top: 40px;
+}
+.sec1img {
+  height: 75px;
+}
+@media screen and (max-width: 600px) {
+  .learnmore {
+    padding-bottom: 1rem;
+    padding-top: 46px;
+  }
+  .sec1img {
+    width: 39.71px;
+    height: auto;
+  }
+}
+.sec_1_btn {
+  background-color: #ffffff;
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  border: none;
+  color: black;
+  padding: 15px 40px;
+  text-align: center;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 18px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 10px;
+}
+
+.row {
+  padding-top: 40px;
+  padding-bottom: 48px;
+}
+.row::after {
+  content: '';
+  clear: both;
+  display: table;
+}
+
+/* [class*='col_'] {
+  float: left;
+  text-align: center;
+  padding: 15px;
+  font-weight: bold;
+} */
+
+.col_1 {
+  width: 20%;
+  float: left;
+  text-align: center;
+}
+.col_1 h2 {
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 75px;
+  align-items: center;
+  text-align: center;
+  color: #ffffff;
+  margin-bottom: 0px;
+}
+.col_1 p {
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 25px;
+
+  /* or 139% */
+  text-align: center;
+  text-transform: uppercase;
+
+  color: #ffffff;
+}
+
+@media screen and (max-width: 600px) {
+  .col_1 {
+    width: 30%;
+    font-size: 22px;
+    font-weight: 700;
+    margin-left: 0.5rem;
+    padding-top: 10px;
+  }
+  .col_1 h2 {
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 60px;
+    align-items: center;
+    text-align: center;
+    color: #ffffff;
+    margin-bottom: 0px;
+  }
+  .border {
+    border-right: 1px solid white;
+    border-right-width: thin;
+  }
+  .col_1 p {
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #ffffff;
+  }
+  .row {
+    padding-top: 54px;
+    padding-bottom: 80px;
+    text-align: center;
+    margin: 0px 0px;
+  }
+}
+
+/* section two */
+
+.sec_two_new {
+  background-image: url(https://cdn.pegasus.imarticus.org/imarticus_2/aboutus/Rectangle898or.webp);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  padding-left: 135px;
+  padding-right: 136px;
+  padding-bottom: 128px;
+}
+.rowsec2 {
+  margin: 0 0;
+}
+.rowsec2::after {
+  content: '';
+  clear: both;
+  display: table;
+}
+.col_2new {
+  width: 50%;
+  float: left;
+}
+.col_2new h2 {
+  padding-top: 121px;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 66px;
+  text-transform: uppercase;
+  color: #3c4852;
+}
+.col_2new p {
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 32px;
+  color: #3c4852;
+  width: 447px;
+  padding-top: 64px;
+}
+.boxx {
+  padding-top: 80px;
+}
+.col2box {
+  background: #01779f;
+  border-radius: 8px;
+  position: absolute;
+  width: 510px;
+  height: 362px;
+}
+.col2box2 {
+  top: 24px;
+  left: 28px;
+  position: relative;
+  background-image: url(https://cdn.pegasus.imarticus.org/imarticus_2/aboutus/Mask_group.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 8px;
+  width: 585px;
+  height: 362px;
+}
+.playbtn {
+  border-radius: 50%;
+  margin-left: 206px;
+  width: 174px;
+  height: 174px;
+  margin-top: 94px;
+}
+
+@media screen and (max-width: 600px) {
+  .sec_two_new {
+    background-image: url(https://cdn.pegasus.imarticus.org/imarticus_2/aboutus/Rectangle_898or.webp);
+    background-position: center;
+    background-size: cover;
+    height: 435px;
+    background-repeat: no-repeat;
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+  .rowsec2 {
+    margin: 0 0;
+  }
+  .col_2new {
+    width: 100%;
+    display: block;
+  }
+  .col_2new h2 {
+    padding-top: 48px;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+    text-transform: uppercase;
+    color: #3c4852;
+  }
+  .col_2new p {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color: #3c4852;
+    padding-top: 40px;
+  }
+  .boxx {
+    padding-top: 40px;
+    padding-bottom: 96px;
+  }
+  .col2box {
+    background: #01779f;
+    border-radius: 8px;
+    position: absolute;
+    width: 288px;
+    height: 231px;
+    left: 41px;
+  }
+  .col2box2 {
+    top: 16px;
+    left: 11px;
+    position: relative;
+    background-image: url(https://cdn.pegasus.imarticus.org/imarticus_2/aboutus/Mask_group.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 8px;
+    width: 282px;
+    height: 231px;
+  }
+  .playbtn {
+    border-radius: 50%;
+    margin-left: 109px;
+    width: 69.24px;
+    height: 69.24px;
+    margin-top: 81px;
+  }
+}
+/* ====================================================================================== */
+
+.sec2b {
+  padding-top: 104px;
+  padding-left: 136px;
+  padding-right: 135px;
+  padding-bottom: 104px;
+}
+.card {
+  color: #3c4852;
+}
+.card h3 {
+  font-weight: 700;
+  font-size: 34px;
+  text-transform: capitalize;
+  line-height: 40px;
+  padding-top: 107px;
+}
+.sub_headind {
+  padding-top: 12px;
+}
+.sub_headind p {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  color: #3c4852;
+  width: 434px;
+}
+
+/* Float four columns side by side */
+.columna {
+  float: left;
+  width: 40%;
+}
+.column {
+  float: left;
+  width: 30%;
+  padding: 0 0px;
+}
+
+/* Remove extra left and right margins, due to padding */
+.row3 {
+  margin: 0 -5px;
+}
+
+/* Clear floats after the columns */
+.row3:after {
+  content: '';
+  display: table;
+  clear: both;
+}
+/* Responsive columns */
+@media screen and (max-width: 600px) {
+  .sec2b {
+    background-color: #ececec;
+    padding-top: 32px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-bottom: 48px;
+  }
+  .row3 {
+    margin: 0 0px;
+  }
+  .columna {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  .column {
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+  }
+  .card {
+    color: #3c4852;
+  }
+  .card h3 {
+    font-weight: 700;
+    font-size: 28px;
+    text-transform: capitalize;
+    line-height: 28px;
+    padding-top: 32px;
+  }
+  .sub_headind {
+    padding-top: 24px;
+  }
+  .sub_headind p {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color: #3c4852;
+    width: 328px;
+  }
+}
+
+/* Style the counter cards */
+
+.sectioncard {
+  padding-top: 24px;
+  width: 270px;
+  height: 412px;
+  background: rgba(230, 241, 245, 0.46);
+  border-radius: 8px;
+}
+.cardimage {
+  border-radius: 50%;
+  background: #006f7e;
+  margin-left: 91px;
+  width: 88px;
+  height: 88px;
+}
+.cardimg {
+  padding-top: 24px;
+  padding-left: 24px;
+}
+.cardheading {
+  padding-top: 18px;
+  font-weight: 600;
+  padding-left: 58px;
+  font-size: 24px;
+  line-height: 34px;
+  text-transform: capitalize;
+  color: #3c4852;
+}
+.carddata {
+  padding-left: 14px;
+  padding-top: 16px;
+  width: 242px;
+}
+.carddata li {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+}
+.card_button {
+  padding-top: 16px;
+}
+.cardbtn {
+  background-color: #006f7e;
+  border: none;
+  color: white;
+  width: 270px;
+  height: 46px;
+  text-align: center;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 24px;
+  cursor: pointer;
+  border-radius: 8.34886px;
+}
+.sub_headind p {
+  width: 370px;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+}
+
+.headind {
+  width: 100%;
+  background-color: #006f7e;
+}
+
+.sub_headind2 {
+  padding-top: 4rem;
+  padding-left: 1rem;
+}
+
+.sec_2_btn {
+  background-color: #035642;
+  border: none;
+  color: white;
+  padding: 15px 40px;
+  text-align: center;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 23px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 10px;
+}
+
+.sec_2card {
+  height: 346px;
+  width: 270px;
+  background: #ffffff;
+  border: 0.5px solid rgba(33, 42, 57, 0.25);
+  border-radius: 8px;
+}
+
+.sec2_card_main {
+  width: 370px;
+}
+
+.card_top {
+  height: 79px;
+  width: 370px;
+  position: relative;
+  background: #006f7e;
+  border-top-right-radius: 8px;
+  border-top-left-radius: 8px;
+}
+.card_im {
+  position: relative;
+  padding-left: 1rem;
+  top: 1rem;
+  height: 50px;
+  width: 50px;
+}
+.card_top_insidee {
+  position: relative;
+  top: -1.8rem;
+  text-align: center;
+  font-style: normal;
+  font-size: 24px;
+  color: #ffffff;
+}
+.card_top_insidee p {
+  font-size: 24px;
+}
+.card_top_inside {
+  position: absolute;
+  left: 72px;
+  top: 24px;
+}
+
+.card_bottom {
+  align-items: center;
+  justify-content: center;
+  height: 280px;
+  color: #3c4852;
+}
+.card_bottom ul {
+  padding-left: 3rem;
+  padding-top: 16px;
+}
+.ulmain {
+  display: flex;
+  flex-direction: column;
+  gap: 17px;
+}
+.leftimg {
+  height: 17px;
+  width: 16px;
+}
+.rightdata p {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 18px;
+  color: #3c4852;
+  width: 315.17px;
+}
+.card_bottom ul {
+  display: inline-block;
+}
+.card_bottom li {
+  list-style-image: url('https://cdn.pegasus.imarticus.org/imarticus_2/aboutus/Group 2750.svg');
+  list-style-position: outside;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 18px;
+  color: #3c4852;
+  width: 315.17px;
+}
+
+.card_btn_ind {
+  position: relative;
+  top: -2rem;
+  text-align: center;
+}
+@media screen and (max-width: 600px) {
+  .sectioncard {
+    width: 100%;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 24px;
+    background: #ffffff;
+  }
+  .card_bottom {
+    color: #3c4852;
+  }
+  .card_bottom ul {
+    padding-left: 68px;
+  }
+  .card_bottom li {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    color: #3c4852;
+    width: 208px;
+  }
+  .cardimage {
+    border-radius: 50%;
+    background: #006f7e;
+    margin-left: 120px;
+    width: 88px;
+    height: 88px;
+  }
+  .cardimg {
+    padding-top: 24px;
+    padding-left: 24px;
+  }
+  .cardheading {
+    padding-top: 18px;
+    font-weight: 600;
+    padding-left: 87px;
+    font-size: 24px;
+    line-height: 34px;
+    text-transform: capitalize;
+    color: #3c4852;
+  }
+  .carddata {
+    padding-left: 43px;
+    padding-top: 16px;
+    width: 242px;
+  }
+  .cardbtn {
+    background-color: #006f7e;
+    border: none;
+    color: white;
+    width: 100%;
+    height: 46px;
+    text-align: center;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 24px;
+    cursor: pointer;
+    border-radius: 8.34886px;
+  }
+}
+@media screen and (max-width: 400px) {
+  .card_bottom li {
+    line-height: 16px;
+  }
+}
+@media screen and (max-width: 320px) {
+  .org_card {
+    height: auto !important;
+  }
+}
+.card_bottom h1 {
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  color: #3c4852;
+  margin-bottom: 16px;
+}
+
+/* section 3 */
+
+.box {
+  width: 50%;
+  height: 300px;
+  padding: 50px;
+  border: 1px solid red;
+}
+
+.box_data {
+  padding-top: 12.8px;
+  text-align: center;
+}
+.box_data p {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+}
+@media screen and (max-width: 600px) {
+  .box_data {
+    width: 100%;
+  }
+}
+
+.box_row {
+  margin: 0 0px;
+}
+
+/* Clear floats after the columns */
+.box_row:after {
+  content: '';
+  display: table;
+  clear: both;
+}
+
+.box_column {
+  border-bottom: 1.04361px solid black;
+  box-sizing: border-box;
+  float: left;
+  width: 46%;
+  border-top-right-radius: 8.34px;
+  border-top-left-radius: 8.34px;
+  color: #1d4a60;
+  padding-top: 85px;
+  padding-bottom: 30px;
+}
+.box_columnc {
+  border-bottom: 1.04361px solid black;
+  box-sizing: border-box;
+  float: left;
+  width: 50%;
+  border-top-right-radius: 8.34px;
+  border-top-left-radius: 8.34px;
+  color: #1d4a60;
+  padding-top: 85px;
+  padding-bottom: 30px;
+}
+
+.box_column h2 {
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 38px;
+  color: #1d4a60;
+  text-align: center;
+}
+
+.bc_2 {
+  border-right: 1.04361px solid black;
+  border-bottom: 0px solid #47c3cf;
+  font-weight: bold;
+  border-top-right-radius: 0px;
+  border-top-left-radius: 0px;
+  width: 25%;
+  height: 120px;
+  padding: 2px 0px;
+}
+.bcdata {
+  font-size: 3rem;
+  text-align: center;
+}
+.bcsubdata {
+  padding-left: 60px;
+}
+.bcimg {
+  margin-right: 18px;
+}
+.bc_3 {
+  font-weight: bold;
+  width: 22%;
+  height: 120px;
+  border-bottom: 0px solid #47c3cf;
+  text-align: center;
+  padding: 2px 0px;
+}
+
+.sec3 {
+  background-image: url(https://cdn.pegasus.imarticus.org/imarticus_2/aboutus/Group_2844.webp);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #1d4a60;
+  padding-left: 135px;
+  padding-right: 135px;
+  padding-bottom: 98px;
+  padding-top: 78px;
+}
+.sec3 h4 {
+  font-weight: 700;
+  font-size: 34px;
+  color: white;
+  line-height: 40px;
+}
+@media screen and (max-width: 600px) {
+  .sec3 {
+    background-image: url(https://cdn.pegasus.imarticus.org/imarticus_2/aboutus/Mask_groupaa.webp);
+    background-position: inherit;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-bottom: 0px;
+    padding-top: 48px;
+  }
+}
+
+.sec4_para {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  color: white;
+  width: 400px;
+  padding-bottom: 53px;
+}
+
+@media screen and (max-width: 600px) {
+  .sec4_para {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .box_column {
+    width: 100%;
+    border-bottom: 1.04361px solid black;
+    padding: 10px 10px;
+  }
+  .box_columnc {
+    width: 50%;
+    margin-bottom: 20px;
+    padding: 10px 10px;
+  }
+  .box_column h2 {
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 38px;
+    color: #1d4a60;
+    text-align: center;
+  }
+  .bcdata {
+    font-size: 26px;
+    padding-top: 20px;
+  }
+  .bcdata h3 {
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 75px;
+  }
+  .bcdata p {
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 14px;
+    align-items: center;
+    text-align: center;
+    padding-left: 55px;
+  }
+  .bcimg {
+    height: 32px;
+    width: 32px;
+    margin-right: 18px;
+  }
+  .bc_2 {
+    border-right: 1.04361px solid black;
+    padding-top: 0px;
+  }
+  .bc_3 {
+    padding-top: 0px;
+  }
+}
+
+/* our journey */
+.journey {
+  color: #3c4852;
+  padding-left: 104px;
+  padding-right: 104px;
+  padding-bottom: 4rem;
+  padding-top: 80px;
+}
+.j_heading {
+  align-items: center;
+  text-align: center;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 40px;
+}
+@media screen and (max-width: 600px) {
+  .journey {
+    color: #3c4852;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-bottom: 48px;
+    padding-top: 0px;
+  }
+  .j_heading {
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 38px;
+    float: left;
+  }
+}
+
+.sec4 {
+  background-image: url(https://cdn.pegasus.imarticus.org/imarticus_2/aboutus/Frame%2013.webp);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  padding-left: 136px;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  padding-right: 136px;
+}
+
+/* Float four columns side by side */
+.column_mngt {
+  width: 50%;
+  float: left;
+  padding: 0 18px;
+}
+.secnd {
+  width: 25%;
+  padding-top: 3rem;
+}
+/* Remove extra left and right margins, due to padding */
+.row_mngt {
+  margin: 0 0px;
+  padding-bottom: 6rem;
+}
+
+/* Clear floats after the columns */
+.row_mngt:after {
+  content: '';
+  display: table;
+  clear: both;
+}
+/* Responsive columns */
+@media screen and (max-width: 600px) {
+  .sec4 {
+    background-image: url(https://cdn.pegasus.imarticus.org/imarticus_2/aboutus/Frame%2012.webp);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 40px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-bottom: 0px;
+  }
+  .row_mngt {
+    margin: 0 0px;
+    padding: 0 0px;
+  }
+  .column_mngt {
+    width: 100%;
+    display: block;
+    padding: 0 0px;
+  }
+  .secnd {
+    width: 100%;
+    padding-left: 3rem;
+  }
+
+  .advisory_carousal_mainn {
+    padding-left: 0rem;
+    padding-top: 0rem;
+  }
+}
+
+/* Style the counter cards */
+.card_mngt {
+  /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);  */
+  color: white;
+  background-color: transparent;
+}
+
+.sub_headind_mngt {
+  padding-top: 2rem;
+}
+.sub_headind_mngt p {
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 24px;
+  width: 470px;
+}
+.heading_mngt {
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 40px;
+  width: 410.14px;
+}
+@media screen and (max-width: 600px) {
+  .sub_headind_mngt {
+    width: 100%;
+    padding-bottom: 2rem;
+  }
+  .heading_mngt {
+    font-size: 28px;
+    width: 100%;
+  }
+}
+
+.headind_mngt {
+  width: 100%;
+  background-color: #006f7e;
+}
+
+.sub_headind2_mngt {
+  padding-top: 4rem;
+  padding-left: 1rem;
+}
+
+/* Float four columns side by side */
+.column_mng {
+  float: left;
+  width: 25%;
+  padding: 0 20px;
+}
+
+/* Remove extra left and right margins, due to padding */
+.row_mng {
+  padding-top: 4rem;
+}
+
+/* Clear floats after the columns */
+.row_mng:after {
+  content: '';
+  display: table;
+  clear: both;
+}
+
+.advisory_carousall_mngt {
+  height: 126px;
+  width: 240px;
+  background: #ffffff;
+  border: 0.5px solid rgba(33, 42, 57, 0.25);
+  border-radius: 8px;
+}
+.advisory_carousal_mainn_mngt {
+  width: 300px;
+  position: relative;
+  top: 10%;
+}
+.advisory_bottomm_mngt {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 111px;
+}
+
+.advisory_bottomm_mngt h1 {
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  color: #3c4852;
+  margin-bottom: 16px;
+}
+
+.advisory_bottomm_mngt p {
+  font-size: 16px;
+  font-style: normal;
+  font-weight: normal;
+  color: #3c4852;
+  text-align: center;
+}
+
+/* Responsive columns */
+@media screen and (max-width: 600px) {
+  .column_mng {
+    width: 100%;
+    display: block;
+    margin-bottom: 40px;
+  }
+}
+.row_mng {
+  padding-top: 0rem;
+}
+.section {
+  display: flex;
+  flex-direction: column;
+  align-items: baseline;
+}
+
+.advisory_main h1 {
+  font-size: 34px;
+  font-weight: bold;
+  font-style: normal;
+  color: #3c4852;
+  font-family: Source Sans Pro;
+}
+
+.advisory_main p {
+  font-size: 18px;
+  color: #3c4852;
+  font-weight: normal;
+  font-style: normal;
+  width: 60%;
+  margin-top: 24px;
+  text-align: initial;
+}
+
+.advisory_carousal_mainn {
+  width: 260px;
+}
+
+.advisory_title {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  row-gap: 1.5rem;
+  padding: 0 5%;
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+
+.advisory_carousall {
+  height: 246px;
+  width: 240px;
+  background: #ffffff;
+  border: 0.5px solid rgba(33, 42, 57, 0.25);
+  border-radius: 8px;
+}
+
+.advisory_topp {
+  height: 179px;
+  width: 270px;
+  position: relative;
+  background: #47c3cf;
+  border-radius: 8px;
+}
+
+.advisory_top_insidee {
+  position: absolute;
+  left: 72px;
+  top: 24px;
+}
+
+.advisory_bottomm {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 11px;
+}
+
+.advisory_bottomm h1 {
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  color: #3c4852;
+  margin-bottom: 16px;
+}
+
+.advisory_bottomm p {
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  color: #3c4852;
+  padding-left: 20px;
+  padding-right: 20px;
+  text-align: center;
+}
+
+.honour {
+  background-image: url(https://cdn.pegasus.imarticus.org/imarticus_2/aboutus/trophy.webp);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 557px;
+  padding-left: 6rem;
+  padding-right: 6rem;
+}
+@media screen and (max-width: 600px) {
+  .honour {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+
+.mycard {
+  position: relative;
+  padding-top: 4rem;
+  top: 108px;
+  height: 511px;
+  background-color: white;
+  color: #3c4852;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 6px;
+}
+@media screen and (max-width: 600px) {
+  .mycard {
+    top: 5%;
+    height: 100vh;
+  }
+}
+
+.column_honour {
+  float: left;
+  width: 50%;
+  padding: 0 0px;
+}
+.column_hnr {
+  float: left;
+  width: 50%;
+}
+@media screen and (max-width: 600px) {
+  .column_hnr {
+    float: left;
+    width: 45%;
+  }
+}
+
+.ch {
+  padding-top: 3rem;
+  padding-left: 3rem;
+}
+
+/* Remove extra left and right margins, due to padding */
+.row_honour {
+  margin: 0 0;
+}
+
+/* Clear floats after the columns */
+.row_honour:after {
+  content: '';
+  display: table;
+  clear: both;
+}
+/* Responsive columns */
+@media screen and (max-width: 600px) {
+  .column_honour {
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+    padding-top: 0rem;
+  }
+}
+
+.card_honour {
+  color: #3c4852;
+  background-color: transparent;
+}
+.heading_honour {
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 40px;
+  text-transform: capitalize;
+  color: #3c4852;
+}
+
+.sub_headind_honour p {
+  font-weight: 400;
+  font-size: 25.0466px;
+  line-height: 33px;
+  color: #3c4852;
+  padding-top: 30px;
+  width: 70%;
+  width: 448.75px;
+}
+@media screen and (max-width: 600px) {
+  .sub_headind_honour {
+    width: 100%;
+  }
+  .card_honour {
+    font-size: 14px;
+  }
+  .ch {
+    padding-top: 0rem;
+    padding-left: 1rem;
+  }
+}
+
+.honor_pic {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1);
+  margin-left: 2rem;
+  height: 50px;
+  width: 120px;
+  margin-bottom: 2rem;
+}
+
+.trusted_org {
+  height: 568px;
+  background-image: url(https://cdn.pegasus.imarticus.org/imarticus_2/aboutus/infra.webp);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-left: 6rem;
+  padding-right: 6rem;
+}
+
+@media screen and (max-width: 600px) {
+  .trusted_org {
+    height: auto;
+    background-image: url(https://cdn.pegasus.imarticus.org/imarticus_2/aboutus/building-mob.webp);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+
+.org_card {
+  position: relative;
+  bottom: 64px;
+  height: 568px;
+  background-color: white;
+  color: #3c4852;
+  box-shadow: 0 0px 8px 0 rgba(0, 0, 0, 0.3);
+  border-radius: 5px;
+}
+@media screen and (max-width: 600px) {
+  .org_card {
+    height: auto;
+  }
+}
+
+.org_head {
+  text-align: center;
+  padding-top: 64px;
+  padding-bottom: 56px;
+}
+.org_head h1 {
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 40px;
+}
+
+/* Float four columns side by side */
+.column_org {
+  display: flex;
+  float: left;
+  height: 120px;
+  padding: 0px 20px 0px 20px;
+  margin: 0px 0px;
+}
+.first {
+}
+
+/* Remove extra left and right margins, due to padding */
+.row_org {
+  /* margin: 0 110px;
+  text-align: center; */
+  padding-left: 90px;
+  padding-right: 90px;
+}
+.column_test {
+  float: left;
+  width: 20%;
+  padding: 10px;
+}
+.row_org::after {
+  content: '';
+  clear: both;
+  display: table;
+}
+.row_org2 {
+  padding-left: 90px;
+  padding-right: 90px;
+  padding-top: 45px;
+}
+.row_org2::after {
+  content: '';
+  clear: both;
+  display: table;
+}
+@media screen and (min-width: 1920px) {
+  .row_org {
+    margin: 0 400px;
+    text-align: center;
+  }
+}
+/* Clear floats after the columns */
+.row_org:after {
+  content: '';
+  display: table;
+  clear: both;
+}
+.orgimage {
+  padding-top: 64px;
+}
+/* Responsive columns */
+@media screen and (max-width: 600px) {
+  .orgimage {
+    padding-top: 32px;
+  }
+  .column_org {
+    width: 100%;
+    float: left;
+    display: block;
+    margin-bottom: 20px;
+  }
+  .org_head {
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 0rem;
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+  .row_org {
+    margin: 0 0px;
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+  .org_head h1 {
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 40px;
+    text-align: center;
+  }
+  /* .advisory_carousall{
+    overflow: scroll;
+  } */
+}
+
+.org_btn {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding-top: 2rem;
+  padding-bottom: 80px;
+}
+@media all and (max-width: 600px) {
+  .image_jr {
+    text-align: center;
+  }
+  .org_btn {
+    padding-bottom: 40px;
+  }
+}
+
+@media all and (min-width: 480px) {
+  .desktop {
+    display: block;
+  }
+  .mobile {
+    display: none;
+  }
+}
+@media all and (max-width: 479px) {
+  .desktop {
+    display: none;
+  }
+  .mobile {
+    display: block;
+  }
+}
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1023px) {
+  .sec_1 {
+    padding: 0 5%;
+  }
+  .sec_two_new {
+    padding: 64px 5%;
+  }
+  .col_2new {
+    width: 533px;
+    float: none;
+  }
+  .col_2new h2 {
+    padding-top: 0px;
+    font-weight: 700;
+    font-size: 72px;
+    line-height: 82px;
+    text-transform: uppercase;
+    color: #3c4852;
+  }
+  .col2box {
+    background: #01779f;
+    border-radius: 8px;
+    position: absolute;
+    width: 475px;
+    height: 350px;
+  }
+  .sec2b {
+    padding: 64px 5%;
+    background-color: #ececec;
+  }
+  .sectioncard {
+    background: #ffffff;
+  }
+  .columna {
+    float: none;
+    width: 763px;
+  }
+  .card h3 {
+    font-weight: 700;
+    font-size: 34px;
+    text-transform: capitalize;
+    line-height: 40px;
+    padding-top: 0px;
+  }
+  .sub_headind {
+    padding-top: 24px;
+  }
+  .sub_headind p {
+    width: 100%;
+  }
+  .column {
+    float: left;
+    width: 50%;
+    padding: 32px 38px;
+  }
+  .sec3 {
+    background-image: url(https://cdn.pegasus.imarticus.org/imarticus_2/aboutus/section3-tab.webp);
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    padding: 64px 5%;
+  }
+  .sec4_para {
+    width: 480px;
+    padding-bottom: 0px;
+  }
+  .box_column {
+    border-bottom: 1.04361px solid black;
+    box-sizing: border-box;
+    float: left;
+    width: 62%;
+    border-top-right-radius: 8.34px;
+    border-top-left-radius: 8.34px;
+    color: #1d4a60;
+    padding-top: 150px;
+    padding-bottom: 32px;
+  }
+  .box_row {
+    margin: 0 20px;
+  }
+  .bc_2 {
+    border-right: 1.04361px solid black;
+    border-bottom: 0px solid #47c3cf;
+    font-weight: bold;
+    border-top-right-radius: 0px;
+    border-top-left-radius: 0px;
+    width: 32%;
+    height: 120px;
+    padding: 2px 0px;
+  }
+  .bc_3 {
+    font-weight: bold;
+    width: 32%;
+    height: 120px;
+    border-bottom: 0px solid #47c3cf;
+    text-align: center;
+    padding: 2px 0px;
+  }
+  .bcdata {
+    font-size: 3rem;
+    text-align: unset;
+  }
+  .au {
+    display: flex;
+    flex-direction: row;
+    /* justify-content: center; */
+    padding-left: 154px;
+    align-items: center;
+    margin: auto;
+    margin-top: 40px;
+  }
+  .journey {
+    padding: 64px 5%;
+  }
+  .trusted_org {
+    padding: 0px 5%;
+  }
+  .row_org {
+    /* margin: 0 110px;
+    text-align: center; */
+    padding-left: 34px;
+    padding-right: 34px;
+  }
+  .row_org2 {
+    padding-left: 34px;
+    padding-right: 34px;
+    padding-top: 0px;
+  }
+  .sec4 {
+    background-image: url(https://cdn.pegasus.imarticus.org/imarticus_2/aboutus/Frame%2014.webp);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 80px 5%;
+  }
+  .column_mngt {
+    width: auto;
+    float: left;
+    padding-left: 42px;
+    padding-right: 42px;
+    padding-bottom: 44px;
+  }
+  .column_mng {
+    float: left;
+    width: 50%;
+    padding: 40px 42px;
+  }
+  .sub_headind {
+    width: auto;
+  }
+  .sub_headind p {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color: #3c4852;
+    width: auto;
+  }
+}
+
+@media screen and (min-device-width: 1024px) and (max-device-width: 1200px) {
+  .sec_1 {
+    padding: 64px 5%;
+  }
+  .sec_two_new {
+    padding: 64px 5%;
+  }
+  .playbtn {
+    margin-left: 150px;
+  }
+  .sec2b {
+    padding: 64px 5%;
+  }
+  .sec3 {
+    padding: 64px 5%;
+  }
+  .journey {
+    padding: 64px 5%;
+  }
+  .trusted_org {
+    padding: 0px 5%;
+  }
+  .sec4 {
+    padding: 80px 5%;
+  }
+  .column_mng {
+    float: left;
+    width: 25%;
+    padding: 0 10px;
+  }
+  .mymedia {
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 48px;
+    padding-bottom: 48px;
+  }
+  .col_1 p {
+    width: 172px;
+  }
+  .imgjr {
+    height: 300px !important;
+  }
+  .ceo {
+    height: 102px !important;
+    width: 100px !important;
+    overflow: auto;
+  }
+}
+
+@media only screen and (min-width: 1025px) {
+  /* .sec_1 {
+    padding: 80px 5%;
+} */
+}
+@media only screen and (max-width: 320px) {
+  .cardimage {
+    border-radius: 50%;
+    background: #006f7e;
+    margin-left: 91px;
+    width: 88px;
+    height: 88px;
+  }
+  .cardheading {
+    padding-top: 18px;
+    font-weight: 600;
+    padding-left: 58px;
+    font-size: 24px;
+    line-height: 34px;
+    text-transform: capitalize;
+    color: #3c4852;
+  }
+}
+
+@media only screen and (min-width: 380px) and (max-width: 430px) {
+  .cardimage {
+    border-radius: 50%;
+    background: #006f7e;
+    margin-left: 140px;
+    width: 88px;
+    height: 88px;
+  }
+  .cardheading {
+    padding-top: 18px;
+    font-weight: 600;
+    padding-left: 110px;
+    font-size: 24px;
+    line-height: 34px;
+    text-transform: capitalize;
+    color: #3c4852;
+  }
+  .card_bottom ul {
+  }
+}
+
+/* nikhil */
+.section4 {
+  background-image: url(https://cdn.pegasus.imarticus.org/imarticus_2/aboutus/Frame%2013.webp);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-left: 135px;
+  padding-right: 135px;
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+.mainManagement {
+  display: flex;
+  flex-direction: row;
+  gap: 98px;
+}
+.leftmanagement {
+  width: 502px;
+}
+.Managementheading h1 {
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 40px;
+  width: 410.14px;
+  align-items: center;
+  color: #ffffff;
+}
+.ManagementData {
+  padding-top: 32px;
+}
+.ManagementData p {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 24px;
+  color: #ffffff;
+}
+.rightmanagement {
+  width: 270px;
+}
+.mainCard {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+}
+.mainManagement2 {
+  padding-top: 131px;
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+}
+/* end */
+
+.mymedia {
+  padding-left: 135px;
+  padding-right: 135px;
+  padding-top: 104px;
+  padding-bottom: 104px;
+}
+.mediaheading {
+  width: 752.44px;
+}
+.mediaheading h3 {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 56px;
+  display: flex;
+  align-items: center;
+  text-transform: capitalize;
+  color: #3c4852;
+}
+
+.mainMedia {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  padding-top: 34px;
+}
+.leftsecmedia {
+  width: 470px;
+  height: 509px;
+  background: #ffffff;
+  border: 1.04361px solid rgba(60, 72, 82, 0.5);
+  border-radius: 8.34886px;
+}
+.mediaImg {
+  background-image: url(https://cdn.pegasus.imarticus.org/imarticus_2/aboutus/Rectangle232.webp);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 241.86px;
+}
+.mediaData {
+  padding-left: 32px;
+  padding-right: 36px;
+  padding-top: 46px;
+  padding-bottom: 40px;
+}
+.medialogo {
+  width: 250.95px;
+}
+.subdata {
+  padding-top: 14px;
+  padding-left: 10px;
+}
+.subdata p {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16.6977px;
+  line-height: 23px;
+  color: #3c4852;
+}
+.publish {
+  padding-top: 40px;
+  padding-left: 10px;
+}
+.publish p {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16.6977px;
+  line-height: 23px;
+  color: #3c4852;
+}
+
+.rightsecmedia {
+}
+.mainright {
+  display: flex;
+  flex-direction: column;
+  gap: 26px;
+}
+
+.mediasection {
+  width: 670px;
+  height: 107.94px;
+  background: #ffffff;
+  border: 1.04361px solid rgba(60, 72, 82, 0.5);
+  border-radius: 8.34886px;
+}
+.mainsection {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  height: 107.94px;
+}
+.sectionimg {
+  padding-top: 27px;
+  padding-bottom: 27px;
+  padding-left: 14px;
+  width: 151px;
+  text-align: center;
+}
+.sectionData {
+  padding-top: 12px;
+  padding-bottom: 19px;
+  width: 288px;
+}
+.sectionData p {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16.6977px;
+  line-height: 23px;
+  display: flex;
+  align-items: center;
+  color: #3c4852;
+}
+.mediaDate {
+  border-left: 1px solid rgba(60, 72, 82, 0.5);
+  padding-left: 40px;
+  padding-right: 24px;
+  margin-left: 20px;
+}
+.dateData {
+  padding-top: 30px;
+  padding-bottom: 18px;
+}
+.dateData p {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16.6977px;
+  line-height: 23px;
+  text-align: center;
+  color: #3c4852;
+}
+.mylist {
+  padding-left: 14px;
+  padding-top: 16px;
+}
+.mainlist {
+  display: flex;
+  flex-direction: row;
+  gap: 16.92px;
+}
+.listdata {
+  width: 208px;
+}
+.listdata p {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  color: #3c4852;
+}
+@media screen and (min-width: 321px) and (max-width: 550px) {
+  .mylist {
+    padding-left: 43px;
+    padding-top: 16px;
+  }
+}
+@media screen and (max-width: 550px) {
+  .mymedia {
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 48px;
+    padding-bottom: 48px;
+  }
+  .mediaheading {
+    width: 328px;
+  }
+  .mediaheading h3 {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 40px;
+    display: flex;
+    align-items: center;
+    text-transform: capitalize;
+    color: #3c4852;
+  }
+
+  .mainMedia {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    padding-top: 48px;
+  }
+  .leftsecmedia {
+    width: auto;
+    height: 510px;
+    background: #ffffff;
+    border: 1.04361px solid rgba(60, 72, 82, 0.5);
+    border-radius: 8.34886px;
+  }
+  .mediaImg {
+    background-image: url(https://cdn.pegasus.imarticus.org/imarticus_2/aboutus/Rectangle537.webp);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 242px;
+  }
+  .mediaData {
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 24px;
+    padding-bottom: 40px;
+  }
+  .medialogo {
+    width: 251px;
+  }
+  .subdata {
+    padding-top: 24px;
+    padding-left: 0px;
+  }
+  .subdata p {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16.6977px;
+    line-height: 23px;
+    color: #3c4852;
+  }
+  .publish {
+    padding-top: 36px;
+    padding-left: 0px;
+  }
+  .publish p {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16.6977px;
+    line-height: 23px;
+    color: #3c4852;
+  }
+
+  .rightsecmedia {
+  }
+  .mainright {
+    display: flex;
+    flex-direction: row;
+    gap: 16px;
+  }
+
+  .mediasection {
+    width: 328px;
+    height: 201px;
+    background: #ffffff;
+    border: 1.04361px solid rgba(60, 72, 82, 0.5);
+    border-radius: 8.34886px;
+  }
+  .mainsection {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+  .sectionimg {
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 16px;
+    width: 151px;
+    text-align: center;
+  }
+  .sectionData {
+    padding-top: 16px;
+    padding-bottom: 16px;
+    width: 296px;
+  }
+  .sectionData p {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16.6977px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    color: #3c4852;
+  }
+  .mediaDate {
+    border-left: 1px solid rgba(60, 72, 82, 0.5);
+    padding-left: 16px;
+    padding-right: 16px;
+    margin-left: 16px;
+  }
+  .dateData {
+    padding-top: 16px;
+    padding-bottom: 16px;
+  }
+  .dateData p {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16.6977px;
+    line-height: 23px;
+    text-align: center;
+    color: #3c4852;
+  }
+
+  .mediacard {
+    padding-top: 16px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  }
+}
+
+@media screen and (min-device-width: 551px) and (max-device-width: 1023px) {
+  .mymedia {
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 64px;
+    padding-bottom: 64px;
+  }
+  .mediaheading {
+    width: 752.44px;
+  }
+  .mediaheading h3 {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 56px;
+    display: flex;
+    align-items: center;
+    text-transform: capitalize;
+    color: #3c4852;
+  }
+
+  .mainMedia {
+    display: flex;
+    flex-direction: column;
+    gap: 26px;
+    padding-top: 34px;
+  }
+  .leftsecmedia {
+    width: auto;
+    height: auto;
+    background: #ffffff;
+    border: 1.04361px solid rgba(60, 72, 82, 0.5);
+    border-radius: 8.34886px;
+  }
+  .mediaImg {
+    background-image: url(https://cdn.pegasus.imarticus.org/imarticus_2/aboutus/Rectangle232a1.webp);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 242px;
+  }
+  .mediaData {
+    padding-left: 32px;
+    padding-right: 60px;
+    padding-top: 47px;
+    padding-bottom: 40px;
+  }
+  .medialogo {
+    width: 250.95px;
+  }
+  .subdata {
+    padding-top: 14px;
+    padding-left: 10px;
+  }
+  .subdata p {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16.6977px;
+    line-height: 23px;
+    color: #3c4852;
+  }
+  .publish {
+    padding-top: 40px;
+    padding-left: 10px;
+  }
+  .publish p {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16.6977px;
+    line-height: 23px;
+    color: #3c4852;
+  }
+
+  .rightsecmedia {
+  }
+  .mainright {
+    display: flex;
+    flex-direction: column;
+    gap: 26px;
+  }
+
+  .mediasection {
+    width: auto;
+    height: 107.94px;
+    background: #ffffff;
+    border: 1.04361px solid rgba(60, 72, 82, 0.5);
+    border-radius: 8.34886px;
+  }
+  .mainsection {
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+  }
+  .sectionimg {
+    padding-top: 27px;
+    padding-bottom: 27px;
+    padding-left: 14px;
+    width: 151px;
+    text-align: center;
+  }
+  .sectionData {
+    padding-top: 12px;
+    padding-bottom: 19px;
+    width: 288px;
+  }
+  .sectionData p {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16.6977px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    color: #3c4852;
+  }
+  .mediaDate {
+    border-left: 1px solid rgba(60, 72, 82, 0.5);
+    padding-left: 48px;
+    padding-right: 24px;
+    margin-left: 20px;
+  }
+  .dateData {
+    padding-top: 27px;
+    padding-bottom: 18px;
+  }
+  .dateData p {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16.6977px;
+    line-height: 23px;
+    text-align: center;
+    color: #3c4852;
+  }
+
+  /* nikhil */
+  .section4 {
+    background-image: url(https://cdn.pegasus.imarticus.org/imarticus_2/aboutus/Frame%2013.webp);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 64px;
+    padding-bottom: 64px;
+  }
+  .mainManagement {
+    display: flex;
+    flex-direction: column;
+    gap: 64px;
+  }
+  .leftmanagement {
+    width: auto;
+  }
+  .Managementheading h1 {
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 40px;
+    width: 410.14px;
+    align-items: center;
+    color: #ffffff;
+  }
+  .ManagementData {
+    padding-top: 48px;
+  }
+  .ManagementData p {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 24px;
+    color: #ffffff;
+  }
+  .rightmanagement {
+    width: auto;
+  }
+  .mainCard {
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+  }
+  .mainManagement2 {
+    padding-top: 64px;
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+  }
+}
+
+@media screen and (min-device-width: 1024px) and (max-device-width: 1200px) {
+  .mymedia {
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 48px;
+    padding-bottom: 48px;
+  }
+  .mediasection {
+    width: 470px;
+    height: 107.94px;
+    background: #ffffff;
+    border: 1.04361px solid rgba(60, 72, 82, 0.5);
+    border-radius: 8.34886px;
+  }
+  .mainsection {
+    display: flex;
+    flex-direction: row;
+    gap: 16px;
+  }
+  .mediaImg {
+    background-image: url(https://cdn.pegasus.imarticus.org/imarticus_2/aboutus/Rectangle232.webp);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 241.86px;
+  }
+  .sectionimg {
+    padding-top: 38px;
+    padding-bottom: 0px;
+    padding-left: 14px;
+    width: 151px;
+    text-align: center;
+  }
+  .sectionData {
+    padding-top: 12px;
+    padding-bottom: 0px;
+    width: fit-content;
+  }
+  .mediaDate {
+    border-left: 1px solid rgba(60, 72, 82, 0.5);
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 0px;
+  }
+  .dateData {
+    padding-top: 20px;
+    padding-bottom: 18px;
+  }
+}
+
+@media all and (min-width: 851px) {
+  .desktopjourney {
+    display: block;
+  }
+  .mobilejourney {
+    display: none;
+  }
+  .tabjourney {
+    display: none;
+  }
+}
+@media all and (min-width: 480px) and (max-width: 850px) {
+  .desktopjourney {
+    display: none;
+  }
+  .mobilejourney {
+    display: none;
+  }
+  .tabjourney {
+    display: flex;
+    justify-content: center;
+  }
+}
+@media all and (max-width: 479px) {
+  .desktopjourney {
+    display: none;
+  }
+  .tabjourney {
+    display: none;
+  }
+  .mobilejourney {
+    display: block;
+  }
+}
+
+.maintabmanagement {
+  display: flex;
+  flex-direction: row;
+  padding-left: 87px;
+  padding-right: 87px;
+  padding-top: 64px;
+  gap: 30px;
+}
+
+@media all and (min-width: 851px) {
+  .desktopManagement {
+    display: block;
+  }
+  .mobileManagement {
+    display: none;
+  }
+  .tabManagement {
+    display: none;
+  }
+}
+@media all and (min-width: 480px) and (max-width: 850px) {
+  .desktopManagement {
+    display: none;
+  }
+  .mobileManagement {
+    display: none;
+  }
+  .tabManagement {
+    display: flex;
+    justify-content: center;
+  }
+  .row_mngt {
+    margin: 0 0px;
+    padding-bottom: 0rem;
+  }
+  .sub_headind_mngt p {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 24px;
+    width: auto;
+  }
+}
+@media all and (max-width: 479px) {
+  .desktopManagement {
+    display: none;
+  }
+  .tabManagement {
+    display: none;
+  }
+  .mobileManagement {
+    display: block;
+    padding-bottom: 40px;
+  }
+}

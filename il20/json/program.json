@@ -1,0 +1,4585 @@
+{
+  "studentReviews": [
+    {
+      "img": "/imarticus_2/sahilthakur2.webp",
+      "name": "Sahil Thakur",
+      "org": "PGA",
+      "text": "Imarticus Learning offers the best data science education. Thank you for the effort you put in during the pandemic. It is my pleasure to thank the management, the trainers, the placement team, and all those involved with the institute.",
+      "stars": "/imarticus_2/stargroupfull.svg",
+      "rating": "5"
+    },
+    {
+      "img": "/imarticus_2/PavaniIytla.webp",
+      "name": "Pavani Iytla",
+      "org": "CIBOP",
+      "text": "Thanks to Imarticus, I was placed with State Street Bank where I can contribute to my professional development in the most effective manner. Because of my interest in finance, I took the plunge into Investment Banking, and Imarticus made it possible for me to achieve this goal.            ",
+      "stars": "/imarticus_2/stars4.5.svg",
+      "rating": "4.6"
+    },
+    {
+      "img": "/imarticus_2/AmanSinha.webp",
+      "name": "Aman Sinha",
+      "org": "FAP",
+      "text": "I am grateful to the training and placement department of Imarticus Learning for their ongoing efforts in imparting quality training and providing opportunities for placement. I can't express how much your support helped me secure a job at Genpact.",
+      "stars": "/imarticus_2/stargroupfull.svg",
+      "rating": "5"
+    },
+    {
+      "img": "/imarticus_2/KomalBoraste.webp",
+      "name": "Komal Boraste",
+      "org": "PGA",
+      "text": "With Imarticus Learning, I have completed a postgraduate program in Data Analytics. Overall, I had a positive learning experience. The faculty is very knowledgeable and supportive as well. With the help of the soft skill sessions and mock interviews, I was able to prepare for interviews with confidence. Thank you Imarticus!",
+      "stars": "/imarticus_2/stargroupfull.svg",
+      "rating": "4.9"
+    },
+    {
+      "img": "/imarticus_2/RudrakshGandhi.webp",
+      "name": "Rudraksh Gandhi",
+      "org": "CIBOP",
+      "text": "Being a part of Imarticus Learning has been a delightful experience. I gained a lot of knowledge about investment banking, which I believe will prove useful in the long run. Thanks to placement support from the placement team, I got my dream job in the core industry. I would recommend this program to anybody who wants to enter the finance field.",
+      "stars": "/imarticus_2/stars4.5.svg",
+      "rating": "4.5"
+    },
+    {
+      "img": "/imarticus_2/Ajayrautela.webp",
+      "name": "Ajay Rautela",
+      "org": "FAP",
+      "text": "I am grateful to be a part of Imarticus where I can grow. The entire faculty and department leave no stone unturned to shape one's future. I would like to appreciate the placement cell at Imarticus.",
+      "stars": "/imarticus_2/stargroupfull.svg",
+      "rating": "4.8"
+    },
+    {
+      "img": "/imarticus_2/BipashaSikarwar.webp",
+      "name": "Bipasha Sikarwar",
+      "org": "PGA",
+      "text": "After completing graduation in B.Com I chose a career in data analytics. Being from a non-technical background, this was quite new. But joining a course from Imarticus Learning has been my best decision. The class gave me a great overview of the foundations that data analysis is built upon. The trainers and coordinators were very polite and helpful. Thank you Imarticus for being a part of my journey.",
+      "stars": "/imarticus_2/stargroupfull.svg",
+      "rating": "4.8"
+    },
+    {
+      "img": "/imarticus_2/PrasannaRout.webp",
+      "name": "Prasanna Kumar Rout",
+      "org": "CIBOP",
+      "text": "With Imarticus, I gained a lot of knowledge about investment banking and the various services investment banks offer. The faculty and staff were very cooperative and made studying worthwhile by doing their best. Thank you to the entire placement team for my success. I want to express my sincere gratitude to Geetika Ma'am for responding to my queries so quickly. I greatly appreciate your help and support throughout the placement process.",
+      "stars": "/imarticus_2/stars4.5.svg",
+      "rating": "4.7"
+    },
+    {
+      "img": "/imarticus_2/PosheenRajdan.webp",
+      "name": "Posheen Rajdan",
+      "org": "PGA",
+      "text": "Imarticus Learning offered me overall growth in terms of academics as well as personal growth. Thank you Imarticus!",
+      "stars": "/imarticus_2/stars4.5.svg",
+      "rating": "4.7"
+    }
+  ],
+  "news_arr": [
+    {
+      "img1": "/imarticus_2/cm.webp",
+      "img2": "/imarticus_2/bwed.webp",
+      "desc": "To strengthen professionals’ skillsets and understanding of Financial Services, IIM Lucknow and Imarticus Learning, India’s front-running professional education firm, launch an Advanced Management Program in Financial Services and Capital Markets.",
+      "link": "http://bweducation.businessworld.in/article/IIM-Lucknow-And-Imarticus-Learning-Launch-Management-Program-In-Financial-Services-And-Capital-Markets/12-01-2022-417434/"
+    },
+    {
+      "img1": "/imarticus_2/scm.webp",
+      "img2": "/imarticus_2/ndtv.webp",
+      "desc": "Indian Institute of Technology (IIT) Roorkee, in partnership with professional education firm Imarticus Learning will commence the second batch of the Supply Chain Management course from April 23. It is a six month long online certification course for professionals.",
+      "link": "https://www.ndtv.com/education/iit-roorkee-begin-2nd-batch-of-supply-chain-management-course-for-professionals-from-apr-23"
+    },
+    {
+      "img1": "/imarticus_2/ib.webp",
+      "img2": "/imarticus_2/indianexpress.webp",
+      "desc": "The Indian Institute of Management, Calcutta (IIM) has launched an Executive Programme in Investment Banking and Capital Markets (EPIBCM) in association with Imarticus Learning. It is a one-year-long programme, which would have three foundation modules and seven advanced modules.",
+      "link": "https://indianexpress.com/article/education/im-calcutta-launches-executive-program-in-investment-banking-and-capital-markets-www-iimcal-ac-in-ldp-epibcm-7754537/"
+    },
+    {
+      "img1": "/imarticus_2/consumeranalysis.webp",
+      "img2": "/imarticus_2/et.webp",
+      "desc": "With customers being the core of any business enterprise, studying customer preferences, needs and behaviors is critical in formulating successful operational and marketing strategies. As a result, companies require tech-savvy customer insight analysts (CIA) to make sense of the vast quantities of customer data they collect on a constant basis.",
+      "link": "https://www.educationtimes.com/article/careers-management/83066748/market-has-more-jobs-for-consumer-insight-analysts"
+    }
+  ],
+  "award_rr": [
+    {
+      "desc": "ET Best Education Brands 2022",
+      "img": "/imarticus_2/ET_Best_Brand_Logo.webp"
+    },
+    {
+      "desc": "Indian Education Awards 2022",
+      "img": "/imarticus_2/indian_Education.webp"
+    },
+    {
+      "desc": "Gyanodaya Godda initiative bags Silver Award at the National E-governance Awards",
+      "img": "/imarticus_2/E2.webp"
+    },
+    {
+      "desc": "Sonya Hooja - Most Promising Women Leaders in 2021 by the Economic Times",
+      "img": "/imarticus_2/award2.webp"
+    },
+    {
+      "desc": "Certification of Recognition for ‘Best E-Learning Company Of The Year’",
+      "img": "/imarticus_2/award7.webp"
+    },
+    {
+      "desc": "The Education Innovation Conclave and Awards 2020 For The Best Hiring or Internship Solution",
+      "img": "/imarticus_2/award6.webp"
+    },
+    {
+      "desc": "Business World Education - 40 Under 40",
+      "img": "/imarticus_2/award3.webp"
+    }
+  ],
+  "adviosor_arr": [
+    {
+      "img": "/imarticus_2/counselor1.webp",
+      "name": "S K MITRA",
+      "designation": "India Correspondent (AAM), Founding Governing Council Member (ACIND)",
+      "href": "https://www.linkedin.com/in/subrata-sk-mitra-5662b81a3/"
+    },
+    {
+      "img": "/imarticus_2/counselor2.webp",
+      "name": "AMIT RATANPAL",
+      "designation": "Founder and Managing Director, Blinc Management Advisors Private Limited",
+      "href": "https://www.linkedin.com/in/amit-ratanpal-34384313/"
+    },
+    {
+      "img": "/imarticus_2/counselor3.webp",
+      "name": "SANJIV MALHOTRA",
+      "designation": "Country Risk Manager, Bank of America",
+      "href": "https://www.linkedin.com/in/sanjiv-malhotra-b0870828/"
+    },
+    {
+      "img": "/imarticus_2/counselor4.webp",
+      "name": "AMIT NANAVATI",
+      "designation": "Managing Director, AN Steel Corp",
+      "href": "https://www.linkedin.com/in/amitnanavati/"
+    }
+  ],
+  "management_arr": [
+    {
+      "img": "https://cdn.pegasus.imarticus.org/imarticus_2/aboutus/Nikhil-Barshikar 1.webp",
+      "name": "NIKHIL BARSHIKAR",
+      "designation": "Managing Director",
+      "href": "https://www.linkedin.com/in/nikhil-barshikar-3647425/"
+    },
+    {
+      "img": "https://cdn.pegasus.imarticus.org/imarticus_2/aboutus/sonya.webp",
+      "name": "SONYA HOOJA",
+      "designation": "Chief Operating Officer",
+      "href": "https://in.linkedin.com/in/sonyahooja/"
+    },
+    {
+      "img": "https://cdn.pegasus.imarticus.org/imarticus_2/aboutus/suresh.webp",
+      "name": "SURESH RAO",
+      "designation": "Executive Director",
+      "href": "https://www.linkedin.com/in/suresh-rao-9725021/"
+    },
+    {
+      "img": "https://cdn.pegasus.imarticus.org/imarticus_2/aboutus/apurva.webp",
+      "name": "APURVA SHETH",
+      "designation": "Executive Director",
+      "href": "https://www.linkedin.com/in/shethapurva/"
+    },
+    {
+      "img": "https://cdn.pegasus.imarticus.org/imarticus_2/aboutus/shikha.webp",
+      "name": "SHIKHA SETHI",
+      "designation": "Executive Director",
+      "href": "https://www.linkedin.com/in/shikha-sethi-77731b26/"
+    },
+    {
+      "img": "https://cdn.pegasus.imarticus.org/imarticus_2/aboutus/ravikiran.webp",
+      "name": "RAVIKIRAN PEESAPATI",
+      "designation": "Executive Director & Retail Head",
+      "href": "https://www.linkedin.com/in/ravi-kiran-peesapati-27aa37a/"
+    },
+    {
+      "img": "https://cdn.pegasus.imarticus.org/imarticus_2/aboutus/sridhar.webp",
+      "name": "SRIDHAR NAGARAJACHAR",
+      "designation": "Executive Director & CEO Online Business",
+      "href": "https://www.linkedin.com/in/sridhar-nagarajachar/"
+    },
+    {
+      "img": "https://cdn.pegasus.imarticus.org/imarticus_2/aboutus/joy.webp",
+      "name": "JOY PAREKH",
+      "designation": "Product Head",
+      "href": "https://in.linkedin.com/in/joyparekh"
+    },
+    {
+      "img": "https://cdn.pegasus.imarticus.org/imarticus_2/aboutus/akshat.webp",
+      "name": "AKSHAT GOEL",
+      "designation": "Chief Technology Officer",
+      "href": "https://www.linkedin.com/in/akshatgoel/"
+    },
+    {
+      "img": "https://cdn.pegasus.imarticus.org/imarticus_2/aboutus/ritesh.webp",
+      "name": "RITESH SINGH",
+      "designation": "Growth Head",
+      "href": "https://in.linkedin.com/in/riteshnathsingh/"
+    }
+  ],
+  "organization_arr": [
+    {
+      "img": "https://cdn.pegasus.imarticus.org/imarticus_2/aboutus/spJain.svg"
+    },
+    {
+      "img": "https://cdn.pegasus.imarticus.org/imarticus_2/aboutus/nmims-university-logo 1.svg"
+    },
+    {
+      "img": "https://cdn.pegasus.imarticus.org/imarticus_2/aboutus/jain_university 1.svg"
+    },
+    {
+      "img": "https://cdn.pegasus.imarticus.org/imarticus_2/aboutus/bimtech.svg"
+    },
+    {
+      "img": "https://cdn.pegasus.imarticus.org/imarticus_2/aboutus/IIT-Roorkee 1.svg"
+    },
+    {
+      "img": "https://cdn.pegasus.imarticus.org/imarticus_2/aboutus/E&ITC-IIT-Guwahati-logo 1.svg"
+    },
+    {
+      "img": "https://cdn.pegasus.imarticus.org/imarticus_2/aboutus/ucla.svg"
+    },
+    {
+      "img": "https://cdn.pegasus.imarticus.org/imarticus_2/aboutus/KPMG 1.svg"
+    },
+    {
+      "img": "https://cdn.pegasus.imarticus.org/imarticus_2/aboutus/moody.svg"
+    },
+    {
+      "img": "https://cdn.pegasus.imarticus.org/imarticus_2/aboutus/Digitas-Logo- 1.svg"
+    }
+  ],
+  "partnersay_arr": [
+    {
+      "img1": "https://cdn.pegasus.imarticus.org/imarticus_2/profsudhakar.webp",
+      "img2": "/imarticus_2/IIMC14.webp",
+      "desc": "Our newly launched course in association with Imarticus Learning will provide an all-encompassing view of the Financial Services landscape, allowing learners to further their careers. We are pleased to partner with a world-class institution like Imarticus Learning that has a singular focus on helping professionals...",
+      "name": "Prof. Sudhakar Reddy",
+      "desig": "Program Director, IIM Calcutta"
+    },
+    {
+      "img1": "https://cdn.pegasus.imarticus.org/imarticus_2/profAjayGarg.webp",
+      "img2": "/imarticus_2/IIMLucknow4.webp",
+      "desc": "IIM Lucknow has been committed to offering learners the best possible experience that is backed by insights from industry stalwarts and experienced professors. The latest Advanced Management Programs in Financial Services and Capital Markets will cover the key aspects of the Financial Services....",
+      "name": "Prof. Ajay K Garg",
+      "desig": "Chairperson, Management Development Programme (MDP), IIM Lucknow"
+    },
+    {
+      "img1": "https://cdn.pegasus.imarticus.org/imarticus_2/KaranMarwah.webp",
+      "img2": "/imarticus_2/KPMG4.webp",
+      "desc": "The objective of the collaboration between Imarticus and KPMG in India is to bridge existing skill gaps and enhance job readiness for candidates so that they can be placed at global financial houses.",
+      "name": "Karan Marwah",
+      "desig": "CFO Advisory, KPMG in India"
+    },
+    {
+      "img1": "https://cdn.pegasus.imarticus.org/imarticus_2/NitishJain.webp",
+      "img2": "/imarticus_2/SPJain4.webp",
+      "desc": "I am extremely pleased to announce the collaboration we have with Imarticus to cater to the fast-growing Fintech industry, which is growing at 25% and is expected to reach $310 billion by 2022.",
+      "name": "Nitish Jain",
+      "desig": "President of SP Jain on Global Management"
+    }
+  ],
+  "carrertrans_arr": [
+    {
+      "img1": "/imarticus_2/carrerreviewer1.png",
+      "name": "Edward Smith",
+      "before": "Operations Executive",
+      "after": "Sr. Business Analyst",
+      "img2": "/imarticus_2/anzlogo.svg"
+    },
+    {
+      "img1": "/imarticus_2/carrerreviewer2.png",
+      "name": "Rehan Khan",
+      "before": "Fresher, B.com",
+      "after": "Trade Finance Office",
+      "img2": "/imarticus_2/jpmorganlogo.svg"
+    },
+    {
+      "img1": "/imarticus_2/carrerreviewer3.png",
+      "name": "Shruti Karvekar",
+      "before": "Data Analyst",
+      "after": "Programmer Analyst",
+      "img2": "/imarticus_2/cognizantlogo.svg"
+    },
+    {
+      "img1": "/imarticus_2/carrerreviewer4.png",
+      "name": "Gaurav Deshmukh",
+      "before": "Fresher, Bachelor of Engineering",
+      "after": "Data Scientist",
+      "img2": "/imarticus_2/githublogo.svg"
+    }
+  ],
+  "mastering_arr": [
+    {
+      "img": "imarticus_2/pgpprogrram/mastering1.svg",
+      "img2": "imarticus_2/pgpprogrram/masteringlinear1.svg",
+      "title": "For Professionals and Executives",
+      "desc": "Our certification programs are ideal for those with a few years of work experience."
+    },
+    {
+      "img": "imarticus_2/pgpprogrram/mastering2.svg",
+      "img2": "imarticus_2/pgpprogrram/masteringlinear2.svg",
+      "title": "Career-focused Education",
+      "desc": "Our certification programs equip you with the right tools and skills to navigate your way through your career."
+    },
+    {
+      "img": "imarticus_2/pgpprogrram/mastering3.svg",
+      "img2": "imarticus_2/pgpprogrram/masteringlinear3.svg",
+      "title": "Industry-specific Skills ",
+      "desc": "Our leading-edge curriculum focuses on developing practical and in-demand skills based on the industry."
+    },
+    {
+      "img": "imarticus_2/pgpprogrram/mastering4.svg",
+      "img2": "imarticus_2/pgpprogrram/masteringlinear4.svg",
+      "title": "Online and Classroom Learning",
+      "desc": "We strive to bring you high-quality education with flexible training modules."
+    },
+    {
+      "img": "imarticus_2/pgpprogrram/mastering5.svg",
+      "img2": "imarticus_2/pgpprogrram/masteringlinear5.svg",
+      "title": "Earn Certifications",
+      "desc": "Our world-class programs come with global certifications from leading institutions."
+    },
+    {
+      "img": "imarticus_2/pgpprogrram/mastering6.svg",
+      "img2": "imarticus_2/pgpprogrram/masteringlinear6.svg",
+      "title": "Dedicated Program Support ",
+      "desc": "Our team will prepare you for future roles by providing you with personalized attention and extensive career support."
+    },
+    {
+      "img": "imarticus_2/pgpprogrram/mastering7.svg",
+      "img2": "imarticus_2/pgpprogrram/masteringlinear7.svg",
+      "title": "Placement Assistance ",
+      "desc": "We’ve partnered with leading companies and our career services team will help you reach your career goals."
+    },
+    {
+      "img": "imarticus_2/pgpprogrram/mastering8.svg",
+      "img2": "imarticus_2/pgpprogrram/masteringlinear8.svg",
+      "title": "Mentorship and Networking",
+      "desc": "Get mentored by experts and network with your peers to build meaningful connections."
+    }
+  ],
+  "mastering_arrjob": [
+    {
+      "img": "/imarticus_2/pgpprogrram/mastering1.svg",
+      "img2": "/imarticus_2/pgpprogrram/masteringlinear1.svg",
+      "title": "100%  Job Guarantee Programs",
+      "desc": "Our job guarantee programs will ensure that you’re ready for your dream job."
+    },
+    {
+      "img": "/imarticus_2/pgpprogrram/mastering2.svg",
+      "img2": "/imarticus_2/pgpprogrram/masteringlinear2.svg",
+      "title": "For Freshers and Professionals",
+      "desc": "No matter where you are in your career, we help you take the first step towards a successful career."
+    },
+    {
+      "img": "/imarticus_2/pgpprogrram/mastering3.svg",
+      "img2": "/imarticus_2/pgpprogrram/masteringlinear3.svg",
+      "title": "Career-focused Education",
+      "desc": "Our job assured programs equip you with the right tools and skills to navigate your way through your career.            "
+    },
+    {
+      "img": "/imarticus_2/pgpprogrram/mastering4.svg",
+      "img2": "/imarticus_2/pgpprogrram/masteringlinear4.svg",
+      "title": "Industry-specific Skills ",
+      "desc": "Our leading-edge curriculum focuses on developing practical and in-demand skills based on the industry.            "
+    },
+    {
+      "img": "/imarticus_2/pgpprogrram/mastering5.svg",
+      "img2": "/imarticus_2/pgpprogrram/masteringlinear5.svg",
+      "title": "Online and Classroom Learning ",
+      "desc": "We strive to bring you high-quality education with flexible training modules."
+    },
+    {
+      "img": "/imarticus_2/pgpprogrram/mastering6.svg",
+      "img2": "/imarticus_2/pgpprogrram/masteringlinear6.svg",
+      "title": "Learn Job-relevant Skills",
+      "desc": "An all-inclusive curriculum covering a broad range of topics and tools that will support learners."
+    },
+    {
+      "img": "/imarticus_2/pgpprogrram/mastering7.svg",
+      "img2": "/imarticus_2/pgpprogrram/masteringlinear7.svg",
+      "title": "Earn Certifications",
+      "desc": "Our world-class programs come with global certifications from leading institutions."
+    },
+    {
+      "img": "/imarticus_2/pgpprogrram/mastering8.svg",
+      "img2": "/imarticus_2/pgpprogrram/masteringlinear8.svg",
+      "title": "Dedicated Program Support ",
+      "desc": "Our team will prepare you for future roles by providing you with extensive career support and personalised attention."
+    }
+  ],
+  "certificationqa": [
+    {
+      "question": "What is the learning methodology for this course and how is it unique?",
+      "answer": "Answer",
+      "index": 0
+    },
+    {
+      "question": "What is the duration of the program?",
+      "answer": "Answer",
+      "index": 0
+    },
+    {
+      "question": "What study material will be provided to me for the program?",
+      "answer": "Answer",
+      "index": 0
+    },
+    {
+      "question": "What is the eligibility criteria for placements?",
+      "answer": "Answer",
+      "index": 0
+    },
+    {
+      "question": "What are the fees for the program?",
+      "answer": "Answer",
+      "index": 0
+    },
+    {
+      "question": "How will program mentors help me during the program?",
+      "answer": "Answer",
+      "index": 1
+    },
+    {
+      "question": "Will this Data Science course cover Python in detail?",
+      "answer": "Answer",
+      "index": 1
+    },
+    {
+      "question": "How important is R for Data Science?",
+      "answer": "Answer",
+      "index": 2
+    },
+    {
+      "question": "Is a career in Big Data a good option?",
+      "answer": "Answer",
+      "index": 2
+    },
+    {
+      "question": "What will be the timings of the online sessions?",
+      "answer": "Answer",
+      "index": 3
+    },
+    {
+      "question": "Do we get any placement assistance?",
+      "answer": "Answer",
+      "index": 3
+    },
+    {
+      "question": "How will the programme be delivered?",
+      "answer": "Answer",
+      "index": 3
+    }
+  ],
+  "jobassuranceqa": [
+    {
+      "question": "What is the learning methodology for this course and how is it unique?",
+      "answer": "Answer",
+      "index": 0
+    },
+    {
+      "question": "What is the duration of the program?",
+      "answer": "Answer",
+      "index": 0
+    },
+    {
+      "question": "What study material will be provided to me for the program?",
+      "answer": "Answer",
+      "index": 0
+    },
+    {
+      "question": "What is the eligibility criteria for placements?",
+      "answer": "Answer",
+      "index": 0
+    },
+    {
+      "question": "What are the fees for the program?",
+      "answer": "Answer",
+      "index": 0
+    },
+    {
+      "question": "How will program mentors help me during the program?",
+      "answer": "Answer",
+      "index": 1
+    },
+    {
+      "question": "Will this Data Science course cover Python in detail?",
+      "answer": "Answer",
+      "index": 1
+    },
+    {
+      "question": "How important is R for Data Science?",
+      "answer": "Answer",
+      "index": 2
+    },
+    {
+      "question": "Is a career in Big Data a good option?",
+      "answer": "Answer",
+      "index": 2
+    },
+    {
+      "question": "What will be the timings of the online sessions?",
+      "answer": "Answer",
+      "index": 3
+    },
+    {
+      "question": "Do we get any placement assistance?",
+      "answer": "Answer",
+      "index": 3
+    },
+    {
+      "question": "How will the programme be delivered?",
+      "answer": "Answer",
+      "index": 3
+    }
+  ],
+  "financeqa": [
+    {
+      "question": "What is the learning methodology for this course and how is it unique?",
+      "answer": "Answer",
+      "index": 0
+    },
+    {
+      "question": "What is the duration of the program?",
+      "answer": "Answer",
+      "index": 0
+    },
+    {
+      "question": "What study material will be provided to me for the program?",
+      "answer": "Answer",
+      "index": 0
+    },
+    {
+      "question": "What is the eligibility criteria for placements?",
+      "answer": "Answer",
+      "index": 0
+    },
+    {
+      "question": "What are the fees for the program?",
+      "answer": "Answer",
+      "index": 0
+    },
+    {
+      "question": "How will program mentors help me during the program?",
+      "answer": "Answer",
+      "index": 1
+    },
+    {
+      "question": "Will this Data Science course cover Python in detail?",
+      "answer": "Answer",
+      "index": 1
+    },
+    {
+      "question": "How important is R for Data Science?",
+      "answer": "Answer",
+      "index": 2
+    },
+    {
+      "question": "Is a career in Big Data a good option?",
+      "answer": "Answer",
+      "index": 2
+    },
+    {
+      "question": "What will be the timings of the online sessions?",
+      "answer": "Answer",
+      "index": 3
+    },
+    {
+      "question": "Do we get any placement assistance?",
+      "answer": "Answer",
+      "index": 3
+    },
+    {
+      "question": "How will the programme be delivered?",
+      "answer": "Answer",
+      "index": 3
+    }
+  ],
+  "technologyqa": [
+    {
+      "question": "What is the learning methodology for this course and how is it unique?",
+      "answer": "Answer",
+      "index": 0
+    },
+    {
+      "question": "What is the duration of the program?",
+      "answer": "Answer",
+      "index": 0
+    },
+    {
+      "question": "What study material will be provided to me for the program?",
+      "answer": "Answer",
+      "index": 0
+    },
+    {
+      "question": "What is the eligibility criteria for placements?",
+      "answer": "Answer",
+      "index": 0
+    },
+    {
+      "question": "What are the fees for the program?",
+      "answer": "Answer",
+      "index": 0
+    },
+    {
+      "question": "How will program mentors help me during the program?",
+      "answer": "Answer",
+      "index": 1
+    },
+    {
+      "question": "Will this Data Science course cover Python in detail?",
+      "answer": "Answer",
+      "index": 1
+    },
+    {
+      "question": "How important is R for Data Science?",
+      "answer": "Answer",
+      "index": 2
+    },
+    {
+      "question": "Is a career in Big Data a good option?",
+      "answer": "Answer",
+      "index": 2
+    },
+    {
+      "question": "What will be the timings of the online sessions?",
+      "answer": "Answer",
+      "index": 3
+    },
+    {
+      "question": "Do we get any placement assistance?",
+      "answer": "Answer",
+      "index": 3
+    },
+    {
+      "question": "How will the programme be delivered?",
+      "answer": "Answer",
+      "index": 3
+    }
+  ],
+  "analyticsqa": [
+    {
+      "question": "What is the learning methodology for this course and how is it unique?",
+      "answer": "Answer",
+      "index": 0
+    },
+    {
+      "question": "What is the duration of the program?",
+      "answer": "Answer",
+      "index": 0
+    },
+    {
+      "question": "What study material will be provided to me for the program?",
+      "answer": "Answer",
+      "index": 0
+    },
+    {
+      "question": "What is the eligibility criteria for placements?",
+      "answer": "Answer",
+      "index": 0
+    },
+    {
+      "question": "What are the fees for the program?",
+      "answer": "Answer",
+      "index": 0
+    },
+    {
+      "question": "How will program mentors help me during the program?",
+      "answer": "Answer",
+      "index": 1
+    },
+    {
+      "question": "Will this Data Science course cover Python in detail?",
+      "answer": "Answer",
+      "index": 1
+    },
+    {
+      "question": "How important is R for Data Science?",
+      "answer": "Answer",
+      "index": 2
+    },
+    {
+      "question": "Is a career in Big Data a good option?",
+      "answer": "Answer",
+      "index": 2
+    },
+    {
+      "question": "What will be the timings of the online sessions?",
+      "answer": "Answer",
+      "index": 3
+    },
+    {
+      "question": "Do we get any placement assistance?",
+      "answer": "Answer",
+      "index": 3
+    },
+    {
+      "question": "How will the programme be delivered?",
+      "answer": "Answer",
+      "index": 3
+    }
+  ],
+  "marketingqa": [
+    {
+      "question": "What is the learning methodology for this course and how is it unique?",
+      "answer": "Answer",
+      "index": 0
+    },
+    {
+      "question": "What is the duration of the program?",
+      "answer": "Answer",
+      "index": 0
+    },
+    {
+      "question": "What study material will be provided to me for the program?",
+      "answer": "Answer",
+      "index": 0
+    },
+    {
+      "question": "What is the eligibility criteria for placements?",
+      "answer": "Answer",
+      "index": 0
+    },
+    {
+      "question": "What are the fees for the program?",
+      "answer": "Answer",
+      "index": 0
+    },
+    {
+      "question": "How will program mentors help me during the program?",
+      "answer": "Answer",
+      "index": 1
+    },
+    {
+      "question": "Will this Data Science course cover Python in detail?",
+      "answer": "Answer",
+      "index": 1
+    },
+    {
+      "question": "How important is R for Data Science?",
+      "answer": "Answer",
+      "index": 2
+    },
+    {
+      "question": "Is a career in Big Data a good option?",
+      "answer": "Answer",
+      "index": 2
+    },
+    {
+      "question": "What will be the timings of the online sessions?",
+      "answer": "Answer",
+      "index": 3
+    },
+    {
+      "question": "Do we get any placement assistance?",
+      "answer": "Answer",
+      "index": 3
+    },
+    {
+      "question": "How will the programme be delivered?",
+      "answer": "Answer",
+      "index": 3
+    }
+  ],
+  "webinararr": [
+    {
+      "img": "/imarticus_2/analytics-webinar.webp",
+      "department": "Analytics ",
+      "title": "How To Become A Next-Gen Data Scientist",
+      "date": "25th March,2022",
+      "webinar": "Mr. Karthik C, Tejaswini K, Ankit Hiremath, Bibhutesh Chatterjee",
+      "apply": "View",
+      "link": "https://imarticus.org/Imarticus-analytics-webinar/"
+    },
+    {
+      "img": "/imarticus_2/technology-webinar.webp",
+      "department": "Technology",
+      "title": "Reimagining Software Engineering For The New-Age Engineer",
+      "date": "11th February,2022",
+      "webinar": "Anubhav Chaturvedi - Software Engineering, DevOps & Blockchain consultant",
+      "apply": "View",
+      "link": "https://imarticus.org/webinar-cloud-blockchain-iot-developer-software-engineering/"
+    },
+    {
+      "img": "/imarticus_2/Finance-webinar.webp",
+      "department": "Finance",
+      "title": "Resources For Learning Banking And Wealth Management Drivers and Trends",
+      "date": "25th February,2022",
+      "webinar": "Shikhi Pandey - Indian Institute of Bankers (CAIIB)",
+      "apply": "View",
+      "link": "https://imarticus.org/Imarticus-finance-webinar/"
+    }
+  ],
+  "blog_arr": [
+    {
+      "backgroundcolor": "#0177A0",
+      "backgroundimag": "https://cdn.pegasus.imarticus.org/imarticus_2/blog3.webp",
+      "desc": "STAGES OF MONEY LAUNDERING AND HOW TO COMBAT IT!",
+      "date": "July 19, 2021",
+      "link": "https://blog.imarticus.org/stages-of-money-laundering-and-how-to-combat-it/",
+      "category": "finance"
+    },
+    {
+      "backgroundcolor": "#077366",
+      "backgroundimag": "https://cdn.pegasus.imarticus.org/imarticus_2/blog9.webp",
+      "desc": "PYTHON DEVELOPER SALARY IN TERMS OF JOB ROLES !",
+      "date": "July 13, 2021",
+      "link": "https://blog.imarticus.org/python-developer-salary-in-terms-of-job-roles/",
+      "category": "analytics"
+    },
+    {
+      "backgroundcolor": "#0177A0",
+      "backgroundimag": "https://cdn.pegasus.imarticus.org/imarticus_2/blog1.webp",
+      "desc": "WHAT IS AFFILIATE MARKETING? HOW TO USE FACEBOOK FOR AFFILIATE MARKETING?",
+      "date": "July 27, 2021",
+      "link": "https://blog.imarticus.org/what-is-affiliate-marketing-how-to-use-facebook-for-affiliate-marketing/",
+      "category": "marketing"
+    },
+    {
+      "backgroundcolor": "#077366",
+      "backgroundimag": "https://cdn.pegasus.imarticus.org/imarticus_2/blog5.webp",
+      "desc": "WHAT IS THE DIFFERENCE BETWEEN A BUSINESS ANALYST AND BUSINESS INTELLIGENCE?",
+      "date": "October 5, 2021",
+      "link": "https://blog.imarticus.org/what-is-the-difference-between-a-business-analyst-and-business-intelligence/"
+    },
+    {
+      "backgroundcolor": "#0177A0",
+      "backgroundimag": "https://cdn.pegasus.imarticus.org/imarticus_2/blog13.webp",
+      "desc": "A SOFTWARE ENGINEER'S WORLD: TIPS TO CRACK INTERVIEWS",
+      "date": "March 19, 2022",
+      "link": "https://blog.imarticus.org/a-software-engineers-world-tips-to-crack-interviews/",
+      "category": "technology"
+    },
+    {
+      "backgroundcolor": "#077366",
+      "backgroundimag": "https://cdn.pegasus.imarticus.org/imarticus_2/blog25.webp",
+      "desc": "CYBERSECURITY IS NOT JUST ABOUT HACKING",
+      "date": "March 25, 2022",
+      "link": "https://blog.imarticus.org/cybersecurity-is-not-just-about-hacking/",
+      "category": "technology"
+    },
+    {
+      "backgroundcolor": "#077366",
+      "backgroundimag": "https://cdn.pegasus.imarticus.org/imarticus_2/blog23.webp",
+      "desc": "WHAT IS DIFFERENCE BETWEEN INVESTMENT BANKING AND CORPORATE FINANCE?",
+      "date": "July 16, 2019",
+      "link": "https://blog.imarticus.org/what-is-difference-between-investment-banking-and-corporate-finance/",
+      "category": "finance"
+    },
+    {
+      "backgroundcolor": "#0177A0",
+      "backgroundimag": "https://cdn.pegasus.imarticus.org/imarticus_2/blog7.webp",
+      "desc": "WHAT ARE THE TOP SKILLS REQUIRED FOR A FINANCIAL ANALYST?",
+      "date": "January 16, 2018",
+      "link": "https://blog.imarticus.org/what-are-the-top-skills-required-for-financial-analyst/",
+      "category": "finance"
+    },
+
+    {
+      "backgroundcolor": "#0177A0",
+      "backgroundimag": "https://cdn.pegasus.imarticus.org/imarticus_2/blog22.webp",
+      "desc": "PYTHON TRAINING: ELIMINATE THE SKILL GAP IN THE MODERN WORKFORCE",
+      "date": "March 24, 2022",
+      "link": "https://blog.imarticus.org/python-training-eliminate-the-skill-gap-in-the-modern-workforce/",
+      "category": "analytics"
+    },
+    {
+      "backgroundcolor": "#077366",
+      "backgroundimag": "https://cdn.pegasus.imarticus.org/imarticus_2/blog12.webp",
+      "desc": "WHAT IS BIG DATA AND BUSINESS ANALYTICS?",
+      "date": "March 8, 2018",
+      "link": "https://blog.imarticus.org/what-is-big-data-and-business-analytics/",
+      "category": "analytics"
+    },
+    {
+      "backgroundcolor": "#0177A0",
+      "backgroundimag": "https://cdn.pegasus.imarticus.org/imarticus_2/blog18.webp",
+      "desc": "THE CAREER OUTLOOK FOR DATA SCIENTISTS WITH A POSTGRADUATE DEGREE IN DATA ANALYTICS",
+      "date": "March 28, 2022",
+      "link": "https://blog.imarticus.org/the-career-outlook-for-data-scientists-with-a-postgraduate-degree-in-data-analytics/",
+      "category": "analytics"
+    },
+    {
+      "backgroundcolor": "#077366",
+      "backgroundimag": "https://cdn.pegasus.imarticus.org/imarticus_2/blog17.webp",
+      "desc": "7 COMPELLING REASONS TO ADOPT AN SEO STRATEGY",
+      "date": "March 28, 2022",
+      "link": "https://blog.imarticus.org/7-compelling-reasons-to-adopt-an-seo-strategy/",
+      "category": "marketing"
+    },
+    {
+      "backgroundcolor": "#0177A0",
+      "backgroundimag": "https://cdn.pegasus.imarticus.org/imarticus_2/blog19.webp",
+      "desc": "DIGITAL MARKETING COURSE WITH PLACEMENT: LEARN WHAT RESPONSIVE DISPLAY ADS ARE + HOW TO CREATE THEM?",
+      "date": "February 28, 2022",
+      "link": "https://blog.imarticus.org/digital-marketing-course-with-placement-learn-what-responsive-display-ads-are-how-to-create-them/",
+      "category": "marketing"
+    },
+    {
+      "backgroundcolor": "#0177A0",
+      "backgroundimag": "https://cdn.pegasus.imarticus.org/imarticus_2/blog20.webp",
+      "desc": "KEY CONSIDERATIONS AND DESIGN PRINCIPLES FOR INFORMATION SECURITY COURSES",
+      "date": "March 12, 2022",
+      "link": "https://blog.imarticus.org/key-considerations-and-design-principles-for-information-security-courses/",
+      "category": "technology"
+    },
+    {
+      "backgroundcolor": "#077366",
+      "backgroundimag": "https://cdn.pegasus.imarticus.org/imarticus_2/blog11.webp",
+      "desc": "THE DO'S AND DON'TS WHEN OPTING FOR A CLOUD DEVOPS ENGINEER CERTIFICATION",
+      "date": "March 26, 2022",
+      "link": "https://blog.imarticus.org/the-dos-and-donts-when-opting-for-a-cloud-devops-engineer-certification/",
+      "category": "technology"
+    },
+
+    {
+      "backgroundcolor": "#0177A0",
+      "backgroundimag": "https://cdn.pegasus.imarticus.org/imarticus_2/bloglast.webp",
+      "desc": "WHAT IS BLOCKCHAIN DEVELOPER SALARY?",
+      "date": "September 2, 2021",
+      "link": "https://blog.imarticus.org/what-is-blockchain-developer-salary/",
+      "category": "technology"
+    },
+    {
+      "backgroundcolor": "#077366",
+      "backgroundimag": "https://cdn.pegasus.imarticus.org/imarticus_2/blog15.webp",
+      "desc": "GROWTH HACKING FOR 2022: 10 SIMPLE, MUST-USE SEO TACTICS TO POWER YOUR BUSINESS",
+      "date": "March 10, 2022",
+      "link": "https://blog.imarticus.org/growth-hacking-for-2022-10-simple-must-use-seo-tactics-to-power-your-business/",
+      "category": "marketing"
+    }
+  ],
+  "studentReviewsdomain": [
+    {
+      "img": "https://cdn.pegasus.imarticus.org/imarticus_2/reviewer17.png",
+      "name": "Astha Jha",
+      "text": "Imarticus Learning was truly an enlightening experience. Exceptional placements before admission and finest professors created the synergy needed for a perfect kick start for one’s career. The knowledge acquired in the pro...",
+      "stars": 5
+    },
+    {
+      "img": "https://cdn.pegasus.imarticus.org/imarticus_2/reviewer18.png",
+      "name": "Yash Sharma",
+      "org": "Goldman Sachs",
+      "text": "Participants today aspire to pursue management, but the question arises which college to go for. That is the same question I had. What is it that you look for in an institute? Faculty, subjects, infrastructure. When I joined Imartic...",
+      "stars": 5
+    },
+    {
+      "img": "https://cdn.pegasus.imarticus.org/imarticus_2/reviewer19.png",
+      "name": "Jaitashri Poddar",
+      "org": "J P Morgan Chase",
+      "text": "Joining Imarticus was undoubtedly one of the best decisions I have ever made! The course was extremely well-structured, containing all the necessary theoretical knowledge required for Data Analytics, along...",
+      "stars": 5
+    },
+    {
+      "img": "https://cdn.pegasus.imarticus.org/imarticus_2/reviewerblank.png",
+      "name": "Simran Bakhtiani",
+      "org": "BNP Paribas",
+      "text": "I was already working when I thought of becoming an Analyst. I looked up a lot of colleges and institutes, but only Imarticus matched with my expectations. From finding the curriculum that best suited me to...",
+      "stars": 5
+    }
+  ],
+  "placement": [
+    {
+      "img": "/imarticus_2/Goldmansachsnew.webp"
+    },
+    {
+      "img": "/imarticus_2/kpmg3.svg"
+    },
+    {
+      "img": "/imarticus_2/rbslogo.svg"
+    },
+    {
+      "img": "/imarticus_2/Capgemininew.webp"
+    },
+    {
+      "img": "/imarticus_2/societe3.svg"
+    },
+    {
+      "img": "/imarticus_2/hsbc8.webp"
+    },
+    {
+      "img": "/imarticus_2/ubs.webp"
+    },
+    {
+      "img": "/imarticus_2/BNP8.webp"
+    },
+    {
+      "img": "/imarticus_2/morgan.svg"
+    },
+    {
+      "img": "/imarticus_2/nomura.svg"
+    },
+    {
+      "img": "/imarticus_2/vitecs.svg"
+    },
+    {
+      "img": "/imarticus_2/deutsche.svg"
+    }
+  ],
+  "adviosor_arrdomain": [
+    {
+      "img": "https://cdn.pegasus.imarticus.org/imarticus_2/counselor1.webp",
+      "name": "S K MITRA",
+      "designation": "India Correspondent (AAM), Founding Governing Council Member (ACIND)"
+    },
+    {
+      "img": "https://cdn.pegasus.imarticus.org/imarticus_2/counselor2.webp",
+      "name": "AMIT RATANPAL",
+      "designation": "Founder and Managing Director, Blinc Management Advisors Private Limited"
+    },
+    {
+      "img": "https://cdn.pegasus.imarticus.org/imarticus_2/counselor3.webp",
+      "name": "SANJIV MALHOTRA",
+      "designation": "Country Risk Manager, Bank of America"
+    },
+    {
+      "img": "https://cdn.pegasus.imarticus.org/imarticus_2/counselor4.webp",
+      "name": "AMIT NANAVATI",
+      "designation": "Managing Director, AN Steel Corp"
+    }
+  ],
+  "financecourses_arr": [
+    {
+      "name": "CERTIFICATE IN INVESTMENT BANKING OPERATIONS WITH LSE",
+      "description": "Fast-track into a banking and wealth management career, guaranteed.",
+      "img": "https://cdn.pegasus.imarticus.org/imarticus_2/imarticusmanagement.webp",
+      "duration": "2 Months",
+      "img2": "https://cdn.pegasus.imarticus.org/imarticus_2/imarticusmoblogo.svg",
+      "online": true,
+      "level": "Intermediate",
+      "ugctitled": false,
+      "free": 0,
+      "link": "/certified-investment-banking-operations-program/",
+      "program": "Certification Course",
+      "index": 0
+    },
+    {
+      "name": "MBA IN FINTECH WITH JAIN UNIVERSITY",
+      "description": "Get an in-depth understanding of the dynamic banking and non-banking.",
+      "img": "https://cdn.pegasus.imarticus.org/imarticus_2/jain-university3.webp",
+      "img2": "https://cdn.pegasus.imarticus.org/imarticus_2/jain6.png",
+      "duration": "24 Months",
+      "online": true,
+      "level": "Intermediate",
+      "free": 0,
+      "link": "/MBA-in-Fintech-by-JAIN-Online/",
+      "ugctitled": true,
+      "program": "Executive Program",
+      "index": 0
+    },
+    {
+      "name": "MBA IN INVESTMENT BANKING WITH JAIN UNIVERSITY",
+      "description": "A fast-track into an investment banking operations career guaranteed.",
+      "img": "https://cdn.pegasus.imarticus.org/imarticus_2/jain-university2.webp",
+      "duration": "24 Months",
+      "img2": "https://cdn.pegasus.imarticus.org/imarticus_2/jain6.png",
+      "online": true,
+      "level": "Intermediate",
+      "free": 0,
+      "link": "/MBA-in-Investment-Banking-by-JAIN-Online/",
+      "ugctitled": true,
+      "program": "Executive Program",
+      "index": 0
+    }
+  ],
+  "analytcscourses_arr": [
+    {
+      "name": "CERTIFICATE IN INVESTMENT BANKING OPERATIONS WITH LSE",
+      "description": "Fast-track into a banking and wealth management career, guaranteed.",
+      "img": "https://cdn.pegasus.imarticus.org/imarticus_2/imarticusmanagement.webp",
+      "duration": "2 Months",
+      "img2": "https://cdn.pegasus.imarticus.org/imarticus_2/imarticusmoblogo.svg",
+      "online": true,
+      "level": "Intermediate",
+      "ugctitled": false,
+      "free": 0,
+      "link": "/certified-investment-banking-operations-program/",
+      "program": "Certification Course",
+      "index": 0
+    },
+    {
+      "name": "MBA IN FINTECH WITH JAIN UNIVERSITY",
+      "description": "Get an in-depth understanding of the dynamic banking and non-banking.",
+      "img": "https://cdn.pegasus.imarticus.org/imarticus_2/jain-university3.webp",
+      "img2": "https://cdn.pegasus.imarticus.org/imarticus_2/jain6.png",
+      "duration": "24 Months",
+      "online": true,
+      "level": "Intermediate",
+      "free": 0,
+      "link": "/MBA-in-Fintech-by-JAIN-Online/",
+      "ugctitled": true,
+      "program": "Executive Program",
+      "index": 0
+    },
+    {
+      "name": "MBA IN INVESTMENT BANKING WITH JAIN UNIVERSITY",
+      "description": "A fast-track into an investment banking operations career guaranteed.",
+      "img": "https://cdn.pegasus.imarticus.org/imarticus_2/jain-university2.webp",
+      "duration": "24 Months",
+      "img2": "https://cdn.pegasus.imarticus.org/imarticus_2/jain6.png",
+      "online": true,
+      "level": "Intermediate",
+      "free": 0,
+      "link": "/MBA-in-Investment-Banking-by-JAIN-Online/",
+      "ugctitled": true,
+      "program": "Executive Program",
+      "index": 0
+    }
+  ],
+  "technologycourses_arr": [
+    {
+      "name": "CERTIFICATE IN INVESTMENT BANKING OPERATIONS WITH LSE",
+      "description": "Fast-track into a banking and wealth management career, guaranteed.",
+      "img": "https://cdn.pegasus.imarticus.org/imarticus_2/imarticusmanagement.webp",
+      "duration": "2 Months",
+      "img2": "https://cdn.pegasus.imarticus.org/imarticus_2/imarticusmoblogo.svg",
+      "online": true,
+      "level": "Intermediate",
+      "ugctitled": false,
+      "free": 0,
+      "link": "/certified-investment-banking-operations-program/",
+      "program": "Certification Course",
+      "index": 0
+    },
+    {
+      "name": "MBA IN FINTECH WITH JAIN UNIVERSITY",
+      "description": "Get an in-depth understanding of the dynamic banking and non-banking.",
+      "img": "https://cdn.pegasus.imarticus.org/imarticus_2/jain-university3.webp",
+      "img2": "https://cdn.pegasus.imarticus.org/imarticus_2/jain6.png",
+      "duration": "24 Months",
+      "online": true,
+      "level": "Intermediate",
+      "free": 0,
+      "link": "/MBA-in-Fintech-by-JAIN-Online/",
+      "ugctitled": true,
+      "program": "Executive Program",
+      "index": 0
+    },
+    {
+      "name": "MBA IN INVESTMENT BANKING WITH JAIN UNIVERSITY",
+      "description": "A fast-track into an investment banking operations career guaranteed.",
+      "img": "https://cdn.pegasus.imarticus.org/imarticus_2/jain-university2.webp",
+      "duration": "24 Months",
+      "img2": "https://cdn.pegasus.imarticus.org/imarticus_2/jain6.png",
+      "online": true,
+      "level": "Intermediate",
+      "free": 0,
+      "link": "/MBA-in-Investment-Banking-by-JAIN-Online/",
+      "ugctitled": true,
+      "program": "Executive Program",
+      "index": 0
+    }
+  ],
+  "marketingcourses_arr": [
+    {
+      "name": "CERTIFICATE IN INVESTMENT BANKING OPERATIONS WITH LSE",
+      "description": "Fast-track into a banking and wealth management career, guaranteed.",
+      "img": "https://cdn.pegasus.imarticus.org/imarticus_2/imarticusmanagement.webp",
+      "duration": "2 Months",
+      "img2": "https://cdn.pegasus.imarticus.org/imarticus_2/imarticusmoblogo.svg",
+      "online": true,
+      "level": "Intermediate",
+      "ugctitled": false,
+      "free": 0,
+      "link": "/certified-investment-banking-operations-program/",
+      "program": "Certification Course",
+      "index": 0
+    },
+    {
+      "name": "MBA IN FINTECH WITH JAIN UNIVERSITY",
+      "description": "Get an in-depth understanding of the dynamic banking and non-banking.",
+      "img": "https://cdn.pegasus.imarticus.org/imarticus_2/jain-university3.webp",
+      "img2": "https://cdn.pegasus.imarticus.org/imarticus_2/jain6.png",
+      "duration": "24 Months",
+      "online": true,
+      "level": "Intermediate",
+      "free": 0,
+      "link": "/MBA-in-Fintech-by-JAIN-Online/",
+      "ugctitled": true,
+      "program": "Executive Program",
+      "index": 0
+    },
+    {
+      "name": "MBA IN INVESTMENT BANKING WITH JAIN UNIVERSITY",
+      "description": "A fast-track into an investment banking operations career guaranteed.",
+      "img": "https://cdn.pegasus.imarticus.org/imarticus_2/jain-university2.webp",
+      "duration": "24 Months",
+      "img2": "https://cdn.pegasus.imarticus.org/imarticus_2/jain6.png",
+      "online": true,
+      "level": "Intermediate",
+      "free": 0,
+      "link": "/MBA-in-Investment-Banking-by-JAIN-Online/",
+      "ugctitled": true,
+      "program": "Executive Program",
+      "index": 0
+    }
+  ],
+  "collaborationcarousal": [
+    {
+      "img": "/imarticus_2/ECCouncil4.webp"
+    },
+    {
+      "img": "/imarticus_2/IIMC4.webp"
+    },
+    {
+      "img": "/imarticus_2/Moody4.webp"
+    },
+    {
+      "img": "/imarticus_2/IITGuwahati4.webp"
+    },
+    {
+      "img": "/imarticus_2/Foundation4.webp"
+    },
+    {
+      "img": "/imarticus_2/NSE4.webp"
+    },
+    {
+      "img": "/imarticus_2/KPMG4.webp"
+    },
+    {
+      "img": "/imarticus_2/IIMLucknow4.webp"
+    },
+    {
+      "img": "/imarticus_2/SPJain4.webp"
+    },
+    {
+      "img": "/imarticus_2/IITROORKEE4.webp"
+    },
+    {
+      "img": "/imarticus_2/ECCouncil4.webp"
+    },
+    {
+      "img": "/imarticus_2/IIMC4.webp"
+    },
+    {
+      "img": "/imarticus_2/Moody4.webp"
+    },
+    {
+      "img": "/imarticus_2/IITGuwahati4.webp"
+    },
+    {
+      "img": "/imarticus_2/Foundation4.webp"
+    },
+    {
+      "img": "/imarticus_2/NSE4.webp"
+    },
+    {
+      "img": "/imarticus_2/KPMG4.webp"
+    },
+    {
+      "img": "/imarticus_2/IIMLucknow4.webp"
+    },
+    {
+      "img": "/imarticus_2/SPJain4.webp"
+    },
+    {
+      "img": "/imarticus_2/IITROORKEE4.webp"
+    }
+  ],
+  "hiringpartners": [
+    {
+      "img": "/imarticus_2/societe3.svg"
+    },
+    {
+      "img": "/imarticus_2/BNP8.webp"
+    },
+    {
+      "img": "/imarticus_2/hsbc8.webp"
+    },
+    {
+      "img": "/imarticus_2/ubs.webp"
+    },
+    {
+      "img": "/imarticus_2/kpmg3.svg"
+    },
+    {
+      "img": "/imarticus_2/rbslogo.svg"
+    },
+    {
+      "img": "/imarticus_2/Capgemininew.webp"
+    },
+    {
+      "img": "/imarticus_2/Goldmansachsnew.webp"
+    },
+    {
+      "img": "/imarticus_2/societe3.svg"
+    },
+    {
+      "img": "/imarticus_2/BNP8.webp"
+    },
+    {
+      "img": "/imarticus_2/hsbc8.webp"
+    },
+    {
+      "img": "/imarticus_2/ubs.webp"
+    },
+    {
+      "img": "/imarticus_2/kpmg3.svg"
+    },
+    {
+      "img": "/imarticus_2/rbslogo.svg"
+    },
+    {
+      "img": "/imarticus_2/Capgemininew.webp"
+    },
+    {
+      "img": "/imarticus_2/Goldmansachsnew.webp"
+    },
+    {
+      "img": "/imarticus_2/societe3.svg"
+    },
+    {
+      "img": "/imarticus_2/BNP8.webp"
+    },
+    {
+      "img": "/imarticus_2/hsbc8.webp"
+    },
+    {
+      "img": "/imarticus_2/ubs.webp"
+    },
+    {
+      "img": "/imarticus_2/kpmg3.svg"
+    },
+    {
+      "img": "/imarticus_2/rbslogo.svg"
+    },
+    {
+      "img": "/imarticus_2/Capgemininew.webp"
+    },
+    {
+      "img": "/imarticus_2/Goldmansachsnew.webp"
+    }
+  ],
+
+  "iit_roorkee": {
+    "header": {
+      "img": "/iit_roorkee/Banner(4).webp",
+      "basic": "Make data-driven decisions using data science skills",
+      "course_name1": "Certificate Program in",
+      "course_name2": "Data Science and Machine Learning",
+      "placement_ctc": "7.2 lacs",
+      "placement_no": "76%",
+      "start_date": "30th June, 2022",
+      "mode": "Live Online Training",
+      "class_schedule": "Saturday & Sunday",
+      "duration": "5 Months"
+    },
+    "alumini": [
+      {
+        "img": "/iit_roorkee/capgemini.webp"
+      },
+      {
+        "img": "/iit_roorkee/kpmg.webp"
+      },
+      {
+        "img": "/iit_roorkee/fractal.webp"
+      },
+      {
+        "img": "/iit_roorkee/tesco.webp"
+      },
+      {
+        "img": "/iit_roorkee/EY.webp"
+      },
+      {
+        "img": "/iit_roorkee/tata.webp"
+      },
+      {
+        "img": "/iit_roorkee/tiger.webp"
+      },
+      {
+        "img": "/iit_roorkee/accenture.webp"
+      }
+    ],
+    "become": [
+      {
+        "img": "/iit_roorkee/Group10.webp"
+      },
+      {
+        "img": "/iit_roorkee/Group12.webp"
+      },
+      {
+        "img": "/iit_roorkee/Group13.webp"
+      },
+      {
+        "img": "/iit_roorkee/Group18.webp"
+      },
+      {
+        "img": "/iit_roorkee/Group16.webp"
+      },
+      {
+        "img": "/iit_roorkee/Group19.webp"
+      }
+    ],
+    "about_course": {
+      "header": "About our Certificate Program in Data Science and Machine learning",
+      "data": "The Certificate Program in Data Science and Machine Learning is designed to get you started on the path of data science and machine learning. Built with iHUB DivyaSampark @IIT Roorkee, this program will teach you the fundamentals and aspects of data science and machine learning while equipping you with the proper knowledge to implement and apply these concepts to real-world problems. Learn data mining and machine learning tools with Python and how to use data-driven insights to positively impact organizational growth in this 5-month program designed by acclaimed IIT faculty members.",
+      "data1": "This data science program will enable learners to build a strong foundation in data science and specialize in machine learning with Python for data-driven decision-making. Through this program, we aim to develop professionals who can provide meaningful insights from data and help businesses make the right decisions for growth.",
+      "icon1": "/iit_roorkee/Group%202753.svg",
+      "icon_data1": "Make data-driven decisions using data science skills",
+      "icon2": "/iit_roorkee/Group%202754.svg",
+      "icon_data2": "Earn a premium certificate issued collectively by iHUB DivyaSampark @ IIT Roorkee and Department of Science & Technology (DST)"
+    },
+    "about_partner": {
+      "img": "/iit_roorkee/aboutImage1.webp",
+      "data": "iHUB DivyaSampark, a section 8 company (Non-Government Organization), is a Technology Innovation Hub at IIT Roorkee and is set up under the National Mission on Interdisciplinary Cyber-Physical Systems (NM-ICPS), initiated by the Department of Science & Technology (DST) to build innovative solutions, to train manpower and encourage entrepreneurship for the world’s current challenges like affordable health care, Industry 4.0 and sustainable smart cities. iHUB DivyaSampark aims to enable an innovative ecosystem in new-age technologies like AI, ML, Drones, Robots, data analytics (often called CPS technologies) and become the source for the next generation of digital technologies, products and services by promoting, enhancing core competencies, capacity building, manpower training to provide solutions for national strategic sectors and becoming a key contributor to Digital India.",
+      "data1": [
+        {
+          "img": "/iit_roorkee/image%20115.webp",
+          "name": "Prof. Sudeb Dasgupta",
+          "backgroud": "Project Director, iHUB DivyaSampark",
+          "data": "\"We’re delighted to partner with Imarticus Learning, one of the leaders in Edtech. We’ve strived to bring foremost education to our learners and provide them guidance for research and innovation. iHUB DivyaSampark @ IIT Roorkee fosters research innovation towards product/technology development in the areas of Healthcare, Industry 4.0 and Smart Cities. Through this association with Imarticus, we’re taking a step ahead in that direction. We bring iHUB DivyaSampark's expertise in building outstanding programs with IITs and Imarticus' technical expertise to deliver an outstanding learning experience through a holistic approach. Together, we envision creating a skilled workforce for innovation and digital growth.\""
+        },
+        {
+          "img": "/iit_roorkee/Manish%20Anand%20-%20CEO%20-%20iHUBB%201.webp",
+          "name": "Manish Anand",
+          "backgroud": "Chief Executive Officer, iHUB DivyaSampark",
+          "data": "We are very excited about this partnership with Imarticus Learning. Skill development is one of the mandates of the National Mission on Interdisciplinary Cyber-Physical System (NM-ICPS) as it will prepare India for Industry 4.0 and Society 5.0. I am very sure that this partnership between iHUB DivyaSampark, a Technology Innovation Hub at IIT Roorkee will help India in achieving Skill development-related goals in new-age technologies like AI/ML and ultimately achieve the bigger goal of Aatmanirbhar Bharat and Digital India."
+        },
+        {
+          "img": "/iit_roorkee/Dr%201.webp",
+          "name": "Dr R. Balasubramanian",
+          "backgroud": "Coordinator, IIT Roorkee",
+          "data": "Emerging technologies and rapid digital transformation are changing the outlook of every industry today and data have become the most critical element. Organizations, government bodies, and businesses need to make data-driven decisions for growth. With the growing demand for data insights, the demand for professionals with data science skills within every organization has increased exponentially. However, learning and mastering data science skills to make data-driven decisions is difficult. iHUB DivyaSampark has developed this data science program with Imarticus Learning which builds a strong foundation of data science and creates specialization in machine learning with Python for data-driven decision making. Through this program, we aim to develop professionals who could provide meaningful insights from data and help businesses make the right decisions for growth."
+        }
+      ]
+    },
+    "certificate": [
+      {
+        "icon": "/iit_roorkee/Group.svg",
+        "icon_head": "Designed by the IIT faculty for early and mid-level professionals",
+        "icon_data": "The program has been designed by IIT faculty and industry experts. It will enable learners to build a strong foundation in data science and specialize in machine learning with Python for data-driven decision-making. Through this program, we aim to develop professionals who can provide meaningful insights from data and help businesses make the right decisions for growth."
+      },
+      {
+        "icon": "/iit_roorkee/newVector.png",
+        "icon_head": "Live training by IIT faculty and industry experts",
+        "icon_data": "The program will be delivered live through online sessions with the top faculty of India. The faculty belong to IIT Roorkee, IIT Guwahati, IIT Ropar and other premier institutes. The industry experts have extensive experience working on data science and machine learning projects across multiple organizations."
+      },
+      {
+        "icon": "/iit_roorkee/Group%20(1)%20(1).svg",
+        "icon_head": "Campus Immersion at iHUB Divyasampark @IIT Roorkee",
+        "icon_data": "Participate in 2-day campus immersion at iHUB DivyaSampark @IIT Roorkee (Greater Noida campus) and get an opportunity to connect with the IIT faculty and your peers. Visit the iHUB DivyaSampark startup incubation centre to pitch your startup idea in Healthcare, Industry 4.0 and Sustainable smart cities. Terms and conditions apply."
+      },
+      {
+        "icon": "/iit_roorkee/Group%20(2)%20(1).svg",
+        "icon_head": "Startup mentorship and funding program",
+        "icon_data": "Under the Digital India support scheme, iHUB DivyaSampark@ IIT Roorkee will provide a platform for enthusiastic startup-minded learners to pitch their startup idea and get funding support. It is an exciting opportunity for enthusiastic learners who want to start their own business and build something they are really proud of."
+      },
+      {
+        "icon": "/iit_roorkee/Science.svg",
+        "icon_head": "Program coordinated by Dr Balasubramanian – selected as top ML faculty in India:",
+        "icon_data": "This program will be coordinated by Dr Balasubramanian Raman who has been selected as the top academician in data science and ML. Dr Balasubramanian Raman is a Professor in the Department of Computer Science and Engineering at the Indian Institute of Technology Roorkee. He is also a Joint Faculty in the Mehta Family School of Data Science and Artificial Intelligence at IIT Roorkee."
+      },
+      {
+        "icon": "/iit_roorkee/topfaculty.svg",
+        "icon_head": "Certification by iHUB DivyaSampark @ IIT Roorkee and Department of Science & Technology",
+        "icon_data": "The program certificate will be issued collectively by iHUB DivyaSampark @ IIT Roorkee, Department of Science & Technology (DST) and Imarticus Learning under The National Mission on Interdisciplinary Cyber-Physical Systems (NM-ICPS). This certification by nationally-recognised bodies will enhance the learners’ profiles and help them stand out."
+      }
+    ],
+    "course": [
+      {
+        "head": "Python Programming",
+        "duration": "4 Weeks duration",
+        "data": [
+          {
+            "data1": "Introduction to Python"
+          },
+          {
+            "data1": "Python Objects & List Comprehension"
+          },
+          {
+            "data1": "User-defined and Lamda Functions"
+          },
+          {
+            "data1": "Numpy"
+          },
+          {
+            "data1": "Pandas"
+          },
+          {
+            "data1": "Data Frame Manipulation"
+          },
+          {
+            "data1": "Data Visualisation with Python"
+          },
+          {
+            "data1": "EDA"
+          }
+        ]
+      },
+      {
+        "head": "Statistics for Data Science",
+        "duration": "3 weeks duration",
+        "data": [
+          {
+            "data1": "Introduction to Statistics"
+          },
+          {
+            "data1": "Probability Theory"
+          },
+          {
+            "data1": "Probability Distributions"
+          },
+          {
+            "data1": "Hypothesis Testing"
+          },
+          {
+            "data1": "Statistical Tests"
+          }
+        ]
+      },
+      {
+        "head": "Machine Learning with Python",
+        "duration": "9 weeks duration",
+        "data": [
+          {
+            "data1": "Introduction to Machine Learning"
+          },
+          {
+            "data1": "Linear Regression"
+          },
+          {
+            "data1": "Optimisation"
+          },
+          {
+            "data1": "Logistic Regression"
+          },
+          {
+            "data1": "Decision Trees"
+          },
+          {
+            "data1": "Random Forest"
+          },
+          {
+            "data1": "PCA"
+          },
+          {
+            "data1": "K-Means Clustering"
+          },
+          {
+            "data1": "Time Series"
+          },
+          {
+            "data1": "Text Analytics"
+          },
+          {
+            "data1": "Neural Networks"
+          }
+        ]
+      },
+      {
+        "head": "SQL",
+        "duration": "1 week duration",
+        "data": [
+          {
+            "data1": "Introduction to SQL "
+          },
+          {
+            "data1": "Aggregate Functions"
+          },
+          {
+            "data1": "Date Functions"
+          },
+          {
+            "data1": "Joins"
+          },
+          {
+            "data1": "Sub-Queries"
+          }
+        ]
+      },
+      {
+        "head": "Data Visualisation with Tableau",
+        "duration": "1.5 weeks duration",
+        "data": [
+          {
+            "data1": "Introduction to Tableau"
+          },
+          {
+            "data1": "Data Connection"
+          },
+          {
+            "data1": "Tableau Interface and Basic Chart Types"
+          },
+          {
+            "data1": "Working with Metadata"
+          },
+          {
+            "data1": "Visual Analytics"
+          },
+          {
+            "data1": "Mapping"
+          },
+          {
+            "data1": "Stories and Dashboarding"
+          },
+          {
+            "data1": "Data Science Case Study"
+          }
+        ]
+      },
+      {
+        "head": "Career Services",
+        "duration": "1.5 weeks duration",
+        "data": [
+          {
+            "data1": "Resume/Profile Building"
+          },
+          {
+            "data1": "Mock Interviews"
+          },
+          {
+            "data1": "Capstone Project"
+          }
+        ]
+      }
+    ],
+    "language_img": [
+      {
+        "img": "/iit_roorkee/curriImage5.webp"
+      },
+      {
+        "img": "/iit_roorkee/curriImage6.webp"
+      },
+      {
+        "img": "/iit_roorkee/curriImage1.webp"
+      },
+      {
+        "img": "/iit_roorkee/curriImage2.webp"
+      },
+      {
+        "img": "/iit_roorkee/curriImage3.webp"
+      },
+      {
+        "img": "/iit_roorkee/curriImage4.webp"
+      }
+    ],
+    "project": [
+      {
+        "img": "/iit_roorkee/Rectangle%20165.webp",
+        "head": "Property Value prediction",
+        "points": [
+          {
+            "data": "Build a predictive model to predict the property valuations."
+          },
+          {
+            "data": "Learn how analytics is used by real-estate companies."
+          },
+          {
+            "data": "Industry: Real-Estate Analytics."
+          }
+        ]
+      },
+      {
+        "img": "/iit_roorkee/Rectangle%20382.webp",
+        "head": "VACCINE PREDICTION",
+        "points": [
+          {
+            "data": "Predict if a patient has been given a particular vaccine based on various medical attributes."
+          },
+          {
+            "data": "Learn how analytics is used by healthcare professionals/hospitals."
+          },
+          {
+            "data": "Industry: Healthcare Analytics."
+          }
+        ]
+      },
+      {
+        "img": "/iit_roorkee/Rectangle%20385.webp",
+        "head": "TAXI FARE PREDICTION",
+        "points": [
+          {
+            "data": "Predict taxi fares in a busy city using various journey related attributes, just like Uber and Ola."
+          },
+          {
+            "data": "Learn how analytics is used by online transportation companies like Uber and Ola."
+          },
+          {
+            "data": "Industry: Transportation/Logistics Analytics."
+          }
+        ]
+      },
+      {
+        "img": "/iit_roorkee/Rectangle%20388.webp",
+        "head": "Heart Disease Prediction ",
+        "points": [
+          {
+            "data": "Build a predictive model to predict if a person suffers from a heart disease."
+          },
+          {
+            "data": "Learn how analytics is used by healthcare professional/hospitals."
+          },
+          {
+            "data": "Industry: Healthcare Analytics."
+          }
+        ]
+      }
+    ],
+    "faculty": [
+      {
+        "img": "/iit_roorkee/Dr%201.webp",
+        "name": "Dr R. Balasubramanian",
+        "department": "Professor, Department of Computer Science and Engineering",
+        "college": "IIT Roorkee",
+        "data": "Prof. Balasubramanian Raman received his PhD degree from IIT Madras, India, in 2001 and served as a Post-Doctoral Fellow at the University of Missouri, Columbia, the USA, and a Post-Doctoral Associate at the State University of New Jersey, USA. He has also served as a Lecturer at the Birla Institute of Technology and Science, Pilani, India, a Guest Scientist at the International Centre for Theoretical Physics Trieste, ITALY, and a Visiting Professor at the University of Windsor, CANADA. He has been with the Indian Institute of Technology, Roorkee, India, since 2004, where he is currently working as a Professor in the Department of Computer Science and Engineering and a Joint Faculty in the Mehta Family School of Data Science and Artificial Intelligence. In addition, he has held visiting research positions at various international universities. He is the recipient of the BOYSCAST fellowship, awarded by the Department of Science and Technology, India. He has supervised 28 PhD students (08 ongoing), delivered 20 Industrial R&D projects (5 ongoing), and published over 200 papers in international journals, conferences, and books of international reputation. His research areas include Machine Learning, Image and Video Processing, Medical Imaging, Computer Vision, Activity Recognition, Pattern Recognition, Privacy-Preserving Computing, and Data Security."
+      },
+      {
+        "img": "/iit_roorkee/Dr%203.webp",
+        "name": "Dr Subrahmanyam Murala",
+        "department": "Associate Professor, Department of Electrical Engineering",
+        "college": "IIT Ropar",
+        "data": "Dr Subrahmanyam Murala received a B.E. degree in Electrical and Electronics Engineering from Andhra University, Andhra Pradesh, India, in 2007. Afterwards, he received his M.Tech. and PhD degrees from the Department of Electrical Engineering, Indian Institute of Technology Roorkee, Roorkee, India, in 2009 and 2012. He was a Post-Doctoral Researcher in the Department of Electrical and Computer Engineering at the University of Windsor, Windsor, ON, Canada, from July 01, 2012, to June 30, 2014. Currently, He is working as an Associate Professor in the Department of Electrical Engineering, IIT Ropar, Rupnagar, Punjab, India. His primary fields of interest are Image Restoration, Computer Vision, Medical Image Processing, and Object Detection."
+      },
+      {
+        "img": "/iit_roorkee/Dr3.webp",
+        "name": "Dr Santosh Kumar Vipparthi",
+        "department": "Assistant Professor, Mehta Family School of Data Science and AI",
+        "college": "IIT Guwahati",
+        "data": "Dr Santosh Kumar Vipparthi, a Senior Member of IEEE, has 11+ years of experience in academia and industry. Dr Vipparthi focuses on visual perception tasks such as human emotion recognition, cognitive state assessment, gesture recognition, change detection, object detection, image retrieval, motion analysis, aberrant event detection, and identification. He has been awarded a Ph.D. and M.Tech from the Indian Institute of Technology Varanasi (IIT Varanasi), BHU, and B.Tech from Andhra University.  Currently, he is working in the Mehta Family School of Data Science and Artificial Intelligence, Indian Institute of Technology Guwahati (IIT Guwahati)."
+      },
+      {
+        "img": "/iit_roorkee/Dr4.webp",
+        "name": "Kumar Sundaram",
+        "department": "Industry Expert",
+        "college": "",
+        "data": "Kumar is an Industry Expert who is fascinated by the research happening in the Data Science/ML space & enjoys solving problems.  He holds a rich experience of fulfilling end-to-end consulting /analytics requirements for corporate marketing strategies and Deriving Go to Market strategies for different markets/services/channels/aspirational accounts. Kumar’s tech expertise includes Analytics/Machine Learning using SAS/R/Python/Tableau/Excel.He has extensive experience in building technical teams & products Vast experience in business development pertaining to schools, universities, and educational institutions by large.He has gained knowledge and Expertise in Underwriting Strategies, Risk Scores & Modeling, Analytics, Transformation ,and Risk and Information Management."
+      }
+    ],
+    "testimonial": [
+      {
+        "img": "/iit_roorkee/exampl1.webp",
+        "name": "Zulfiqar Habibuddin Shaikh",
+        "company": "Saama",
+        "content": "I enrolled at Imarticus Learning Pune in a postgraduate program in Data Analytics. It was my privilege to be mentored and trained by some really excellent trainers throughout the course. This course incorporates the latest tools and technologies in data science and analytics that the industry demands. Furthermore, the course provides assignments to allow you to gain a firm understanding of the concepts. Every member of the Imarticus team works collaboratively. The team has a dedicated placement cell. Thanks to the Imarticus Learning team for helping me find a job.",
+        "data": "I enrolled at Imarticus Learning Pune in a postgraduate program in Data Analytics. It was my privilege to be mentored and trained by some really excellent",
+        "img1": "https://cdn.pegasus.imarticus.org/imarticus_2/stargroupfull.svg?auto=format&fit=max&w=96",
+        "imgMore": "/iit_roorkee/Zulfiquar_More.webp"
+      },
+      {
+        "img": "iit_roorkee/exampl-1.webp",
+        "name": "Komal Boraste",
+        "company": "Saama",
+        "content": "With Imarticus Learning, I have completed a postgraduate program in Data Analytics. Overall, I had a positive learning experience. The faculty is very knowledgeable and supportive as well. With the help of the soft skill sessions and mock interviews, I was able to prepare for interviews with confidence. Thank you Imarticus!",
+        "data": "With Imarticus Learning, I have completed a postgraduate program in Data Analytics. Overall, I had a positive learning experience. The faculty is very",
+        "img1": "https://cdn.pegasus.imarticus.org/imarticus_2/stargroupfull.svg?auto=format&fit=max&w=96",
+        "imgMore": "/iit_roorkee/Komal_Boraste_More.webp"
+      },
+      {
+        "img": "iit_roorkee/Ellipse22.webp",
+        "name": "Bipasha Sikarwar",
+        "company": "CBRE",
+        "content": "After completing graduation in B.Com I chose a career in data analytics. Being from a non-technical background, this was quite new. But joining a course from Imarticus Learning has been my best decision.",
+        "data": "After completing graduation in B.Com I chose a career in data analytics. Being from a non-technical background, this was quite new. But joining",
+        "img1": "https://cdn.pegasus.imarticus.org/imarticus_2/stargroupfull.svg?auto=format&fit=max&w=96",
+        "imgMore": "/iit_roorkee/Bipasha_Sikarwar_More.webp"
+      },
+      {
+        "img": "iit_roorkee/Ellipse15.webp",
+        "name": "Posheen Rajdan",
+        "company": "Morning Star",
+        "content": "Imarticus Learning offered me overall growth in terms of academics as well as personal growth. Thank you Imarticus!",
+        "data": "Imarticus Learning offered me overall growth in terms of academics as well as personal growth. Thank you Imarticus!",
+        "img1": "https://cdn.pegasus.imarticus.org/imarticus_2/stargroupfull.svg?auto=format&fit=max&w=96",
+        "imgMore": "/iit_roorkee/Posheen_Rajdan_More.webp"
+      }
+    ],
+    "QnA": [
+      {
+        "head": "How will I learn during the course?",
+        "data": "You will learn through live online sessions with faculty from IIT and other premier institutes. The industry experts will help you learn practical applications of data science concepts to real-world problems. There will be more than 10 exercises and projects. During the online sessions, you will get an opportunity to discuss with peers from different professional backgrounds and experiences. Your doubts will be resolved in live sessions to help you learn. There will be assessments to help you identify gaps and improve on them."
+      },
+      {
+        "head": "What if I miss a class?",
+        "data": "Every live session will be recorded and the recordings will be available for your reference on the learning platform. If you missed a class, you can go through the recorded session and cover the topics. Though, we recommend not missing any class for effective learning."
+      },
+      {
+        "head": "What is the attendance policy?",
+        "data": "It is recommended that you attend each live training session. However, you need to attend at least 80% of the live sessions to be eligible for certification."
+      },
+      {
+        "head": "What is the admission process?",
+        "data": "Once you have submitted your interest in the program, our advisor will connect with you and help you understand the program better. The advisor will take your academic and professional details. Your profile will be reviewed and you will receive an admission offer if your profile meets all the criteria."
+      },
+      {
+        "head": "Is there any placement assistance?",
+        "data": "This program helps learners become ready for data-driven decision making roles. The learners can look forward to job roles like data analyst, business analyst, data scientist, team lead, manager, etc. We will help you prepare for such jobs through our career services. It includes resume and LinkedIn profile building and interview preparation sessions. The industry experts will guide you on how to prepare for job interviews and conduct mock interviews."
+      },
+      {
+        "head": "What is Campus Immersion?",
+        "data": "After completing the course, you will get an opportunity to participate in a 2-day campus immersion program at iHUB Divyasampark @IIT Roorkee (Greater Noida campus). It is a great platform to connect with the IIT faculty and your peers. You can also visit the iHUB startup incubation centre to pitch your startup idea in Healthcare, Industry 4.0 and Sustainable smart cities. Terms and conditions apply."
+      }
+    ]
+  },
+  "Acp_page": {
+    "section1": {
+      "heading": "Interested In Becoming An Imarticus Admission Partner?"
+    },
+    "section2": {
+      "heading": "Grow Your Business Exponentially",
+      "data": "If you are interested in providing vocational training along with assured placements and transforming careers while growing your business, this is an opportunity for you. As a partner, you will gain access to promote Imarticus leading programs and be instrumental in changing the education landscape with us.",
+      "numbers": ["10,00,000+", "56,000+", "500+"],
+      "numberdata": ["Learners", "Placements", "Partners"]
+    },
+    "section3": {
+      "heading": "Work With Us To Deliver Outstanding Learning Experiences",
+      "data": [
+        "Partner with the industry's most reputed education ecosystem, Imarticus Learning. At Imarticus, we are dedicated to bringing progressive and future-focused education to our students.",
+        "With over 1,00,000 learners and 500 partnerships with leading institutions and corporations, gain access to an extensive network of opportunities.Join us as an admission partner in our efforts to provide top of the line programs and assured placements to aspiring candidates."
+      ]
+    },
+    "section4": {
+      "heading": "Build Your Business With Imarticus",
+      "points": [
+        "Semi-monthly payouts to manage your business expenses.",
+        "Use our brand name in your office.",
+        "Promote our premier programs.",
+        "Counsel students for various assured placement programs.",
+        "Admit students to both classroom and online programs.",
+        "Get dedicated branding support from Imarticus to grow your business.",
+        "Lead management software to organise leads.",
+        "Staffing support to manage your business."
+      ]
+    },
+    "section5": {
+      "heading": "Authorised Admission Partner Model – Elite Business Partner Club",
+      "points": [
+        "Highest payouts in the industry",
+        "Office branding and promotion support",
+        "Integration with Imarticus’ internal systems and dedicated email id",
+        "Lead management system",
+        "Qualified digital marketing lead support",
+        "Exclusive rights over territories",
+        "Manpower support"
+      ]
+    },
+    "section6": {
+      "heading": "Get Connected To The Industry’s Most Powerful Educator Network",
+      "data": "Imarticus is the only Edtech company that provides a holistic learning experience with a complete ecosystem of programs, resources and technologies in an integrated approach. We continuously develop comprehensive solutions to suit the changing times, needs and demands of the learners to accelerate student achievement. We offer online and in-class programs at twelve centres, including Mumbai, Pune, Delhi, Bangalore, Lucknow, Hyderabad and Chennai, Jaipur, Patna, Coimbatore, Kolkata, Ahmedabad. We're renowned for our state of the art facilities and foremost programs in the fields of banking, finance, fintech, analytics, data science, artificial intelligence, and machine learning."
+    },
+    "section7": {
+      "heading": "Lead The Way With",
+      "data": "As an Authorised Admission Partner, you would enjoy all the benefits and leverage our extensive network with Imarticus. Join us in our endeavour to establish a robust ecosystem for education in India."
+    },
+    "section8": {
+      "heading": "Eligibility",
+      "points": [
+        "Pay a nominal sign-up fee to become an Admission Partner.",
+        "Workforce comprising of a caller and a business development executive or above.",
+        "Connect with the local institutions and network consisting of students and working professionals.",
+        "Acceptance of the terms and conditions."
+      ],
+      "note": "Please note:",
+      "notedata": "We will be happy to discuss and share our detailed terms and conditions before the agreement process. Admission Partners cannot collect fees or any other charges from the students or candidates. Imarticus will manage all fees and payments."
+    }
+  },
+  "iim_indore": {
+    "alumini": [
+      {
+        "img": "/iim_indore/accenture(1).webp"
+      },
+      {
+        "img": "/iim_indore/flipkart(1).webp"
+      },
+      {
+        "img": "/iim_indore/gensuite.webp"
+      },
+      {
+        "img": "/iim_indore/hsbc.webp"
+      },
+      {
+        "img": "/iim_indore/icici.webp"
+      },
+      {
+        "img": "/iim_indore/kpmg.webp"
+      },
+      {
+        "img": "/iim_indore/nestle.webp"
+      }
+    ],
+    "about": [
+      {
+        "img": "/iim_indore/about4.webp",
+        "head": "Forward-looking Curriculum",
+        "data": "You will learn the foundational elements of capital structure, treasury, and risk management along with new-age components such as evolving CFO responsibilities, Fintech, and tech-driven financial services."
+      },
+      {
+        "img": "/iim_indore/about3.webp",
+        "head": "IIM Indore Executive Education Alumni Status",
+        "data": "As an IIM Indore executive alumni you will have access to IIM Indore's campus library and an IIM Indore email id through the lifetime alumni membership."
+      },
+      {
+        "img": "/iim_indore/about2.webp",
+        "head": "Peer Learning and Networking",
+        "data": "You will get an opportunity to meet and interact with your peers and industry experts as part of this program. Network and build meaningful relationships by sharing your experiences."
+      },
+      {
+        "img": "/iim_indore/about1.webp",
+        "head": "Masterclasses with Industry Experts",
+        "data": "Learn and interact with leading CFOs to get real-world insight into the financial realm and lead organizational change."
+      }
+    ],
+    "partner": {
+      "img": "/iim_indore/PartnerMainImage.webp",
+      "head": "Established in 1996, the Indian Institute of Management Indore (IIM Indore) has been a leader in the field of management education, interfacing with the industry, government and PSUs. It is promoted and nurtured by the Ministry of Education, Government of India and is an institute of national importance under the Indian Institutes of Management Act 2017. They are at the forefront of providing carefully curated programs that cater to the needs of executives. IIM Indore is renowned for its focus on academic excellence, reinforced by the Triple Crown accreditation that IIM Indore has achieved. Being the second IIM to receive this achievement and being among the top 1% of business schools globally to have the Triple Crown accreditation, their executive education programs are contextually relevant to meet the demands of contemporary business challenges.",
+      "card": [
+        {
+          "img": "/iim_indore/Nikhil 1.png",
+          "name": "Nikhil Barshikar",
+          "background": "Founder and Managing Director, Imarticus Learning",
+          "head": "We're pleased to announce our collaboration with IIM Indore, one of India's finest institutes in management education. We have combined IIM Indore's expertise with Imarticus' excellence in delivering outstanding executive education to deliver this program. With this program, we want to provide top-of-the-line finance education to aspiring CFOs. We look forward to a long-term and mutually beneficial association with IIM Indore."
+        }
+      ]
+    },
+    "course": [
+      {
+        "head": "Emerging CFO Role",
+        "duration": "12 hours",
+        "data": [
+          {
+            "data1": "Changing CFO Responsibilities"
+          },
+          {
+            "data1": "Business: Digitally Enabled and the Tech Landscape"
+          },
+          {
+            "data1": "Corporate Finance Strategy"
+          },
+          {
+            "data1": "Economy and Financial Markets"
+          },
+          {
+            "data1": "Cost of Capital"
+          },
+          { "data": true, "data1": "Masterclass 1: CFO Role - Then, and Now" }
+        ]
+      },
+      {
+        "head": "Technology, Information and Capital Budgeting",
+        "data": [
+          {
+            "data1": "Technology and Data Assets"
+          },
+          {
+            "data1": "Data Driven Financial Decision Making"
+          },
+          {
+            "data1": "Investment Criteria for Capital Budgeting"
+          },
+          {
+            "data1": "Optionality in Investment Decisions"
+          },
+          {
+            "data": true,
+            "data1": "Masterclass 2: Role of Data for Emerging CFOs"
+          }
+        ]
+      },
+      {
+        "head": "Business Model, Impact and Valuation",
+        "data": [
+          {
+            "data1": "Business and Product Model Innovation"
+          },
+          {
+            "data1": "Financial Markets and Regulatory Landscape"
+          },
+          {
+            "data1": "Customer Orientation and Lifetime Value Platform Models"
+          },
+          {
+            "data1": "Principles of Business Valuation"
+          },
+          {
+            "data1": "Valuation of Start-ups"
+          },
+          {
+            "data1": "Accounting Policies, Financial Statements and Valuation"
+          },
+          {
+            "data1": "Valuing Digital Business Models"
+          },
+          {
+            "data": true,
+            "data1": "Masterclass 3: Exercise in valuing a non-listed private company"
+          },
+          {
+            "data": true,
+            "data1": "Masterclass 4: Exercise in valuing a public company"
+          }
+        ]
+      },
+      {
+        "head": "Financial Leadership and Strategic Thinking",
+        "data": [
+          {
+            "data1": "Introduction to Strategy"
+          },
+          {
+            "data1": "Strategic Choices and Value Creation"
+          },
+          {
+            "data1": "Leading Legacy Organizations with New Business Models"
+          },
+          {
+            "data1": "Strategy Audit"
+          },
+          {
+            "data1": "Value Creation and Corporate Strategy"
+          },
+          {
+            "data1": "Leading Growth and Innovation through Uncertainty"
+          },
+          {
+            "data1": "Leading Start-ups in the Growth Phase"
+          },
+          {
+            "data1": "Principles of Mergers and Acquisition"
+          },
+          {
+            "data1": "Role of CFO in Deal Structuring"
+          },
+          {
+            "data1": "Managing Post Integration Challenges"
+          },
+          {
+            "data": true,
+            "data1": "Masterclass 5: Walk-through of a M&A structure - Pre & Post deal"
+          }
+        ]
+      },
+      {
+        "head": "Capital Structure and Distribution Policies",
+        "data": [
+          {
+            "data1": "Theory of Capital Structure"
+          },
+          {
+            "data1": "Taking Company Public via IPO"
+          },
+          {
+            "data1": "Debt Recapitalisation"
+          },
+          {
+            "data1": "Distribution of Dividends"
+          },
+          {
+            "data1": "Earnings Management and Investor Interfacing"
+          },
+          {
+            "data": true,
+            "data1": "Masterclass 6: How do you prepare for an earning’s call?"
+          }
+        ]
+      },
+      {
+        "head": "Treasury and Risk Management ",
+        "data": [
+          {
+            "data1": "Fixed Income Securities"
+          },
+          {
+            "data1": "Cross Currency Exposure"
+          },
+          {
+            "data1": "Derivatives Securities"
+          },
+          {
+            "data1": "Asset and Liability Management (ALM)"
+          },
+          {
+            "data1": "Credit Market and Operational Risk Management"
+          },
+          {
+            "data1": "Information Security"
+          },
+          {
+            "data1": "Portfolio Management - Real and Financial Assets"
+          },
+          {
+            "data": true,
+            "data1": "Masterclass 7: Innovative Strategies to Manage Firm Liquidity"
+          },
+          {
+            "data": true,
+            "data1": "Masterclass 8: How do you prepare and implement a Risk Profile?"
+          }
+        ]
+      },
+      {
+        "head": "Importance of Business Environment",
+        "data": [
+          {
+            "data1": "Cost - Volume - Profit (CVP) Analysis"
+          },
+          {
+            "data1": "Competing on Price in Oligopolistic and Competitive Markets"
+          },
+          {
+            "data1": "Strategies to Fight Low-Cost Rivals"
+          },
+          {
+            "data1": "Dynamic Economic and Business Environment"
+          },
+          {
+            "data1": "Fintech Landscape and Fintech for Investments"
+          },
+          {
+            "data1": "Emerging Technologies: AI and Blockchain"
+          },
+          {
+            "data1": "Digital Payments and Remittances"
+          },
+          {
+            "data1": "Strategic Management of Digital Financial Services"
+          },
+          {
+            "data": true,
+            "data1": "Masterclass 9: Staying abreast with the ever-evolving Fintech landscape"
+          }
+        ]
+      },
+      {
+        "head": "Talent Management and Leadership",
+        "data": [
+          {
+            "data1": "Using Design Thinking Principles for Problem Solving and Driving Innovation"
+          },
+          {
+            "data1": "Leading Remote Organizations and High-Performance Teams"
+          },
+          {
+            "data1": "Focused Execution and Challenging Mindsets"
+          },
+          {
+            "data1": "Leading Future of Work and Second Level of Leadership"
+          },
+          {
+            "data": true,
+            "data1": "Masterclass 10: The Finance Org and role of second-level leaders"
+          }
+        ]
+      },
+      {
+        "head": "Corporate Governance, CFO Responsibilities and Ethics",
+        "data": [
+          {
+            "data1": "Role of Board and Audit Committee"
+          },
+          {
+            "data1": "Engaging the Board"
+          },
+          {
+            "data1": "Regulations and Supervisions in Digital Businesses"
+          },
+          {
+            "data1": "Managing Investor Relations"
+          },
+          {
+            "data1": "Crisis Management and Communicating During Disruptions"
+          },
+          {
+            "data1": "Ethical Dilemmas, Anti-Bribery, and Anti-Corruption Regulations"
+          },
+          {
+            "data1": "Data Privacy & Sustainable Investing"
+          },
+          {
+            "data": true,
+            "data1": "Masterclass 11: Corporate Governance & Communications"
+          },
+          {
+            "data": true,
+            "data1": "Masterclass 12: The Responsible CFO: Peep into Data, Ethics and ESG"
+          }
+        ]
+      }
+    ],
+    "project": [
+      {
+        "img": "/iim_indore/Project1.webp",
+        "head": "Supply Chain Management with 7-Eleven",
+        "points": {
+          "data": "This is one of the most popular case studies in the Harvard Case Collection to understand effective use of various Supply Chain drivers such as inventory, information, and facilities. 7-Eleven is a Japanese company operating in the convenience store industry having a large presence in Japan and various other markets."
+        }
+      },
+      {
+        "img": "/iim_indore/Project2.webp",
+        "head": "Alko’s Annual Inventory Policy",
+        "points": {
+          "data": "Alko is a company dealing in lighting fixtures. The case study is designed to understand annual inventory and distribution cost of the existing inventory system. The case discusses the change in inventory policy to minimize the cost of annual inventory."
+        }
+      },
+      {
+        "img": "/iim_indore/Project2.webp",
+        "head": "Predictive Analytics Project for Demand Forecasting",
+        "points": {
+          "data": "Course participants will do a project on demand forecasting using data analytics. The forecasting will be done for entire Supply Chain using regression techniques. Data of different sources of social media will be used to understand the use of analytical tools for forecasting."
+        }
+      },
+      {
+        "img": "/iim_indore/Project3.webp",
+        "head": "Property Value prediction",
+        "points": {
+          "data": "Decision Tree models will be used to manage uncertainties in Supply Chain networks. Participants will be asked to collect data from secondary sources for different types of Supply Chain. It will help them to make decisions which can minimize the risk."
+        }
+      }
+    ],
+    "faculty": [
+      {
+        "img": "/iim_indore/Faculty image.png",
+        "name": "Prof. Mehul Raithatha",
+        "data": "Dr Mehul Raithatha is a faculty in finance and accounting. He has done his doctorate from S J Mehta School of Management, Indian Institute of Technology Bombay. His doctoral dissertation was in the area of Financial Reporting and Compliance. He holds a Chartered Financial Analyst (CFA) degree from ICFAI University and M.Com.(Accounting) from Mumbai University. Before joining IIM Indore, he was faculty at IFMR Chennai. His research interests include financial reporting, corporate governance, audit quality, and earnings quality. His teaching interests include Financial Accounting and Reporting, Cost and Management Accounting, and Financial Analysis."
+      },
+      {
+        "img": "/iim_indore/faculty.png",
+        "name": "Prof. Debasish Maitra",
+        "data": "Prof. Debasish Maitra is a faculty in finance and accounting. He is a fellow from the Institute of Rural Management Anand (IRMA), India. Before joining IIM Indore, he was with IMT Ghaziabad. His research interests include the interplay between risk and bank performance during post-financial crisis, commodity markets (development,co-movements with other markets, and regulatory issues), volatility dynamics of markets, the influence of macroeconomics on different asset markets, derivatives listing/delisting, and its effects on stock returns, and non-linear relationships among factors affecting stock returns and volatility over different investment horizons."
+      }
+    ],
+    "QnA": [
+      {
+        "head": "Will all students receive the certificate of successful completion?",
+        "data": "Successful candidates will receive a Certificate of Successful Completion from IIM Indore. Candidates will not qualify for successful completion if they have an 'F' grade in 50% of the courses or/and overall attendance for the program is less than 75%. The program and courses will follow a relative grading schema for evaluation."
+      },
+      {
+        "head": "What are the admissions criteria?",
+        "data": "Admission is on profile-based selection. Resumes will be reviewed by the Admissions team and IIM Indore Executive Education team."
+      },
+      {
+        "head": "Do you accept corporate nominations?",
+        "data": "Corporate nominations will be encouraged, and a special offer of a minimum of five nominations exists. In addition, a discount of up to 10% on the program fee may be offered for bulk nominations of 5 participants or more from a single corporate. However, the extent of the discount will be determined on a case-to-case basis."
+      },
+      {
+        "head": "How will you evaluate our progress through the course?",
+        "data": "You will be evaluated through quizzes, assignments, online exams, presentations, and projects."
+      },
+      {
+        "head": "How long is the course?",
+        "data": "Classes are being planned for every Saturday / Sunday between 6 pm to 9 pm."
+      }
+    ],
+    "QnA2": [
+      {
+        "head": "Is there any loan facility?",
+        "data": "Yes, there is. Please talk to our counselor for more details."
+      }
+    ],
+    "QnA3": [
+      {
+        "data1": "Registration fee",
+        "data4": "(including Rs. 3,000 + GST non-refundable application fee)",
+        "data2": "Rs. 43,000 + GST",
+        "data3": "At the time of Registration"
+      },
+      {
+        "data1": "1st Instalment",
+        "data2": "Rs. 85,000 + GST",
+        "data3": "Within 2 weeks of Admission Offer Release or Application Round Closure Date, whichever is earlier"
+      },
+      {
+        "data1": "2nd Instalment",
+        "data2": "Rs. 1,00,000 + GST",
+        "data3": "November 10th, 2022"
+      },
+      {
+        "data1": "3rd Instalment",
+        "data2": "Rs. 1,00,000 + GST",
+        "data3": "January 10th, 2023"
+      },
+      {
+        "data1": "4th Instalment",
+        "data2": "Rs. 45,000 + GST",
+        "data3": "March 10th, 2023"
+      }
+    ]
+  },
+  "iitR_dm": {
+    "faculty2": [
+      {
+        "img": "/iit_roorkee_dm/faculty3.webp",
+        "name": "Nikhil Barshikar",
+        "background": "Founder and Managing Director, Imarticus Learning ",
+        "data": "The digital age has heralded a new era in which technology and digital abilities are at the fore. We are committed to providing our students with the greatest quality education possible, and our collaboration with IIT Roorkee is another step in that direction. Imarticus is proud to join with IIT Roorkee to provide a top-notch digital marketing program for students interested in gaining a comprehensive understanding of digital marketing and a competitive advantage in the digital world."
+      },
+      {
+        "img": "/iit_roorkee_dm/faculty1.webp",
+        "name": "Prof. Kalpak Kulkarni",
+        "background": "Assistant Professor, Marketing, IIT Roorkee",
+        "data": "Kalpak Kulkarni is an Assistant Professor of Marketing at the Department of Management Studies, Indian Institute of Technology Roorkee, Roorkee. Previously he was associated with Goa Institute of Management, Goa. He has completed his doctoral studies at the Shailesh J. Mehta School of Management, IIT Bombay. His research deals with understanding processes and factors that influence consumers' evaluation of new-age media and communication formats like viral advertisements and moment marketing campaigns."
+      }
+    ],
+    "alumini": [
+      {
+        "img": "/iit_roorkee_dm/alumini.webp"
+      },
+      {
+        "img": "/iit_roorkee_dm/alumini1.webp"
+      },
+      {
+        "img": "/iit_roorkee_dm/alumini2.webp"
+      },
+      {
+        "img": "/iit_roorkee_dm/alumini3.webp"
+      },
+      {
+        "img": "/iit_roorkee_dm/alumini4.webp"
+      },
+      {
+        "img": "/iit_roorkee_dm/alumini5.webp"
+      },
+      {
+        "img": "/iit_roorkee_dm/image115.webp"
+      }
+    ],
+    "about": [
+      {
+        "img": "/iit_roorkee_dm/about.webp",
+        "head": "Learn Job-Relevant Skills",
+        "data": "Build a rewarding digital marketing and MarTech career by learning the latest tools and techniques, understanding emerging trends, algorithms and working on real-world digital marketing projects."
+      },
+      {
+        "img": "/iit_roorkee_dm/about1.webp",
+        "head": "Gain a Certification from IIT Roorkee",
+        "data": "Upgrade your profile and become the preferred candidate at every job interview."
+      },
+      {
+        "img": "/iit_roorkee_dm/about2.webp",
+        "head": "Learn from IIT Faculty",
+        "data": "Learn from the best trainers and faculty in India through live online sessions and discussions."
+      },
+      {
+        "img": "/iit_roorkee_dm/about3.webp",
+        "head": "Get Mentored By Industry Experts",
+        "data": "Our highly-skilled program mentors will assist you through the program and encourage you to move towards your goals."
+      }
+    ],
+    "tools": [
+      {
+        "img": "iimindore/Google%20keyword%20planner.webp"
+      },
+      {
+        "img": "iimindore/Google%20trends.webp"
+      },
+      {
+        "img": "iimindore/Google%20search%20console.webp"
+      },
+      {
+        "img": "iimindore/Google%20tag%20manager.webp"
+      },
+      {
+        "img": "iimindore/Google%20analytics.webp"
+      },
+      {
+        "img": "iimindore/ahref.webp"
+      },
+      {
+        "img": "iimindore/facebook%20(1).webp"
+      },
+      {
+        "img": "iimindore/canva.webp"
+      },
+      {
+        "img": "iimindore/meta%20creator.webp"
+      },
+      {
+        "img": "iimindore/seo_meta.webp"
+      },
+      {
+        "img": "iimindore/Wordpress.webp"
+      },
+      {
+        "img": "iimindore/similar%20web.webp"
+      },
+      {
+        "img": "iimindore/Unbounce%20.webp"
+      },
+      {
+        "img": "iimindore/woorank.webp"
+      },
+      {
+        "img": "iimindore/spyfu.webp"
+      }
+    ],
+    "unique": [
+      {
+        "img": "/iit_roorkee_dm/Frame.webp",
+        "head": "INDUSTRY-SPECIFIC TRAINING",
+        "data": "Get a comprehensive overview of digital marketing and MarTech and learn practical applications through case studies."
+      },
+      {
+        "img": "/iit_roorkee_dm/Frame1.webp",
+        "head": "CURRICULUM",
+        "data": "Our leading-edge curriculum is tailored to provide you with in-demand skills, an effective understanding of the subject matter and its practical application."
+      },
+      {
+        "img": "/iit_roorkee_dm/Frame2.webp",
+        "head": "EXTENSIVE CAREER SUPPORT",
+        "data": "We tailor our training and offer placement support to help you achieve your unique career goals through resume enhancements and interview preparation."
+      },
+      {
+        "img": "/iit_roorkee_dm/Frame3.webp",
+        "head": "CAMPUS IMMERSION",
+        "data": "Get an opportunity to visit the IIT Roorkee campus, interact with your peers and experience what campus life feels like at IIT Roorkee."
+      }
+    ],
+    "uniqueData": [
+      { "data": "Live training by IIT faculty" },
+      { "data": "Campus immersion at IIT Roorkee" },
+      { "data": "Certification from IIT Roorkee" },
+      { "data": "Curriculum design by IIT Roorkee" }
+    ],
+    "course": [
+      {
+        "head": "Introduction to Marketing",
+        "duration": "1 Week",
+        "data": [
+          {
+            "data1": "Role of Marketing"
+          },
+          {
+            "data1": "Consumers and Consumption"
+          },
+          {
+            "data1": "Segmentation, Targeting and Positioning"
+          },
+          {
+            "data1": "Designing Products and Services"
+          },
+          { "data1": "Pricing and Channels" },
+          { "data1": "Using Communication to Engage Customers" }
+        ]
+      },
+      {
+        "head": "Digital Marketing Perspective",
+        "duration": "1 Week",
+        "data": [
+          {
+            "data1": "Introduction to Digital Marketing Basics"
+          },
+          {
+            "data1": "Digital vs. Traditional Marketing"
+          },
+          {
+            "data1": "Why Care About Digital Marketing?"
+          },
+          {
+            "data1": "Revisiting Marketing Mix: Digital Perspective with Case Study"
+          },
+          {
+            "data1": "Opportunities in Digital Marketing in India"
+          }
+        ]
+      },
+      {
+        "head": "Understanding the Digital Customer",
+        "duration": "1 Week",
+        "data": [
+          {
+            "data1": "Personas in Digital Marketing"
+          },
+          {
+            "data1": "Developing, Using and Refining Personas"
+          },
+          {
+            "data1": "The Personas and User Journeys"
+          },
+          {
+            "data1": "Consumer Journey Mapping Frameworks"
+          },
+          {
+            "data1": "Digital Marketing Mix and Digital Models"
+          },
+          {
+            "data1": "Case-based Discussions"
+          }
+        ]
+      },
+      {
+        "head": "Website Design",
+        "duration": "1 Week",
+        "data": [
+          {
+            "data1": "Site Content and Design - Rules and Frameworks"
+          },
+          {
+            "data1": "Creating a Wordpress/Canva Website"
+          },
+          {
+            "data1": "Usability Testing, Launch and Management"
+          }
+        ]
+      },
+      {
+        "head": "Search Engine Marketing: SEO and Paid",
+        "duration": "3 Week",
+        "data": [
+          {
+            "data1": "Basics of SEO: On Page and Off Page"
+          },
+          {
+            "data1": "Methods and Best Practices for Traffic Building"
+          },
+          {
+            "data1": "Website Optimisation"
+          },
+          {
+            "data1": "Use of Backlinks"
+          },
+          {
+            "data1": "Paid and Organic Search"
+          },
+          {
+            "data1": "Choosing the Right Keywords"
+          },
+          {
+            "data1": "Keyword Research Tools"
+          },
+          {
+            "data1": "Google Adwords"
+          },
+          {
+            "data1": "Set Up, Manage and Optimise a Google Ad Campaign"
+          },
+          {
+            "data1": "Google Analytics"
+          }
+        ]
+      },
+      {
+        "head": "Content Marketing",
+        "duration": "1 Week",
+        "data": [
+          {
+            "data1": "Content Marketing Ecosystem"
+          },
+          {
+            "data1": "Using Content for Storytelling"
+          },
+          {
+            "data1": "Content Strategy - Message Architecture and Thought Leadership"
+          },
+          {
+            "data1": "Producing, Optimising, Distributing and Integrating Content"
+          },
+          {
+            "data1": "Content for Blogs and Videos"
+          },
+          {
+            "data1": "Integrated Content Marketing"
+          },
+          {
+            "data1": "Copywriting for Social Media "
+          }
+        ]
+      },
+      {
+        "head": "Email Marketing",
+        "duration": "1 Week",
+        "data": [
+          {
+            "data1": "Adding Email to Marketing Strategy"
+          },
+          {
+            "data1": "Email: Branding and Retention Tools"
+          },
+          {
+            "data1": "Email Marketing as a Process"
+          },
+          {
+            "data1": " Contacts and Lists"
+          },
+          {
+            "data1": "Effective Email Strategy"
+          }
+        ]
+      },
+      {
+        "head": "Social, Mobile and Influencer Marketing",
+        "duration": "3 Week",
+        "data": [
+          {
+            "data1": "Social Media Marketing - Trends"
+          },
+          {
+            "data1": "Social Media Marketing as Content Marketing"
+          },
+          {
+            "data1": "Paid, Earned and Shared Media "
+          },
+          {
+            "data1": "Social Media Landscape and Platforms - An Overview"
+          },
+          {
+            "data1": "Social Media Strategy and Selecting the Right Channels"
+          },
+          {
+            "data1": "Publishing on Social Media"
+          },
+          {
+            "data1": "Interacting with Customers on Social Media"
+          },
+          {
+            "data1": "Facebook, Instagram and Snapchat Marketing"
+          },
+          {
+            "data1": "Twitter, Linkedin and Youtube Marketing"
+          },
+          {
+            "data1": "Mobile Advertising"
+          },
+          {
+            "data1": "Influencer Marketing"
+          }
+        ]
+      },
+      {
+        "head": "Media Planning and Buying",
+        "duration": "1 Week",
+        "data": [
+          {
+            "data1": "Preparing a Media Brief"
+          },
+          {
+            "data1": "Key Terminologies"
+          },
+          {
+            "data1": "Types of Advertisements"
+          },
+          {
+            "data1": "Advanced Media Management"
+          }
+        ]
+      },
+      {
+        "head": "E-commerce and Affiliate Marketing",
+        "duration": "1 Week",
+        "data": [
+          {
+            "data1": "E-commerce Fundamentals and Business Models"
+          },
+          {
+            "data1": "Free and Paid Traffic for E-commerce"
+          },
+          {
+            "data1": "Optimising Conversions for E-commerce"
+          },
+          {
+            "data1": "Affiliate Marketing"
+          }
+        ]
+      },
+      {
+        "head": "Analytics for Digital Marketers",
+        "duration": "1 Week",
+        "data": [
+          {
+            "data1": "Descriptive, Predictive and Prescriptive Analytics"
+          },
+          {
+            "data1": "Market Basket Analysis"
+          },
+          {
+            "data1": "Sentiment Analysis"
+          }
+        ]
+      },
+      {
+        "head": "Digital Marketing Strategy and Planning",
+        "duration": "1 Week",
+        "data": [
+          {
+            "data1": "Digital Communication Strategy"
+          },
+          {
+            "data1": "Branding for Digital Communications"
+          },
+          {
+            "data1": "Personal Branding in a Digital World"
+          },
+          {
+            "data1": "Getting Ready for Digital Marketing Roles"
+          }
+        ]
+      }
+    ],
+    "project": [
+      {
+        "img": "/iit_roorkee_dm/Project.webp",
+        "head": "tata  motors",
+        "points": {
+          "data": "Tata Motors used social media to reposition itself as a modern and futuristic brand, and broke the stereotype of being old fashioned."
+        }
+      },
+      {
+        "img": "/iit_roorkee_dm/Project1.webp",
+        "head": "hindustan unilever limited",
+        "points": {
+          "data": "Be Beautiful, an online fashion website by HUL, used content marketing strategies to cater to the fashion needs of women."
+        }
+      },
+      {
+        "img": "/iit_roorkee_dm/Project2.webp",
+        "head": "Cadbury",
+        "points": {
+          "data": "Cadbury, India’s largest chocolate brand, used a clever strategy on social media to drive a successful campaign against cyberbullying."
+        }
+      }
+    ],
+    "faculty": [
+      {
+        "img": "/iit_roorkee_dm/faculty1.webp",
+        "name": "Prof. Kalpak Kulkarni",
+        "data": "Kalpak Kulkarni is an Assistant Professor of Marketing at the Department of Management Studies, Indian Institute of Technology Roorkee, Roorkee. Previously he was associated with Goa Institute of Management, Goa. He has completed his doctoral studies at the Shailesh J. Mehta School of Management, IIT Bombay. His research deals with understanding processes and factors that influence consumers' evaluation of new-age media and communication formats like viral advertisements and moment marketing campaigns."
+      },
+      {
+        "img": "/iit_roorkee_dm/faculty.webp",
+        "name": "Prof. Saurabh Arora ",
+        "data": "Sourabh Arora is an Assistant Professor at DoMS, IIT Roorkee. He worked as an assistant professor at XLRI, Jamshedpur. He earned a PhD from IIT Kharagpur and MBA in Marketing from the University School of Management, Kurukshetra University. His areas of interest include Consumer Behaviour, Showrooming, Webrooming and Multi-channel Shopping."
+      },
+      {
+        "img": "/iimindore/nitesh.webp",
+        "name": "Nitesh Kuchhal",
+        "data": "Nitesh Kuchhal is an Alumnus of IIM Calcutta (2011-13). He has over 6 years of experience in Digital Marketing. He is the founder & CEO of a Gurgaon based Digital Marketing & Digital Product Startup - Purple Brick Consulting. He has hands-on experience in nearly all facets of digital marketing - Marketing Automation, Email Marketing, Content Marketing, Web & Data Analytics, SEO, Google Search Advertising, Social Media Marketing (Facebook, LinkedIn, Instagram).Nitesh excels in helping companies grow by leveraging the power of digital platforms. He drives business results through communication strategies rooted in his deep understanding of consumer behaviour. He is passionate about building teams & setting sustainable & scalable processes to deliver business results. Known for his systematic planning & eye for detail, he ensures that diverse business functions collaborate and reach business goals.Prior to plunging into digital marketing, he was also a co-founder of an Ed-tech company. He has taken guest lectures on Digital Marketing at IIT Roorkee and IMT Ghaziabad."
+      }
+    ],
+    "QnA": [
+      {
+        "head": "Where do I attend these live classes?",
+        "data": "You can attend these classes from anywhere on your laptop with an internet connection. You can join the class through a link shared with all the students before the beginning of the class."
+      },
+      {
+        "head": "How do I enroll in the course?",
+        "data": "You can start by filling up your application form. If you clear the minimum criteria, then you will have to go through the interview. Once you are selected for the interview, then you can enrol in this digital marketing and MarTech course."
+      },
+      {
+        "head": "What if I miss a class?",
+        "data": "All the lectures will be available for the students to view on Imarticus Learning’s LMS platform after the class is over. However, you will not be able to ask direct questions to the Professor or TAs for that class."
+      },
+      {
+        "head": "Is there any attendance or minimum score policy for the Digital Marketing and MarTech course?",
+        "data": "Yes, the minimum attendance policy for the complete course is 80% and minimum marks in all assessments for successful course completion is 50%. You will also need to complete all the assignments and projects as per the instructions."
+      },
+      {
+        "head": "What is the duration of the campus immersion module?",
+        "data": "There is a 3-day campus immersion module at IIT Roorkee during which participants will visit the IIT Roorkee campus to interact with their peers and learn from faculty. However, this is subject to the COVID-19 situation. The cost of travel and accommodation will be borne by the students."
+      },
+      {
+        "head": "Will IIT Roorkee be helping with the placements?",
+        "data": "No. Placement assistance will be offered by Imarticus. IIT Roorkee will be involved in the training and certification of the students."
+      },
+      {
+        "head": "How will the career services work?",
+        "data": "The career services will be provided by Imarticus to the students who complete the course. We will help you build your resume, prepare you with workshops and mock interviews."
+      },
+      {
+        "head": "When will live sessions be conducted?",
+        "data": "The live sessions will be scheduled on weekends – Saturday and Sunday. The timings will be communicated during counselling."
+      },
+      {
+        "head": "Does IIT faculty deliver live sessions?",
+        "data": "Yes, an IIT faculty will train you on the conceptual topics and help you build a strong foundation for digital marketing and MarTech. Industry experts will provide hands-on learning through projects and exercises."
+      }
+    ],
+    "QnA2": [
+      {
+        "head": "What is the payment structure?",
+        "data": "The payment for the digital marketing and MarTech course can be made through credit card, debit card and net banking. One can either complete the process with a direct one-time payment or pay with equal monthly instalments with a bank loan."
+      },
+      {
+        "head": "What is the refund policy for this program?",
+        "data": "20% of the program fee is set aside as a non-refundable amount. The balance amount will be refunded only as per the final decision made by IIT Roorkee and Imarticus management depending on the case."
+      },
+      {
+        "head": "Are there any scholarships available for this program?",
+        "data": "Yes, we have scholarships available based on merit and experience. Please reach out to your program advisor for more details."
+      }
+    ]
+  },
+  "webinar_page": {
+    "header": {
+      "imgWeb": "/webinar_page/MainWeb.webp",
+      "imgTab": "/webinar_page/MainTab.webp",
+      "imgMobile": "/webinar_page/MainMob.webp",
+      "header1": "How to become a Next-Gen Data Scientist",
+      "header2": "Friday, 25th March 2022",
+      "header3": "Live at 4pm to 5pm",
+      "speaker": [
+        {
+          "img": "/webinar_page/karthik-Speaker.png",
+          "name": "Mr. Karthik C",
+          "background": "An industry expert with more than 10 years of experience in the data science domain"
+        },
+        {
+          "img": "/webinar_page/Group21.png",
+          "name": "Mr. Jason Doe",
+          "background": "An industry expert with more than 10 years of experience in the data science domain"
+        }
+      ],
+      "testimonial": [
+        {
+          "img": "/webinar_page/career2.webp",
+          "name": "Tejaswini K",
+          "company": "Evoke Technologies"
+        },
+        {
+          "img": "/webinar_page/career1.webp",
+          "name": "Ankit Hiremath",
+          "company": "Tiger Analytics"
+        },
+        {
+          "img": "/webinar_page/career.webp",
+          "name": "Bibhutesh Chatterjee",
+          "company": "Standard Chartered"
+        }
+      ]
+    },
+    "about": {
+      "imgWeb": "/webinar_page/aboutWeb.webp",
+      "imgTab": "/webinar_page/aboutTab.webp",
+      "imgMobile": "/webinar_page/aboutMobile.webp",
+      "data": [
+        {
+          "data": "Artificial intelligence continues to be a potent transformation driver for global industries and businesses. Given the rapid evolution of technology, the need for new-age data scientists is also increasing."
+        },
+        {
+          "data": "Understand the various qualities that the current industry expects from data scientists and what the future holds for them."
+        },
+        {
+          "data": "For organizations, data science can enable the development of a new generation of products and services, machinery, farming, healthcare, fashion and tourism. It can boost sales, improve machine maintenance, increase production output and quality, improve customer service, as well as save energy."
+        },
+        {
+          "data": "Get valuable insights from our esteemed alumni placed at top analytics firms like Tiger Analytics, Evoke Technologies, E&Y, Capgemini, Tech Mahindra, TransOrg Analytics, Gain Insight and Team Computers."
+        },
+        {
+          "data": "Join us for this in-depth webinar to explore lessons and opportunities in the data science industry."
+        }
+      ]
+    },
+    "become": {
+      "imgWeb": "/webinar_page/BecomeWeb.webp",
+      "imgTab": "/webinar_page/BecomeTab.webp",
+      "imgMobile": "/webinar_page/becomeMobile.webp",
+      "data": [
+        {
+          "data": "Top data science trends in 2022"
+        },
+        {
+          "data": "Qualities of a next-gen Data Scientist"
+        },
+        {
+          "data": "Data science project roadmap"
+        },
+        {
+          "data": "What do organizations look for?"
+        },
+        {
+          "data": "Q&A and interaction with alumni"
+        }
+      ]
+    },
+    "speaker": {
+      "img": "/webinar_page/speaker.webp",
+      "name": "Mr. Karthik C",
+      "background": "An industry expert with more than 10 years of experiencein the data science domain",
+      "data": [
+        {
+          "data": "Karthik has 10+ years of experience in the data science domain where he worked with companies like Mu Sigma and Amazon. He has solved a diverse set of business problems for various Fortune 100 clients leveraging his experience in Machine Learning (ML), Text Analytics, Natural Language Processing (NLP), Deep Learning using scripting languages like SAS, R, Scala and Python."
+        },
+        {
+          "data": "Karthik graduated from R.V. College of Engineering (Bangalore). He started his career at Mu Sigma as a Business Analyst by building various statistical and ML models to solve business problems for over 3.5 years. He then joined Infogain to set up their Analytics Centre of Excellence (CoE). He spent 5 years at Amazon as a Pricing Analytics SME to build various pricing strategies with the help of automation and machine learning to help deliver the best prices to customers across the globe. Thereafter, he was heading the Alexa AI (Knowledge) for the ANZ region to help Alexa get smarter and engage better through various NLP techniques. "
+        },
+        {
+          "data": "While working with numbers and solving business problems keeps his inquisitive soul excited at work, he thoroughly enjoys mentoring, training and teaching young professionals."
+        }
+      ]
+    },
+    "career": [
+      {
+        "img": "/webinar_page/career2.webp",
+        "name": "Tejaswini K",
+        "before": "Fresher",
+        "after": "Data Scientist Trainee",
+        "img2": "/webinar_page/EvokeTtechnologies.webp"
+      },
+      {
+        "img": "/webinar_page/career1.webp",
+        "name": "Ankit Hiremath",
+        "before": "Associate Data Engineer",
+        "after": "Sr. Software Engineer",
+        "img2": "/webinar_page/Maskgroup.webp"
+      },
+      {
+        "img": "/webinar_page/career.webp",
+        "name": "Bibhutesh Chatterjee",
+        "before": "Fresher",
+        "after": "Team Lead",
+        "img2": "/webinar_page/standardchartered.webp"
+      },
+      {
+        "img": "/webinar_page/career2.webp",
+        "name": "Tejaswini K",
+        "before": "Fresher",
+        "after": "Data Scientist Trainee",
+        "img2": "/webinar_page/EvokeTtechnologies.webp"
+      }
+    ],
+    "course": {
+      "heading": "Globally recognized data science & analytics programs",
+      "para": "Our academic and business partnerships with top-tier organizations and universities have allowed us to develop superior learning material and impart relevant real-time industry expertise. We ensure that our learners get lucrative job placements through recruitment drives and interview opportunities created exclusively for Imarticus Learning alumni.",
+      "indexInProgram": 2
+    },
+    "free": {
+      "heading": "Vast Catalogue of free analytics resources",
+      "para": "Our Data Science & Analytics students gain lifetime access to our ever-replenishing catalogue of fascinating industry-oriented FREE Webinars, Videos, Case Studies, Blogs and Masterclasses.",
+      "data": [
+        {
+          "img": "/webinar_page/free.webp",
+          "name": "CREATE A FACEBOOK BOT USING NLP",
+          "data": "Chatbot, the computer program made using artificial intelligence, mimics human conversation and can reply automatically to queries  The key player inside this"
+        },
+        {
+          "img": "/webinar_page/free1.webp",
+          "name": "BRING IDEAS TO LIFE, DRIVE ECONOMIC GROWTH AND EXPAND HUMAN WELFARE WITH AI COURSES",
+          "data": "AI courses are a great way to bring your ideas to life and expand human welfare. With AI, you can create new products or services that"
+        },
+        {
+          "img": "/webinar_page/free2.webp",
+          "name": "6 BEGINNER-FRIENDLY STEPS TO LEARN MACHINE LEARNING WITH PYTHON",
+          "data": "Programing languages are vital for computer programming, and Python is one such language, but it is a scripting language that is high-level, interactive, easy to interpret"
+        },
+        {
+          "img": "/webinar_page/free3.webp",
+          "name": "2021 IN REVIEW: PRINCIPLES OF SUCCESSFUL SUPPLY CHAIN PLANNING",
+          "data": "The supply chain is one of the most important aspects of any business. Keeping up with the market's ever-changing demands is quite challenging, but you"
+        },
+        {
+          "img": "/webinar_page/free4.webp",
+          "name": "TOP 5 MACHINE LEARNING SKILLS DESIRED BY EMPLOYERS",
+          "data": "AIML or Artificial Intelligence and Machine Learning are some of the leading subject matters in the tech industry. ML is a branch of AI and has a wide range"
+        },
+        {
+          "img": "/webinar_page/free5.webp",
+          "name": "TYPES OF PROJECTS TO DO IN A MACHINE LEARNING COURSE",
+          "data": "Machine learning, as the name suggests, revolves around technology. It is a set of programs designed by the coders to analyze the data"
+        }
+      ]
+    }
+  },
+  "webinar_analytic_page": {
+    "header": {
+      "imgWeb": "/webinar_page/MainWeb.webp",
+      "imgTab": "/webinar_page/MainTab.webp",
+      "imgMobile": "/webinar_page/MainMob.webp",
+      "header1": "Emerging trajectories in logistics and supply chain to look out for in 2022",
+      "header2": "Friday, 22nd July 2022",
+      "header3": " From 4 PM to 5 PM",
+      "speaker": [
+        {
+          "img": "/webinar-analytic/Prof-Rajat-Profile-Pic.webp",
+          "name": "Mr. Rajat Agrawal",
+          "background": "Professor, DoMS, IIT Roorkee"
+        }
+      ],
+      "testimonial": [
+        {
+          "img": "/webinar_page/career2.webp",
+          "name": "Tejaswini K",
+          "company": "Evoke Technologies"
+        },
+        {
+          "img": "/webinar_page/career1.webp",
+          "name": "Ankit Hiremath",
+          "company": "Tiger Analytics"
+        },
+        {
+          "img": "/webinar_page/career.webp",
+          "name": "Bibhutesh Chatterjee",
+          "company": "Standard Chartered"
+        }
+      ]
+    },
+    "about": {
+      "imgWeb": "/webinar_page/aboutWeb.webp",
+      "imgTab": "/webinar_page/aboutTab.webp",
+      "imgMobile": "/webinar_page/aboutMobile.webp",
+      "data": [
+        {
+          "data": "The logistics industry in India is anticipated to develop at a compound annual growth rate (CAGR) of 10% to USD 215 billion by 2022, thanks to a rebound in consumer demand, booming e-commerce, and a buoyant market, more robust road infrastructure, and shorter travel times."
+        },
+        {
+          "data": "A few digital transformations are projected in the supply chain and logistics sector in 2022. These innovations should increase operational effectiveness and boost consumer satisfaction."
+        },
+        {
+          "data": "Attend this complimentary webinar where Prof. Rajat Agrawal from IIT Roorkee will explain the digital transformations we can look ahead to in 2022."
+        }
+      ]
+    },
+    "become": {
+      "imgWeb": "/webinar_page/BecomeWeb.webp",
+      "imgTab": "/webinar_page/BecomeTab.webp",
+      "imgMobile": "/webinar_page/becomeMobile.webp",
+      "data": [
+        {
+          "data": "Increased use of technology and digitisation"
+        },
+        {
+          "data": "Increase in tech-enabled procurement"
+        },
+        {
+          "data": "Climate-smart supply chain planning"
+        },
+        {
+          "data": "Careers in supply chain management"
+        }
+      ]
+    },
+    "speaker": {
+      "img": "/webinar_page/speaker.webp",
+      "name": "Rajat Agrawal",
+      "background": "Professor, DoMS, IIT Roorkee",
+      "data": [
+        {
+          "data": "Currently, working as a Professor in the Department of Management Studies, IIT Roorkee, Professor Rajat Agrawal is an expert in Operations Management, Supply Chain Management, Quality Management, Inventory Management, and Manufacturing strategy. He has co-authored more than 6 books and more than 100 papers in various national and international journals."
+        }
+      ]
+    },
+    "career": [
+      {
+        "img": "/webinar_page/career2.webp",
+        "name": "Tejaswini K",
+        "before": "Fresher",
+        "after": "Data Scientist Trainee",
+        "img2": "/webinar_page/EvokeTtechnologies.webp"
+      },
+      {
+        "img": "/webinar_page/career1.webp",
+        "name": "Ankit Hiremath",
+        "before": "Associate Data Engineer",
+        "after": "Sr. Software Engineer",
+        "img2": "/webinar_page/Maskgroup.webp"
+      },
+      {
+        "img": "/webinar_page/career.webp",
+        "name": "Bibhutesh Chatterjee",
+        "before": "Fresher",
+        "after": "Team Lead",
+        "img2": "/webinar_page/standardchartered.webp"
+      },
+      {
+        "img": "/webinar_page/career2.webp",
+        "name": "Tejaswini K",
+        "before": "Fresher",
+        "after": "Data Scientist Trainee",
+        "img2": "/webinar_page/EvokeTtechnologies.webp"
+      }
+    ],
+    "course": {
+      "heading": "Globally recognized data science & analytics programs",
+      "para": "Our academic and business partnerships with top-tier organizations and universities have allowed us to develop superior learning material and impart relevant real-time industry expertise. We ensure that our learners get lucrative job placements through recruitment drives and interview opportunities created exclusively for Imarticus Learning alumni.",
+      "indexInProgram": 2
+    },
+    "free": {
+      "heading": "Vast Catalogue of free analytics resources",
+      "para": "Our Data Science & Analytics students gain lifetime access to our ever-replenishing catalogue of fascinating industry-oriented FREE Webinars, Videos, Case Studies, Blogs and Masterclasses.",
+      "data": [
+        {
+          "img": "/webinar_page/free.webp",
+          "name": "CREATE A FACEBOOK BOT USING NLP",
+          "data": "Chatbot, the computer program made using artificial intelligence, mimics human conversation and can reply automatically to queries  The key player inside this"
+        },
+        {
+          "img": "/webinar_page/free1.webp",
+          "name": "BRING IDEAS TO LIFE, DRIVE ECONOMIC GROWTH AND EXPAND HUMAN WELFARE WITH AI COURSES",
+          "data": "AI courses are a great way to bring your ideas to life and expand human welfare. With AI, you can create new products or services that"
+        },
+        {
+          "img": "/webinar_page/free2.webp",
+          "name": "6 BEGINNER-FRIENDLY STEPS TO LEARN MACHINE LEARNING WITH PYTHON",
+          "data": "Programing languages are vital for computer programming, and Python is one such language, but it is a scripting language that is high-level, interactive, easy to interpret"
+        },
+        {
+          "img": "/webinar_page/free3.webp",
+          "name": "2021 IN REVIEW: PRINCIPLES OF SUCCESSFUL SUPPLY CHAIN PLANNING",
+          "data": "The supply chain is one of the most important aspects of any business. Keeping up with the market's ever-changing demands is quite challenging, but you"
+        },
+        {
+          "img": "/webinar_page/free4.webp",
+          "name": "TOP 5 MACHINE LEARNING SKILLS DESIRED BY EMPLOYERS",
+          "data": "AIML or Artificial Intelligence and Machine Learning are some of the leading subject matters in the tech industry. ML is a branch of AI and has a wide range"
+        },
+        {
+          "img": "/webinar_page/free5.webp",
+          "name": "TYPES OF PROJECTS TO DO IN A MACHINE LEARNING COURSE",
+          "data": "Machine learning, as the name suggests, revolves around technology. It is a set of programs designed by the coders to analyze the data"
+        }
+      ]
+    }
+  },
+  "thankyoupage": {
+    "highestQualification": [
+      {
+        "value": "Undergraduate (1st/2nd/3rd year)",
+        "name": "Undergraduate (1st/2nd/3rd year)"
+      },
+      {
+        "value": "Engineering",
+        "name": "Engineering"
+      },
+      {
+        "value": "BSc IT/BCA/MCA",
+        "name": "BSc IT/BCA/MCA"
+      },
+      {
+        "value": "Science/Maths",
+        "name": "Science/Maths"
+      },
+      {
+        "value": "Commerce",
+        "name": "Commerce"
+      },
+      {
+        "value": "Arts",
+        "name": "Arts"
+      },
+      {
+        "value": "NA",
+        "name": "NA"
+      }
+    ],
+    "JobFunction": [
+      {
+        "value": "Finance",
+        "name": "Finance"
+      },
+      {
+        "value": "Analytics",
+        "name": "Analytics"
+      },
+      {
+        "value": "Technology",
+        "name": "Technology"
+      },
+      {
+        "value": "Operations",
+        "name": "Operations"
+      },
+      {
+        "value": "Sales",
+        "name": "Sales"
+      },
+      {
+        "value": "HR",
+        "name": "HR"
+      },
+      {
+        "value": "Marketing",
+        "name": "Marketing"
+      },
+      {
+        "value": "NA",
+        "name": "NA"
+      }
+    ],
+    "PreferredBatch": [
+      {
+        "value": "Weekday",
+        "name": "Weekday"
+      },
+      {
+        "value": "Weekend",
+        "name": "Weekend"
+      },
+      {
+        "value": "NA",
+        "name": "NA"
+      }
+    ],
+    "ProfessionalExperience": [
+      {
+        "value": "Fresh Graduate",
+        "name": "Fresh Graduate"
+      },
+      {
+        "value": "0-1 Years",
+        "name": "0-1 Years"
+      },
+      {
+        "value": "1-2 Years",
+        "name": "1-2 Years"
+      },
+      {
+        "value": "2-3 Years",
+        "name": "2-3 Years"
+      },
+      {
+        "value": "3-5 Years",
+        "name": "3-5 Years"
+      },
+      {
+        "value": "5-7 Years",
+        "name": "5-7 Years"
+      },
+      {
+        "value": "7-10 Years",
+        "name": "7-10 Years"
+      },
+      {
+        "value": "10-15 Years",
+        "name": "10-15 Years"
+      },
+      {
+        "value": "15-20 Years",
+        "name": "15-20 Years"
+      },
+      {
+        "value": "20+ Years",
+        "name": "20+ Years"
+      },
+      {
+        "value": "NA",
+        "name": "NA"
+      }
+    ],
+    "BestTimeToCall": [
+      {
+        "value": "Morning",
+        "name": "Morning"
+      },
+      {
+        "value": "Afternoon",
+        "name": "Afternoon"
+      },
+      {
+        "value": "Evening",
+        "name": "Evening"
+      },
+      {
+        "value": "Anytime",
+        "name": "Anytime"
+      }
+    ]
+  },
+  "iit_roorkee_cs": {
+    "about": [
+      {
+        "img": "/iit_roorkee_dm/about.webp",
+        "head": "CERTIFICATION BY CEC, IIT ROORKEE",
+        "data": "Master cyber security skills with an industry-focused curriculum designed by CEC, IIT Roorkee and leaders from the industry. Enhance your profile with a global certification endorsed by CEC, IIT Roorkee and build a strong career in cyber security. "
+      },
+      {
+        "img": "/iit_roorkee_dm/about1.webp",
+        "head": "LEARN FROM IIT FACULTY",
+        "data": "Learn from one of the best faculty in India through live online sessions and discussions. The sessions from the IIT faculty will help you build cyber security concepts, and industry experts will provide hands-on learning for security processes, tools, software and techniques."
+      },
+      {
+        "img": "/iit_roorkee_dm/about2.webp",
+        "head": "CAMPUS IMMERSION AT IIT ROORKEE",
+        "data": "Get an opportunity to participate in a 3-day campus immersion module and visit the IIT Roorkee campus. Interact with your peers and learn from the IIT faculty during the campus immersion. Terms and conditions apply."
+      },
+      {
+        "img": "/iit_roorkee_dm/about3.webp",
+        "head": "LEARN JOB-RELEVANT SKILLS",
+        "data": "Industry experts teach you job-relevant skills through rigorous in-class exercises and real-world security projects. Learn the latest tools and technologies to build a strong career in cyber security. Participate in a Capture the Flags competition to test your skills."
+      }
+    ],
+    "alumini": [
+      {
+        "img": "/iit_roorkee_cs/ey1.webp"
+      },
+      {
+        "img": "/iit_roorkee_cs/Group.webp"
+      },
+      {
+        "img": "/iit_roorkee_cs/Group_2826.webp"
+      },
+      {
+        "img": "/iit_roorkee_cs/Group_2908.webp"
+      },
+      {
+        "img": "/iit_roorkee_cs/image_9.webp"
+      },
+      {
+        "img": "/iit_roorkee_cs/image_114.webp"
+      },
+      {
+        "img": "/iit_roorkee_cs/pwc_1.webp"
+      },
+      {
+        "img": "/iit_roorkee_cs/Vector.webp"
+      }
+    ],
+    "listItem": [
+      { "data": "Live training by IIT faculty" },
+      { "data": "Campus immersion at IIT Roorkee" },
+      { "data": "Certification from IIT faculty" },
+      { "data": "Curriculum design by IIT Roorkee" }
+    ],
+    "course": [
+      {
+        "head": "Networking Fundamentals",
+        "duration": "100 hours",
+        "data": [
+          {
+            "data1": "Networking Topology and Types of Networks"
+          },
+          {
+            "data1": "TCP/IP Models and OSI Layers"
+          },
+          {
+            "data1": "Routing and Switching"
+          },
+          {
+            "data1": "Static Routing"
+          },
+          { "data1": "Dynamic Routing" },
+          { "data1": "VLAN" },
+          { "data1": "ACL" }
+        ]
+      },
+      {
+        "head": "Operating System & Security",
+        "duration": "54 hours",
+        "data": [
+          {
+            "data1": "Virtualisation"
+          },
+          {
+            "data1": "Operating Systems and OS Process & Resource Management"
+          },
+          {
+            "data1": "Windows Basics"
+          },
+          {
+            "data1": "Linux Basics"
+          }
+        ]
+      },
+      {
+        "head": "Information Security",
+        "duration": "100 hours",
+        "data": [
+          {
+            "data1": "Basic of Internet and Web Applications"
+          },
+          {
+            "data1": "HTTP Protocol, HTTPS - TLS/SSL"
+          },
+          {
+            "data1": "Cookies"
+          },
+          {
+            "data1": "Sessions"
+          },
+          { "data1": "Tokens" },
+          { "data1": "Cryptography Basics" },
+          { "data1": "Public Key Infrastructure (PKI)" },
+          { "data1": "Email Encryption" },
+          { "data1": "Disk Encryption" },
+          { "data1": "Cryptanalysis" },
+          { "data1": "Tracking and Privacy" },
+          { "data1": "Laws and Compliance" }
+        ]
+      },
+      {
+        "head": "Cloud Security",
+        "duration": "54 hours",
+        "data": [
+          {
+            "data1": "Cloud Computing Concepts"
+          },
+          {
+            "data1": "Cloud Building Blocks"
+          },
+          {
+            "data1": "AWS Cloud Tour"
+          },
+          {
+            "data1": "Cloud Architecture Security"
+          },
+          { "data1": "AWS Well Architected Framework" },
+          { "data1": "AWS Well Architected Framework: Security Pillar" },
+          { "data1": "Cloud Data Security" },
+          { "data1": "Entry Points on AWS To Maintain the Security" },
+          { "data1": "Cloud Application Security" },
+          { "data1": "Cloud Computing Security Issues" },
+          { "data1": "Zero Trust Security Architecture" }
+        ]
+      },
+      {
+        "head": "Ethical Hacking",
+        "duration": "54 hours",
+        "data": [
+          {
+            "data1": "Ethical Hacking Introduction"
+          },
+          {
+            "data1": "Cyber Kill Chain"
+          },
+          {
+            "data1": "Information Gathering and Scanning"
+          },
+          {
+            "data1": "Footprinting through Web Services"
+          },
+          { "data1": "Footprinting through Social Networking Sites" },
+          { "data1": "Website Footprinting" },
+          { "data1": "Email Footprinting" },
+          { "data1": "Whois Footprinting" },
+          { "data1": "Host Discovery" },
+          { "data1": "Port and Service Discovery" },
+          { "data1": "OS Discovery (Banner Grabbing/OS Fingerprinting)" },
+          { "data1": "Scanning Beyond IDS and Firewall" },
+          { "data1": "Vulnerability Analysis" },
+          { "data1": "Weaponisation" },
+          { "data1": "Delivery" },
+          { "data1": "Sniffing and Spoofing" },
+          { "data1": "Network and System Exploitation" },
+          { "data1": "Command and Control" },
+          { "data1": "Privilege Escalation" },
+          { "data1": "Post Exploitation" },
+          { "data1": "Steganography" }
+        ]
+      },
+      {
+        "head": "Application Security",
+        "duration": "54 hours",
+        "data": [
+          {
+            "data1": "Application Penetration Testing"
+          },
+          {
+            "data1": "Authentication Testing"
+          },
+          {
+            "data1": "Authorisation Testing "
+          },
+          {
+            "data1": "Client Side Attacks"
+          },
+          { "data1": "Server Side Attacks" },
+          { "data1": "Network Penetration Testing" },
+          { "data1": "Mobile Application Penetration Testing" }
+        ]
+      },
+      {
+        "head": "Social Engineering",
+        "duration": "54 hours",
+        "data": [
+          {
+            "data1": "Social Engineering Concepts"
+          },
+          {
+            "data1": "Social Engineering Techniques"
+          },
+          {
+            "data1": "Phishing Attacks"
+          },
+          {
+            "data1": "Insider Threats"
+          },
+          { "data1": "Impersonation on Social Networking Sites" },
+          { "data1": "Identity Theft" }
+        ]
+      },
+      {
+        "head": "Web Application Security",
+        "duration": "54 hours",
+        "data": [
+          {
+            "data1": "Broken Access Control"
+          },
+          {
+            "data1": "Cryptographic Failures"
+          },
+          {
+            "data1": "SQL, OS, XSS and CMD Injections"
+          },
+          {
+            "data1": "Insecure Application Design"
+          },
+          {
+            "data1": "Security Misconfiguration"
+          },
+          {
+            "data1": "File Path Traversal"
+          },
+          {
+            "data1": "Testing for Vulnerable and Outdated Components"
+          },
+          {
+            "data1": "XML External Entity Injection"
+          },
+          {
+            "data1": "Identification and Authentication Failures"
+          },
+          {
+            "data1": "Server-Side Request Forgery (SSRF)"
+          }
+        ]
+      },
+      {
+        "head": "Hacking Wireless Network",
+        "duration": "54 hours",
+        "data": [
+          {
+            "data1": "Wireless Concepts"
+          },
+          {
+            "data1": "Wireless Encryption"
+          },
+          {
+            "data1": "Wireless Threats"
+          },
+          {
+            "data1": "Wireless Hacking Methodology"
+          },
+          {
+            "data1": "Wireless Hacking Tools"
+          },
+          {
+            "data1": "Bluetooth Hacking"
+          },
+          {
+            "data1": "Wireless Security Tools"
+          }
+        ]
+      },
+      {
+        "head": "Data Forensics and Incident Response",
+        "duration": "54 hours",
+        "data": [
+          {
+            "data1": "Data Forensics"
+          },
+          {
+            "data1": "Incident Handling Process"
+          },
+          {
+            "data1": "Computer Forensics Investigation Process"
+          },
+          {
+            "data1": "Hard Disks and File Systems"
+          },
+          {
+            "data1": "Operating System Forensics"
+          },
+          {
+            "data1": "Anti-Forensics Techniques"
+          },
+          {
+            "data1": "Eradication and Recovery"
+          }
+        ]
+      },
+      {
+        "head": "Capstone Project & Career Services",
+        "duration": "54 hours",
+        "data": [
+          {
+            "data1": "Capstone Project and Evaluation"
+          },
+          {
+            "data1": "Resume-building"
+          },
+          {
+            "data1": "Mock Interview"
+          },
+          {
+            "data1": "Career Mentorship"
+          }
+        ]
+      }
+    ],
+    "project": [
+      {
+        "img": "/iit_roorkee_cs/Rectangle_165.webp",
+        "heading": "Design automated operating detector on the network",
+        "points": {
+          "subdata": "Recognise Operating System present at devices in a network. Using TCP/IP stack fingerprinting by crafting custom TCP and UDP packets and analysing their responses. It can also be used for analyzing vendor name, OS name, OS generation, device type etc."
+        }
+      },
+      {
+        "img": "/iit_roorkee_cs/Rectangle%20382.webp",
+        "heading": "build port scanner",
+        "points": {
+          "subdata": "Building a port scanner that can probe a server or host for open ports. This application should have capabilities to verify the security policies of the networks and identify network services running on a host."
+        }
+      },
+      {
+        "img": "/iit_roorkee_cs/Rectangle_385.webp",
+        "heading": "automated browser/ system credential dumper hardware",
+        "points": {
+          "subdata": "An automated tool that can be planted on HID device to retrieve lots of passwords stored on a local computer. Each software stores its passwords using different techniques (plaintext, APIs, custom algorithms, databases, etc.)."
+        }
+      },
+      {
+        "img": "/iit_roorkee_cs/Rectangle%20388.webp",
+        "heading": "keylogger",
+        "points": {
+          "subdata": "Developing Keylogger that should not be detected by security program in the world. Keyloggers are programs used to silently record keystrokes that can be part of a parental control program or as a nefarious program used by remote hackers to steal information."
+        }
+      }
+    ],
+    "language_img": [
+      {
+        "img": "/iit_roorkee_cs/burpsuite.webp"
+      },
+      {
+        "img": "/iit_roorkee_cs/tor.webp"
+      },
+      {
+        "img": "/iit_roorkee_cs/Aircrack.svg"
+      },
+      {
+        "img": "/iit_roorkee_cs/metasploit_rapid7_banner_1.webp"
+      },
+      {
+        "img": "/iit_roorkee_cs/qualys.webp"
+      }
+    ],
+    "faculty": [
+      {
+        "img": "/iit_roorkee_cs/Group_2709.webp",
+        "name": "Dr Sateesh Kumar Peddoju",
+        "desg": "Associate Professor, IIT Roorkee",
+        "data": "Dr Sateesh Kumar works as an Associate Professor in the Computer Science and Engineering Department at IIT Roorkee. He is an expert in cyber security with areas of work in cloud computing, network security, behavioural analysis, anomaly detection, DDoS detection, etc. He has co-authored Cloud Computing Systems and Applications in Healthcare, in IGI Publisher, 2017 and Security and Storage Issues in the Cloud Environment, Springer Nature, 2018."
+      },
+      {
+        "img": "/iit_roorkee_cs/Group_2710.webp",
+        "name": "Mr Shubham Gautam",
+        "desg": "Cyber Security Consultant",
+        "data": "Mr Gautam has extensive experience in the field of cyber security. His areas of specialisation include ethical hacking, penetration testing, cyber security management, network security, and web and application security. He has trained more than 10,000 cyber security professionals and is a mentor for many cyber security startups. He has been a visiting faculty alongside various faculty from CBI and India's top cyber lawyers. He is also a part of the faculty development program by Skill India, Govt. of India and a steering committee member for the National Information Security Council (NISC)."
+      },
+      {
+        "img": "/iit_roorkee_cs/Group_2726.webp",
+        "name": "Mr Varun Pathak",
+        "desg": "Cybersecurity Consultant",
+        "data": "Mr Varun is a Cyber Security Faculty and Consultant. He has worked as Cyber Security Consultant at PwC and Network Engineer at Infotel Business Solutions Limited. He has vast experience in administering and securing devices like routers, switches, firewalls, and servers. He has vast experience in executing projects related to Vulnerability Assessment, Penetration Testing and SOC implementation. His recent projects also includes auditing of Network Infrastructure. Data Center, SOC Review, Web Application Security Testing and Troubleshooting multiple network and security issues."
+      }
+    ],
+    "testimonials": [
+      {
+        "img": "/iit_roorkee_cs/achutt.svg",
+        "name": "Achutt Nair",
+        "company": "Cyber Security",
+        "content": "I was not sure what to expect because the class was to be taught remotely, and I had just entered the domain of IT. The faculty is very professional. The instructors are experts and it is very clear in the method of teaching. Most of the theories are accompanied with his guided practicals which help get a deeper insight. All my questions were answered and the class interaction is very good.",
+        "data": "I was not sure what to expect because the class was to be taught remotely, and I had just entered the domain of IT. The faculty is very professional. The instructors are experts and it is very clear in the method of",
+        "img1": "https://cdn.pegasus.imarticus.org/imarticus_2/stargroupfull.svg?auto=format&fit=max&w=96",
+        "imgMore": "/iit_roorkee_cs/achutt.svg"
+      },
+      {
+        "img": "/iit_roorkee_cs/shubhali.svg",
+        "name": "Subhali Chatterjee",
+        "company": "Cyber Security",
+        "content": "I was looking for an opportunity to explore cyber security and that opportunity was provided to me by Imarticus. This course is the most concrete course I could find online. The faculty from IIT R has been very interactive and the guided assignments really helps us in practicing what we are being taught. Their LMS is pretty convenient to use and all the recordings and resources of the lectures are provided to us. I would recommend this course to anyone looking for an in depth cyber security course.",
+        "data": "I was looking for an opportunity to explore cyber security and that opportunity was provided to me by Imarticus. This course is the most concrete course I could find online. The faculty from IIT R has been",
+        "img1": "https://cdn.pegasus.imarticus.org/imarticus_2/stargroupfull.svg?auto=format&fit=max&w=96",
+        "imgMore": "/iit_roorkee_cs/shubhali.svg"
+      }
+    ],
+    "tools": [
+      {
+        "img": "https://cdn.pegasus.imarticus.org/iit_roorkee_cs/burpsuite.webp"
+      },
+      {
+        "img": "https://cdn.pegasus.imarticus.org/iit_roorkee_cs/tor.webp"
+      },
+      {
+        "img": "https://cdn.pegasus.imarticus.org/iit_roorkee_cs/metasploit_rapid7_banner_1.webp"
+      },
+      {
+        "img": "https://cdn.pegasus.imarticus.org/iit_roorkee_cs/qualys.webp"
+      }
+    ],
+    "QnA": [
+      {
+        "head": "How do I enrol in the course?",
+        "data": "You can start by filling up your application form. If you clear the minimum criteria, you will have to go through the interview. Once you are shortlisted, you can enrol in this program."
+      },
+      {
+        "head": "What if I miss a class?",
+        "data": "All the lectures will be available for the students to view on the Imarticus platform after the class is over. However, we recommend not to miss any class."
+      },
+      {
+        "head": "Is there any attendance or minimum score policy for the course?",
+        "data": "Yes, the minimum attendance policy for the complete course is 80%, and the minimum marks in all assessments for successful course completion is 50%. You will also need to complete all the assignments and projects per the instructions."
+      },
+      {
+        "head": "Where do I attend these live classes?",
+        "data": "You can attend the classes anywhere on your laptop with an internet connection. You can join the live class through our learning platform."
+      },
+      {
+        "head": "Does IIT faculty deliver live sessions?",
+        "data": "Yes, the IIT faculty will train you and help you build a solid cyber security foundation for your career. Industry experts will provide hands-on learning through projects and exercises."
+      },
+      {
+        "head": "When will live sessions be conducted?",
+        "data": "The live sessions will be scheduled on weekends – Saturday and Sunday, and 3 hours on Saturday and Sunday."
+      },
+      {
+        "head": "What is Campus Immersion?",
+        "data": "There is a 3-day campus immersion module at IIT Roorkee during which participants will visit the campus to interact with their peers and learn from faculty. However, this is subject to the COVID-19 situation. The students will bear the cost of travel and accommodation."
+      }
+    ],
+    "QnA2": [
+      {
+        "head": "Am I eligible to join the cybersecurity program?",
+        "data": "The eligibility criteria for joining the program is - Bachelor's/Master’s degrees in Computer Science/Engineering/Math /Statistics/ Economics/Science with a minimum of 50% marks in graduation.Basic programming knowledge is required."
+      },
+      {
+        "head": "How will the career services work?",
+        "data": "Imarticus will provide career services to the students who successfully complete the course. We will help you build your resume and prepare you with career mentorship and mock interviews."
+      },
+      {
+        "head": "Will IIT Roorkee be helping with the placements?",
+        "data": "No. Imarticus will offer placement assistance. CEC, IIT Roorkee will only be involved in the training and certification of the students."
+      }
+    ],
+    "QnA3": [
+      {
+        "head": "What are the fees for the program?",
+        "data": "Advanced Certification Program in Cyber Security costs INR 1,40,000+GST. You can pay by credit card, debit card or net banking from all leading banks. We offer EMI loan options as well."
+      }
+    ]
+  },
+  "fsdcampaign": {
+    "topiclist": [
+      {
+        "img": "https://cdn.pegasus.imarticus.org/Fsd_campaign/TickYO.webp",
+        "point": "Data structures and algorithms: The beginning"
+      },
+      {
+        "img": "https://cdn.pegasus.imarticus.org/Fsd_campaign/TickYO.webp",
+        "point": "Introduction to javascript and programs"
+      },
+      {
+        "img": "https://cdn.pegasus.imarticus.org/Fsd_campaign/TickYO.webp",
+        "point": "Getting started with java, java frameworks and solving a real DSA problem"
+      },
+      {
+        "img": "https://cdn.pegasus.imarticus.org/Fsd_campaign/TickYO.webp",
+        "point": "Build a reactJS portfolio, a real-world project with java and create an app with react"
+      }
+    ],
+    "careerlist": [
+      {
+        "img": "https://cdn.pegasus.imarticus.org/Fsd_campaign/TickYO.webp",
+        "point": "Learn from the top company's industry instructors and trainers"
+      },
+      {
+        "img": "https://cdn.pegasus.imarticus.org/Fsd_campaign/TickYO.webp",
+        "point": "Building a real-world project"
+      },
+      {
+        "img": "https://cdn.pegasus.imarticus.org/Fsd_campaign/TickYO.webp",
+        "point": "Create an industry-oriented portfolio"
+      },
+      {
+        "img": "https://cdn.pegasus.imarticus.org/Fsd_campaign/TickYO.webp",
+        "point": "Profile and career enhancement"
+      },
+      {
+        "img": "https://cdn.pegasus.imarticus.org/Fsd_campaign/TickYO.webp",
+        "point": "Interview preparation and job readiness"
+      },
+      {
+        "img": "https://cdn.pegasus.imarticus.org/Fsd_campaign/TickYO.webp",
+        "point": "Network with industry experts and professionals"
+      }
+    ],
+    "agenda": [
+      {
+        "time": "9:30 AM - 10:00 AM",
+        "topic": ["Keynote + Introduction", "Welcome"],
+        "event": ["", ""],
+        "color": "#8DD6EB"
+      },
+      {
+        "time": "10:00 AM - 11:00 AM",
+        "topic": [
+          "Data structures and algorithms: The beginning",
+          "Solving a real DSA problem"
+        ],
+        "event": ["Session", "Session"],
+        "color": "#13AED2"
+      },
+      {
+        "time": "11:00 AM - 12:00 PM",
+        "topic": ["Introduction to javascript", "Getting started with java"],
+        "event": ["Session", "Session"],
+        "color": "#2E87C8"
+      },
+      {
+        "time": "12:00 PM - 1:00 PM",
+        "topic": ["Build a react JS portfolio", "Java frameworks and more"],
+        "event": ["Session", "Workshop"],
+        "color": "#0177A0"
+      },
+      {
+        "time": "1:00 PM - 2:00 PM",
+        "topic": ["Lunch", "Lunch"],
+        "event": ["", ""],
+        "color": "#03768D"
+      },
+      {
+        "time": "2:00 PM - 2:30 PM",
+        "topic": ["Quiz", "Quiz"],
+        "event": ["Quiz", "Quiz"],
+        "color": "#057579"
+      },
+      {
+        "time": "2:30 PM - 3:00 PM",
+        "topic": [
+          "Introduction to the programs",
+          "Introduction to the programs"
+        ],
+        "event": ["Session", "Session"],
+        "color": "#077366"
+      },
+      {
+        "time": "3:00 PM - 5:00 PM",
+        "topic": [
+          "Create your first app with react",
+          "Building a real-world project with java"
+        ],
+        "event": ["Workshop", "Workshop"],
+        "color": "#097252"
+      },
+      {
+        "time": "5:00 PM - 5:30 PM",
+        "topic": [
+          "Awarding certificates and coupons",
+          "Awarding certificates and coupons"
+        ],
+        "event": ["", ""],
+        "color": "#035642"
+      }
+    ]
+  },
+  "fsd": {
+    "alumini": [
+      {
+        "img": "/Fsd/alumni/Group%203060.webp"
+      },
+      {
+        "img": "/Fsd/alumni/Group%203061.webp"
+      },
+      {
+        "img": "/Fsd/alumni/Group%203062.webp"
+      },
+      {
+        "img": "/Fsd/alumni/Group%203063.webp"
+      },
+      {
+        "img": "/Fsd/alumni/Group%203064.webp"
+      },
+      {
+        "img": "/Fsd/alumni/Group%203065.webp"
+      },
+      {
+        "img": "/Fsd/alumni/Group%203148.webp"
+      },
+      {
+        "img": "/Fsd/alumni/Group%203149.webp"
+      },
+      {
+        "img": "/Fsd/alumni/Group%203151.webp"
+      },
+      {
+        "img": "/Fsd/alumni/Group%203150.webp"
+      },
+      {
+        "img": "/Fsd/alumni/Group%203152.webp"
+      },
+      {
+        "img": "/Fsd/alumni/Group%203153.webp"
+      },
+      {
+        "img": "/Fsd/alumni/Group%203154.webp"
+      },
+      {
+        "img": "/Fsd/alumni/Group%203155.webp"
+      }
+    ],
+    "careercard": [
+      {
+        "student": "Fsd/Career_transtition/Mask%2520group-6.webp",
+        "name": "Parvesh Wasuja",
+        "desg": "Fresher",
+        "arrow": "Fsd/Arrow%2010.webp",
+        "company": "Fsd/Group_2988.webp",
+        "branch": "Software Engineer"
+      },
+      {
+        "student": "Fsd/Career_transtition/Mask%2520group.webp",
+        "name": "Neelesh Dwivedi",
+        "desg": "Engineer",
+        "arrow": "Fsd/Arrow%2010.webp",
+        "company": "Fsd/Group_2988.webp",
+        "branch": "Software Engineer"
+      },
+      {
+        "student": "Fsd/Career_transtition/Mask%2520group-3.webp",
+        "name": "Dinesh",
+        "desg": "Software Intern",
+        "arrow": "Fsd/Arrow%2010.webp",
+        "company": "Fsd/Group_2987.webp",
+        "branch": "Backend Developer"
+      },
+      {
+        "student": "Fsd/Career_transtition/Mask%2520group-1.webp",
+        "name": "Karthik Ravi",
+        "desg": "Engineer",
+        "arrow": "Fsd/Arrow%2010.webp",
+        "company": "Fsd/Group_2989.webp",
+        "branch": "Software Engineer"
+      },
+      {
+        "student": "Fsd/Career_transtition/Mask%2520group-2.webp",
+        "name": "Rahul Anand",
+        "desg": "Software Engineer",
+        "arrow": "Fsd/Arrow%2010.webp",
+        "company": "Fsd/Group_2988.webp",
+        "branch": "Lead Engineer"
+      },
+      {
+        "student": "Fsd/Career_transtition/Mask%2520group-4.webp",
+        "name": "BRIJESH PRAJAPATI",
+        "desg": "Software Engineer",
+        "arrow": "Fsd/Arrow%2010.webp",
+        "company": "Fsd/Group_2988.webp",
+        "branch": "Software Engineer"
+      },
+      {
+        "student": "Fsd/Career_transtition/Mask%2520group-5.webp",
+        "name": "Supriya Adep",
+        "desg": "Front End Engineer",
+        "arrow": "Fsd/Arrow%2010.webp",
+        "company": "Fsd/Companies/image%2520139.webp",
+        "branch": "Senior UI Engineer"
+      }
+    ],
+    "tools": [
+      {
+        "img": "Fsd/partners/Java.webp"
+      },
+      {
+        "img": "Fsd/partners/MongoDB.webp"
+      },
+      {
+        "img": "Fsd/partners/postSql.webp"
+      },
+      {
+        "img": "Fsd/partners/docker.webp"
+      },
+      {
+        "img": "Fsd/partners/kubernetes.webp"
+      },
+      {
+        "img": "Fsd/partners/JS.webp"
+      },
+      {
+        "img": "Fsd/partners/AWS.webp"
+      },
+      {
+        "img": "Fsd/partners/html.webp"
+      },
+      {
+        "img": "Fsd/partners/CSS.webp"
+      },
+      {
+        "img": "Fsd/partners/React.webp"
+      }
+    ],
+    "joinfsd": "Our Full Stack Developer Pro course will teach you the subtleties of data structures and algorithms. This job-assured 6-month program will prepare you for a successful career as a full-stack web developer by providing you with the technical knowledge of front-end and back-end programming. With 350 hours of rigorous instruction with a distinguished faculty and 100 hours of doubt-resolution, the program offers the most training hours in the industry.",
+    "joinfsdbox": [
+      {
+        "boximg": "Fsd/Sec3_1.webp",
+        "heading": "Placement Guarantee",
+        "data": "Get access to 500+ hiring partners and land a job with a minimum salary of 5 LPA or we will refund your fees."
+      },
+      {
+        "boximg": "Fsd/Sec3_2.webp",
+        "heading": "Dedicated Career Services",
+        "data": "Our career services include resume development, profile enhancement, interview preparation workshops and one-on-one career counselling to ensure you land the right job."
+      },
+      {
+        "boximg": "Fsd/Sec3_3.webp",
+        "heading": "Job-focused Curriculum",
+        "data": "Develop a strong foundation in data structures and learn popular technologies like Java, Spring, MongoDB, JavaScript, React, Docker, and Jenkins and top the list of potential employers."
+      }
+    ],
+    "joinfsdbox2": [
+      {
+        "boximg": "Fsd/Sec3_4.webp",
+        "heading": "Live Learning",
+        "data": "Establish a DSA and full-stack development foundation through online live interactive courses while the teaching assistants will lead hands-on projects and practice sessions."
+      },
+      {
+        "boximg": "Fsd/Sec3_5.webp",
+        "heading": "Hackathon & Coding Challenges",
+        "data": "Participate in Coding Hackathons, delivered by our community initiative – Skillenza, to tackle complex business problems and make your resume stand out."
+      },
+      {
+        "boximg": "Fsd/Sec3_6.webp",
+        "heading": "Project Portfolio",
+        "data": "Work on a multiple projects and build a robust project portfolio to make your resume stand out in front of potential employers."
+      }
+    ],
+    "joinfsdboxtab": [
+      {
+        "boximg": "Fsd/Sec3_1.webp",
+        "heading": "Placement Guarantee",
+        "data": "Get access to 500+ hiring partners and land a job with a minimum beginning salary of 5 LPA."
+      },
+      {
+        "boximg": "Fsd/Sec3_2.webp",
+        "heading": "Dedicated Career Services",
+        "data": "Our career services include resume development, profile enhancement, interview preparation workshops and one-on-one career counselling."
+      }
+    ],
+    "joinfsdboxtab2": [
+      {
+        "boximg": "Fsd/Sec3_3.webp",
+        "heading": "Job-focused Curriculum",
+        "data": "Develop a strong foundation in data structures and learn popular tools like Java, Spring, MongoDB, JavaScript, React, Docker, and Jenkins."
+      },
+      {
+        "boximg": "Fsd/Sec3_1.webp",
+        "heading": "Placement Assurance",
+        "data": "Get access to our 500+ hiring partners and land a job with a minimum beginning salary of 5 LPA."
+      }
+    ],
+    "joinfsdboxtab3": [
+      {
+        "boximg": "Fsd/Sec3_2.webp",
+        "heading": "Dedicated Career Services",
+        "data": "Our career services include resume development, profile enhancement, interview preparation workshops and one-on-one career counselling."
+      },
+      {
+        "boximg": "Fsd/Sec3_3.webp",
+        "heading": "Job-focused Curriculum",
+        "data": "Develop a strong foundation in data structures and learn popular tools like Java, Spring, MongoDB, JavaScript, React, Docker, and Jenkins."
+      }
+    ],
+    "sec5box": [
+      {
+        "boximg": "Fsd/Sec4_1.webp",
+        "data": "Final year students from STEM background (CS, IT, Electronics) with >50% marks"
+      },
+      {
+        "boximg": "Fsd/Sec4_2.webp",
+        "data": "Fresh graduates/Postgraduates in STEM (CS, IT, Electronics) with >50% marks"
+      },
+      {
+        "boximg": "Fsd/Sec4_3.webp",
+        "data": "Experienced Professionals (0 to 3 years) in non-development IT roles – QA, testers, IT support, etc."
+      },
+      {
+        "boximg": "Fsd/Sec4_4.webp",
+        "data": "Knowledge of at least 1 programming language is mandatory for admission"
+      }
+    ],
+    "sec5boxtab1": [
+      {
+        "boximg": "Fsd/Sec4_1.webp",
+        "data": "Final year students from STEM background (CS, IT, Electronics) with >50% marks"
+      },
+      {
+        "boximg": "Fsd/Sec4_2.webp",
+        "data": "Fresh graduates/Postgraduates in STEM (CS, IT, Electronics) with >50% marks"
+      }
+    ],
+    "sec5boxtab2": [
+      {
+        "boximg": "Fsd/Sec4_3.webp",
+        "data": "Experienced Professionals (0 to 3 years) in non-development IT roles – QA, testers, IT support, etc."
+      },
+      {
+        "boximg": "Fsd/Sec4_4.webp",
+        "data": "Knowledge of at least 1 programming language is mandatory for admission"
+      }
+    ],
+    "sec5boxmobile": [
+      {
+        "boximg": "Fsd/Sec4_1.webp",
+        "data": "Final year students from STEM background (CS, IT, Electronics) with >50% marks"
+      },
+      {
+        "boximg": "Fsd/Sec4_2.webp",
+        "data": "Fresh graduates/Postgraduates in STEM (CS, IT, Electronics) with >50% marks"
+      },
+      {
+        "boximg": "Fsd/Sec4_3.webp",
+        "data": "Experienced Professionals (0 to 3 years) in non-development IT roles – QA, testers, IT support, etc."
+      },
+      {
+        "boximg": "Fsd/Sec4_4.webp",
+        "data": "Knowledge of at least 1 programming language is mandatory for admission"
+      }
+    ],
+    "curriculum": [
+      {
+        "head": "Data Structures and Algorithms",
+        "data": [
+          {
+            "list": "Mathematics for Programming"
+          },
+          {
+            "list": "Data Structures"
+          },
+          {
+            "list": "Algorithms"
+          },
+          {
+            "list": "Competitive Programming"
+          }
+        ]
+      },
+      {
+        "head": "Back-end Development, Databases and DevOps",
+        "data": [
+          {
+            "list": "SDLC and Agile"
+          },
+          {
+            "list": "JIRA, GIT and GitHub"
+          },
+          {
+            "list": "Postgres"
+          },
+          {
+            "list": "MongoDB"
+          },
+          {
+            "list": "Java Programming"
+          },
+          {
+            "list": "Hibernate"
+          },
+          {
+            "list": "Spring, Spring MVC, Springboot"
+          },
+          {
+            "list": "APIs"
+          },
+          {
+            "list": "Microservices"
+          },
+          {
+            "list": "Docker"
+          },
+          {
+            "list": "Kubernetes"
+          },
+          {
+            "list": "Cloud"
+          }
+        ]
+      },
+      {
+        "head": "Front-end Development",
+        "data": [
+          {
+            "list": "HTML"
+          },
+          {
+            "list": "CSS"
+          },
+          {
+            "list": "Bootstrap"
+          },
+          {
+            "list": "JavaScript"
+          },
+          {
+            "list": "jQuery"
+          },
+          {
+            "list": "ReactJS"
+          }
+        ]
+      },
+      {
+        "head": "Career Services",
+        "data": [
+          {
+            "list": "Resume-building"
+          },
+          {
+            "list": "Interview preparation workshop"
+          },
+          {
+            "list": "Career mentoring"
+          },
+          {
+            "list": "Mock interviews"
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "img": "https://cdn.pegasus.imarticus.org/Fsd/capstone1clr.webp",
+        "head": "Build an e-commerce application like Amazon",
+        "data": "Learn how to develop a full-fledged e-commerce application by determining the right features and functionality."
+      },
+      {
+        "img": "https://cdn.pegasus.imarticus.org/Fsd/capstone2clr.webp",
+        "head": "Build a social media application like Facebook",
+        "data": "Create and deploy a modern social media platform from scratch."
+      },
+      {
+        "img": "https://cdn.pegasus.imarticus.org/Fsd/capstone3clr.webp",
+        "head": "Build a food order and delivery application like Swiggy",
+        "data": "Learn to create a modern UI for food ordering applications utilising next-gen technologies."
+      },
+      {
+        "img": "https://cdn.pegasus.imarticus.org/Fsd/capstone4clr.webp",
+        "head": "Build a movie streaming application like Netflix",
+        "data": "Create a futuristic movie streaming application that can draw the attention of millions of users."
+      },
+      {
+        "img": "https://cdn.pegasus.imarticus.org/Fsd/capstone_clr.webp",
+        "head": "Build a health tracking application",
+        "data": "Dive into delivering efficient health solutions by building health tracking applications."
+      }
+    ],
+    "projectsmob": [
+      {
+        "img": "https://cdn.pegasus.imarticus.org/Fsd/capstone4.webp",
+        "head": "Build an e-commerce application like Amazon",
+        "data": "Learn how to develop a full-fledged e-commerce application by determining the right features and functionality."
+      },
+      {
+        "img": "https://cdn.pegasus.imarticus.org/Fsd/capstone2.webp",
+        "head": "Build a social media application like Facebook",
+        "data": "Create and deploy a modern social media platform from scratch."
+      },
+      {
+        "img": "https://cdn.pegasus.imarticus.org/Fsd/capstone1.webp",
+        "head": "Build a food order and delivery application like Swiggy",
+        "data": "Learn to create a modern UI for food ordering applications utilising next-gen technologies."
+      },
+      {
+        "img": "https://cdn.pegasus.imarticus.org/Fsd/capstone3.webp",
+        "head": "Build a movie streaming application like Netflix",
+        "data": "Create a futuristic movie streaming application that can draw the attention of millions of users."
+      },
+      {
+        "img": "https://cdn.pegasus.imarticus.org/Fsd/capstone5.webp",
+        "head": "Build a health tracking application",
+        "data": "Dive into delivering efficient health solutions by building health tracking applications."
+      }
+    ],
+    "leaders": [
+      {
+        "img": "Fsd/Testimonials/Mask%2520group-4.webp",
+        "heading": "My overall experience was great. I would be happy to look out for more opportunities through the Imarticus Learning platform.",
+        "details": {
+          "d1": "Nitesh Karmodiya",
+          "d2": "Python Developer",
+          "d3": "Hypersonix"
+        }
+      },
+      {
+        "img": "Fsd/Testimonials/Mask%2520group-6.webp",
+        "heading": "It was a good experience and I'm more confident about my abilities.",
+        "details": {
+          "d1": "Parvesh Wasuja",
+          "d2": "Python Developer",
+          "d3": "Samsung"
+        }
+      },
+      {
+        "img": "Fsd/Testimonials/Mask%2520group-7.webp",
+        "heading": "I really enjoyed the learning journey. Highly recommend this course.",
+        "details": {
+          "d1": "Brijesh Prajapati",
+          "d2": "Software Engineer",
+          "d3": "KeepTruckin"
+        }
+      },
+      {
+        "img": "Fsd/Testimonials/Mask%2520group-9.webp",
+        "heading": "I had a great experience and would like to share with friends about the Imarticus Learning platform.",
+        "details": {
+          "d1": "Ashutosh Tiwari",
+          "d2": "Data Engineer",
+          "d3": "Nineleaps"
+        }
+      },
+      {
+        "img": "Fsd/Testimonials/Mask%2520group-5.webp",
+        "heading": "I was given a good opportunity with a good company.",
+        "details": {
+          "d1": "Neelesh Dwivedi",
+          "d2": "Software Engineer",
+          "d3": "Shipsy"
+        }
+      },
+      {
+        "img": "Fsd/Testimonials/Mask%2520group-8.webp",
+        "heading": "It was quite good and the curriculum was great.",
+        "details": {
+          "d1": "Dinesh",
+          "d2": "Backend Developer",
+          "d3": "Tradelabs"
+        }
+      },
+      {
+        "img": "Fsd/Testimonials/Mask%2520group-1.webp",
+        "heading": "It was an amazing experience and I learned a lot.",
+        "details": {
+          "d1": "Karthik Ravi",
+          "d2": "Software Engineer",
+          "d3": "KeepTruckin"
+        }
+      },
+      {
+        "img": "Fsd/Testimonials/Mask%2520group.webp",
+        "heading": "It was good. Overall a great experience.",
+        "details": {
+          "d1": "Supriya Adep",
+          "d2": "Senior UI Engineer",
+          "d3": "Agora"
+        }
+      },
+      {
+        "img": "Fsd/Testimonials/Mask%2520group-2.webp",
+        "heading": "It was good. Overall a great experience.",
+        "details": {
+          "d1": "Rahul Anand",
+          "d2": "Lead Engineer",
+          "d3": "Samsung"
+        }
+      },
+      {
+        "img": "Fsd/Testimonials/Mask%2520group-3.webp",
+        "heading": "It was good. Overall a great experience.",
+        "details": {
+          "d1": "Rahul Mistri",
+          "d2": "Python Developer",
+          "d3": "FYERS"
+        }
+      }
+    ],
+    "hackathons": [
+      {
+        "img": "Fsd/tick.webp",
+        "list": "Compete to solve a challenging full stack development problem"
+      },
+      {
+        "img": "Fsd/tick.webp",
+        "list": "Sharpen your coding skills and impress your employer"
+      },
+      {
+        "img": "Fsd/tick.webp",
+        "list": "Enhance your CV by winning the hackathon"
+      }
+    ],
+    "QnA": [
+      {
+        "head": "What is the duration of the program?",
+        "data": "This is a 6-month program with live online lectures conducted on weekdays (Monday to Thursday) during the evening. Fridays will be off. You will also attend live hands-on sessions on Saturday and Sunday during the evening."
+      },
+      {
+        "head": "What study material will be provided to me for the program?",
+        "data": "The core learning will happen via online live lectures on weekdays and online or classroom sessions on weekends. In addition, you will get recordings of the online lectures to review at your own convenience. You will also have access to student notes, exercises, additional study material and assessments on our fully-integrated online learning portal."
+      },
+      {
+        "head": "What are the fees for the program?",
+        "data": "The Full Stack Developer Pro fee is INR 1,19,000/-."
+      }
+    ],
+    "QnA2": [
+      {
+        "head": "What is the admission process?",
+        "data": "You will have to apply for admission through our website. Our career advisor will connect with you to review your profile and other eligibility criteria. Once you are shortlisted, you will have to take an admission test. Once you pass the admission test, the admission offer letter will be released. You will have to pay the registration fees to book your seat. For more information, speak to your career advisor."
+      }
+    ],
+    "facultydatashow": [
+      {
+        "img": "https://cdn.pegasus.imarticus.org/Fsd/abhi.webp",
+        "name": "Abhinandan Chivate",
+        "description": "Abhinandan has 14 years of experience and expertise in application design and development of web applications using Java, Java EE, Mongo DB, Swagger, JavaScript, React Native, NodeJs, ReactJs, Angular JS, Express Js and Mobile Applications. Abhinandan is a sun-certified Java professional with a training experience of 8 years. He has extensive experience in delivering training for top companies like Oracle Financial Software Services, Genpact, Hexaware, Deutsche Bank, Cognizant, etc."
+      },
+      {
+        "img": "https://cdn.pegasus.imarticus.org/Fsd/Naveen.webp",
+        "name": "Naveen Kumar",
+        "description": "Naveen is a senior software consultant with expertise in software engineering, full-stack development, DBMS, DevOps and software testing. As a consultant, he has developed and delivered multiple software projects for his clients using Java, Spring, JavaScript, React, Node, MongoDB, Docker, Jenkins, etc. Naveen has extensive experience in delivering training at top enterprises like Tesco, Accenture, Apple, Samsung, Oracle, Standard Chartered, Siemens, etc. He is also a visiting faculty at various universities for MCA, M.Tech, BE, BCA and MBA programs."
+      },
+      {
+        "img": "https://cdn.pegasus.imarticus.org/Fsd/shalini.webp",
+        "name": "Shalini Mittal",
+        "description": "Shalini is a software professional with 10+ years of consultancy experience. Her expertise lies in web and application development using JavaScript, JQuery, Java 8, Java EE, JSP, Struts Spring, Spring Boot, Android, web services (REST-based, SOAP-based), Hibernate, Python, Web UI, Angular, RDBMS etc. Shalini is an Oracle Certified Java Professional. She has extensive experience in delivering training for top companies like Mastercard, Nomura, Oracle, J P Morgan Chase, Prudential Global, JLT, Infotech and L&T."
+      }
+    ],
+
+    "careersupport": [
+      {
+        "img": "Fsd/icon1.webp",
+        "head": "Money Back Guarantee",
+        "data": "We’re confident about the benefits of our job guarantee program, we will get you hired or we will give you your money back."
+      },
+      {
+        "img": "Fsd/ICON2.webp",
+        "head": "Profile Enhancement",
+        "data": " We assist you in building a robust portfolio to ensure that your profile always catches the eye of prospective employers."
+      },
+      {
+        "img": "Fsd/ICON3.webp",
+        "head": "Resume Building",
+        "data": "Redesign your resume with professional help and highlight your strengths in the best possible way."
+      },
+      {
+        "img": "Fsd/ICON4.webp",
+        "head": "Interview Prep",
+        "data": "We’ve analysed the most commonly asked interview questions and built a training module that confidently prepares you for job interviews."
+      }
+    ]
+  },
+  "ourprograms_indexes": [
+    { "index": 0, "value": "CIBOP" },
+    { "index": 0, "value": "IIMC EPIBCM" },
+    { "index": 0, "value": "IIML - Financial Services and Capital Markets" },
+    { "index": 0, "value": "PG Analytics" },
+    { "index": 0, "value": "Certification in AIML" },
+    { "index": 0, "value": "Certification in SCM & Analytics" },
+    { "index": 0, "value": "IIM Indore Leadership Program" },
+    { "index": 1, "value": "CIBOP" },
+    { "index": 1, "value": "IIMC EPIBCM" },
+    { "index": 1, "value": "IIML - Financial Services and Capital Markets" },
+    { "index": 1, "value": "IIM Indore Leadership Program" },
+    { "index": 1, "value": "SPJ-FinTech" },
+    { "index": 1, "value": "FAP" },
+    { "index": 1, "value": "Credit Risk" },
+    { "index": 1, "value": "PG Banking and Finance" },
+    { "index": 2, "value": "Certification in AIML" },
+    { "index": 2, "value": "Certification in SCM & Analytics" },
+    { "index": 2, "value": "Certification in DS and ML" },
+    { "index": 2, "value": "PG Analytics" },
+    { "index": 3, "value": "PG CyberSecurity" },
+    { "index": 3, "value": "SPJ-FinTech" },
+    { "index": 4, "value": "PG Digital Marketing" },
+    { "index": 4, "value": "IIT Roorkee DM" },
+    { "index": 3, "value": "IIT Roorkee CS" }
+  ],
+  "contact_page": {
+    "indialocationcenter": [
+      {
+        "state": "MUMBAI",
+        "address": "5th Floor, B-Wing, Kaledonia, HDIL Building, Sahar Rd. Andheri East, Mumbai, Maharashtra- 400069.",
+        "number": "+91-8484932054",
+        "location": "https://www.google.com/maps/place/Imarticus+Learning+Mumbai+-+Data+Analytics,+Investment+Banking,+AI%2FML+%26+Digital+Marketing+Course+In+Mumbai/@19.1136445,72.8468707,15z/data=!4m5!3m4!1s0x0:0x68124744f0f8d09!8m2!3d19.1136445!4d72.8468707"
+      },
+      {
+        "state": "PUNE",
+        "address": "Building No - 562, Imarticus Learning Pvt Ltd, Congress Bhavan, 5, Congress House Rd, Shivajinagar, Pune, Maharashtra - 411005.",
+        "number": "+91-8956083026",
+        "location": "https://www.google.com/maps/place/Imarticus+Learning+Pune+-+Data+Analytics,+Investment+Banking,+Finance+Management+%26+Data+Science+Course+In+Pune/@18.5225066,73.8508956,15z/data=!4m2!3m1!1s0x0:0x773a49301e006477?sa=X&ved=2ahUKEwi5pKjYjK_5AhVMRWwGHfzPBkcQ_BJ6BAhSEAU"
+      },
+      {
+        "state": "THANE",
+        "address": "2nd Floor, Shrushti Pride, Above Bank of Baroda, Ram Maruti Road, Opposite Rajmata Vada Pav Center Thane West, Maharashtra -400604.",
+        "number": "+91-8956051536",
+        "location": "https://www.google.com/maps/place/Imarticus/@19.189235,72.9722019,15z/data=!4m2!3m1!1s0x0:0x34cc56c5b66f31a1?sa=X&ved=2ahUKEwiS0dnijK_5AhVTTWwGHaJbBIwQ_BJ6BAhaEAU"
+      },
+      {
+        "state": "CHENNAI",
+        "address": "2nd Floor, East West Centre, Opposite Bata Showroom, Nelson Manickam Road, Chennai, Tamil Nadu - 600029.",
+        "number": "+91-6366370388",
+        "location": "https://www.google.com/maps/place/Imarticus+Learning+Chennai+-+Banking,+Finance+and+Data+Analytics+Course+In+Chennai/@13.069538,80.2244972,15z/data=!4m2!3m1!1s0x0:0x24eae11cf2cc784b?sa=X&ved=2ahUKEwjfntPrjK_5AhXeRWwGHbBZD9kQ_BJ6BAhlEAU"
+      },
+      {
+        "state": "DELHI",
+        "address": "Imarticus Learning Private Limited, H- 16, Block H , Indra Palace, Ground Floor , Middle Circle, Connaught Place, New Delhi - 110001.",
+        "number": "+91-8448515861",
+        "location": "https://www.google.com/maps/place/Imarticus+Learning+Delhi+-+Data+Analytics,+Data+Science,+Finance+%26+Investment+Banking+Course+In+Delhi/@28.6350808,77.2185552,15z/data=!4m2!3m1!1s0x0:0x96e0c6a6f719adc?sa=X&ved=2ahUKEwjatbDDjK_5AhUsTGwGHc6gCzwQ_BJ6BAhaEAU"
+      },
+      {
+        "state": "BANGALORE",
+        "substate": "(Koramangala)",
+        "address": "Sipani East Avenue, 439 3rd floor, 18th Main Rd, 6th Block, Koramangala, Bengaluru, Karnataka 560095.",
+        "number": "+91-6364921385",
+        "location": "https://www.google.com/maps/place/Imarticus+Bangalore+Koramangala+-+Data+Analytics,+Fintech+%26+Investment+Banking+Training+Institute/@12.9423501,77.6227821,15z/data=!4m2!3m1!1s0x0:0xf6d07d1a0b178924?sa=X&ved=2ahUKEwjntob4jK_5AhWBRmwGHW3yCYkQ_BJ6BAhjEAU"
+      },
+      {
+        "state": "BANGALORE",
+        "substate": "(Marathahalli)",
+        "address": "Site No 20, Krishna Shine, 1st Floor Marathahalli Ring Road Junction, above Udupi Vaibhava Hotel, Marathahalli, Bengaluru, Karnataka 560037.",
+        "number": "+91-6364921384",
+        "location": "https://www.google.com/maps/place/Imarticus+Learning+Bangalore/@12.9573176,77.7007875,15z/data=!4m2!3m1!1s0x0:0xc0c30ddd11c22655?sa=X&ved=2ahUKEwiUg6uAja_5AhXtSmwGHeigDPkQ_BJ6BAheEAU"
+      },
+      {
+        "state": "HYDERABAD",
+        "address": "3rd Floor, Trendz dwarka, Landmark: Telecom Nagar Pushpak Bus Stop, Sri Shyam Nagar, Telecom Nagar, Gachibowli, Hyderabad, Telangana - 500032.",
+        "number": "+91-9148629802",
+        "location": "https://www.google.com/maps/place/Imarticus+Learning+Hyderabad/@17.4350773,78.3672676,15z/data=!4m2!3m1!1s0x0:0xc570ba6b60d3b0ab?sa=X&ved=2ahUKEwi2-eOKja_5AhV6R2wGHUIvC0QQ_BJ6BAhfEAU"
+      },
+      {
+        "state": "COIMBATORE",
+        "address": "Meena Highrise, No 110 to 113,, West Thiruvengadasamy Road, R S Puram Opp to FIITJEE Institute and Near Nilgiris Supermarket. Coimbatore, Tamil Nadu 641002.",
+        "number": "+91-6366448758",
+        "location": "https://www.google.com/maps/place/Imarticus+Learning+Coimbatore+-+Data+Analytics,+Banking+%26+Finance+Course+in+Coimbatore/@11.0096605,76.9457617,15z/data=!4m2!3m1!1s0x0:0xd59776d43cd62515?sa=X&ved=2ahUKEwiCuaWSja_5AhUdTmwGHbxNAE4Q_BJ6BAhTEAU"
+      },
+      {
+        "state": "JAIPUR",
+        "address": "201-A, Second Floor , SDC Vinay 36-37, Calgiri Hospital Road Opposite Bharat Petrol Pump, above HDFC Bank, Malviya Nagar, Jaipur, Rajasthan 302017.",
+        "number": "+91-7428096032",
+        "location": "https://www.google.com/maps/place/Imarticus+Learning+Jaipur+-+Data+Analytics,+Banking+%26+Finance+Training+Course+in+Jaipur/@26.859249,75.8078196,15z/data=!4m2!3m1!1s0x0:0x8192d438e50cb6f5?sa=X&ved=2ahUKEwi2-ZeZja_5AhWdSmwGHb30Ch8Q_BJ6BAhaEAU"
+      },
+      {
+        "state": "LUCKNOW",
+        "address": "Halwasiya Court, Unit: 421 Regus Infinity Business Hubs 4th Floor, Hazratganj, Lucknow, Uttar Pradesh 226001.",
+        "number": "+91-7290092186",
+        "location": "https://www.google.com/maps/place/Imarticus+Learning+Lucknow/@26.8500902,80.942018,15z/data=!4m2!3m1!1s0x0:0x11eb454ddb757fa0?sa=X&ved=2ahUKEwiC6_aija_5AhWfR2wGHYlDCYMQ_BJ6BAhREAU"
+      },
+      {
+        "state": "DEHRADUN",
+        "address": "Dehradun 9, Corporate Office, Near Kalsang Restaurant MDDA Complex, Clocktower Dehradun, Uttarakhand 248001.",
+        "number": "+91-7303656855",
+        "location": "https://www.google.com/maps/place/Imarticus+Learning+Dehradun+-+Data+Analytics,+Investment+Banking+Course+in+Dehradun/@30.324605,78.0428142,15z/data=!4m2!3m1!1s0x0:0x56fd479c65cb82be?sa=X&ved=2ahUKEwjejrmrja_5AhW9RmwGHc5PBa8Q_BJ6BAhUEAM"
+      },
+      {
+        "state": "Patna",
+        "address": "The Hub, 2nd Floor, Near Regent Cinema, Gandhi Maidan Road, Patna, Bihar 800004",
+        "number": "+91-97160 30007",
+        "location": "https://www.google.com/maps/place/Imarticus+Learning/@25.6193522,85.1455139,15z/data=!4m2!3m1!1s0x0:0xf5929a9f173ea74e?sa=X&ved=2ahUKEwipmLqzja_5AhV6R2wGHY1WCI0Q_BJ6BAhTEAM"
+      },
+      {
+        "state": "Cochin",
+        "address": "First Floor, Total Tower, Near Devankulangara Temple, Behind Changampuzha Park, Elamakara, Edappally, Cochin, Kerala 682024",
+        "number": "+91-73534 70666",
+        "location": "https://www.google.com/maps/place/Imarticus+Learning+Cochin/@10.0165555,76.302235,15z/data=!4m2!3m1!1s0x0:0x42fb8efaea5fa6bf?sa=X&ved=2ahUKEwiynOy7ja_5AhUFSGwGHfphDPQQ_BJ6BAhVEAM"
+      },
+      {
+        "state": "Jammu & Kashmir",
+        "address": "Rehari Chowk, 2nd floor, Gurudwara Kalghidar Sahib, Building Rehari Chungi, B.C. Road, Jammu, Jammu and Kashmir 180005",
+        "number": "+91-84474 43928",
+        "location": "https://www.google.com/maps/place/Imarticus+Learning+Jammu+-+Data+Analytics+%26+Investment+Banking+Training+Institute+in+Jammu/@32.7427151,74.8597827,15z/data=!4m5!3m4!1s0x0:0xa50e31775e422be2!8m2!3d32.7427151!4d74.8597827"
+      },
+      {
+        "state": "Kolkata",
+        "address": "WorkZone, 7th Floor, Om Tower, 32, J. L. Nehru Road, Kolkata, West Bengal 700071",
+        "number": "+91-95136 30678",
+        "location": "https://www.google.com/maps/place/Imarticus+Learning+Kolkata+-+Data+Analytics+%26+Investment+Banking+Course/@22.5540428,88.3503813,15z/data=!4m2!3m1!1s0x0:0x577c4575f7171a16?sa=X&ved=2ahUKEwiJirLDja_5AhWYcGwGHXhtCb8Q_BJ6BAhPEAU"
+      },
+      {
+        "state": "Ahmedabad",
+        "address": "13th Floor, Gala Empire,Opp. T.V. Tower, Drive-In Rd, Memnagar,Ahmedabad, Gujarat 380054",
+        "number": "+91-9513631084",
+        "location": "https://www.google.com/maps/place/Imarticus+Learning+Ahmedabad+-+Data+Science+%26+Data+Analytics,+Banking+%26+Finance+Course/@23.0494388,72.524931,15z/data=!4m2!3m1!1s0x0:0xb371e62ed81f5aa7?sa=X&ved=2ahUKEwiD9aiFjq_5AhXOTmwGHQZGAAUQ_BJ6BAhTEAU"
+      }
+    ],
+    "internationallocationcenter": [
+      {
+        "state": "DUBAI",
+        "address": "Office 1903, Millennium Plaza Hotel, Opposite Emirates Towers Metro Station Sheikh Zayed Road Dubai, UAE.",
+        "number": "+971-565114477",
+        "number2": "+971-45915501",
+        "location": "https://www.google.com/maps/place/Imarticus+Learning+Private+Limited+Dubai+Branch/@25.0701238,55.1379027,15z/data=!4m5!3m4!1s0x0:0xcfc731b768da7048!8m2!3d25.0701238!4d55.1379027"
+      }
+    ]
+  }
+}

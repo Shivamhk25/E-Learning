@@ -1,0 +1,788 @@
+.aboutImarticus {
+  /* background: #fff; */
+}
+
+.aboutImarticus3 {
+  background-image: url(https://cdn.pegasus.imarticus.org/imarticus_2/aboutimarticus.webp);
+  color: white;
+  position: relative;
+  background-size: cover;
+  background-position-y: inherit;
+}
+
+.aboutImarticus .main {
+  max-width: 1300px;
+  margin: 0 auto;
+  padding: 80px 4%;
+}
+.aboutImarticus h4 {
+  font-weight: 900;
+  font-size: 48px;
+  line-height: 56px;
+  color: #ffffff;
+}
+.aboutImarticus .title {
+  font-weight: 900;
+  font-size: 98px;
+  line-height: 112px;
+  letter-spacing: -0.06em;
+  color: #ffffff;
+  margin: -12px 0 7rem;
+  text-align: unset;
+}
+.aboutImarticus .rowing {
+  display: flex;
+  /* flex-wrap: wrap; */
+  flex-direction: row;
+  justify-content: space-between;
+}
+.aboutImarticus .info {
+  display: flex;
+  flex-direction: column;
+  /* flex: 0 0 370px; */
+}
+.aboutImarticus .desc {
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 24px;
+  color: #ffffff;
+}
+.aboutImarticus .desc + .desc {
+  margin-top: 3rem;
+}
+.aboutImarticus .stats {
+  /* display: flex;
+    flex-wrap: wrap;
+    align-content: space-between; */
+  gap: 2%;
+  /* flex: 1 1 820px; */
+  max-width: calc(100% - 370px);
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.aboutImarticus .statCard {
+  /* flex: 1 1 336px; */
+  display: flex;
+  flex-direction: row;
+  gap: 0;
+  /* margin: 0 2%; */
+  padding: 0 0 6rem;
+  /* justify-content: center; */
+  align-items: center;
+}
+.aboutImarticus .statCard:nth-child(1),
+.aboutImarticus .statCard:nth-child(2) {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.25);
+}
+.aboutImarticus .statCard amp-img {
+  margin: 0.5rem;
+}
+.aboutImarticus .statCard > div {
+  display: flex;
+  flex-direction: column;
+  margin-left: 40px;
+}
+.aboutImarticus .statCard .number {
+  font-weight: bold;
+  font-size: 60px;
+  line-height: 72px;
+  display: flex;
+  align-items: center;
+  color: #ffffff;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.reviewDesc {
+  font-weight: bold;
+  font-size: 28px;
+  line-height: 38px;
+  text-align: center;
+  color: #3c4852;
+  margin-top: 48px;
+  padding: 0px 16px;
+}
+.aboutImarticus .ratings {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 2rem;
+}
+
+.aboutImarticus .rating > div {
+  width: 244px;
+  height: 124px;
+  background: #ffffff;
+  border: 2px solid #e9edf6;
+  display: flex;
+  flex-direction: column;
+  border-radius: 8px;
+  /* background: url('https://cdn.pegasus.imarticus.org/imarticus_2/stargroup.svg') no-repeat rgb(106 135 196 / 15%);  */
+  background-size: 80%;
+}
+.aboutImarticus .rating > div p {
+  /* margin: auto 8px auto auto; */
+  font-weight: 600;
+  font-size: 24px;
+  /* line-height: 30px; */
+  color: rgba(60, 72, 82, 1);
+  margin-left: 12px;
+}
+/* .aboutImarticus .rating amp-img {
+    margin-top: 0.5rem;
+  } */
+
+.hiringPartners .carousel-item {
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: row;
+  margin: 3px 0.7rem;
+  align-items: center;
+}
+.hiringPartners .carousel-item amp-img {
+  /*height: 78px;*/
+  width: 100%;
+}
+.hiringPartners .carousel-item p {
+  max-width: fit-content;
+  white-space: normal;
+  text-align: left;
+  margin: auto 0 auto 0.5rem;
+}
+.hiringPartners amp-carousel .amp-scrollable-carousel-slide {
+  width: 180px;
+}
+.hiringPartners amp-base-carousel > div {
+  height: 134px;
+  padding: 15px 80px;
+}
+.hiringPartners amp-base-carousel > div > :first-child {
+  padding: 15px;
+  overflow-x: auto;
+}
+
+.hiringPartners .amp-carousel-button-prev {
+  border-radius: 50%;
+  background-color: white;
+  box-shadow: 0px 0px 10px 0 rgba(33, 42, 57, 0.15);
+  background: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='18' height='18' fill='%23005AF0'%3E%3Cpath d='M15 8.25H5.87l4.19-4.19L9 3 3 9l6 6 1.06-1.06-4.19-4.19H15v-1.5z'/%3E%3C/svg%3E")
+    no-repeat center;
+}
+.hiringPartners .amp-carousel-button-next {
+  border-radius: 50%;
+  background-color: white;
+  box-shadow: 0px 0px 10px 0 rgba(33, 42, 57, 0.15);
+  background: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='18' height='18' fill='%23005AF0' %3E%3Cpath d='M9 3L7.94 4.06l4.19 4.19H3v1.5h9.13l-4.19 4.19L9 15l6-6z'/%3E%3C/svg%3E")
+    no-repeat center;
+}
+.hiringPartners .carousel-prev,
+.hiringPartners .carousel-next {
+  filter: drop-shadow(0px 1px 2px #4a4a4a);
+  width: 48px;
+  height: 48px;
+  margin: auto 20px;
+  border-radius: 50%;
+  background-color: white;
+  border: none;
+  outline: none;
+}
+.hiringPartners .carousel-prev {
+  box-shadow: 0px 0px 10px 0 rgba(33, 42, 57, 0.15);
+  background: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20' fill='%23212A39'%3E%3Cpath d='M15 8.25H5.87l4.19-4.19L9 3 3 9l6 6 1.06-1.06-4.19-4.19H15v-1.5z'/%3E%3C/svg%3E")
+    no-repeat center;
+}
+
+.hiringPartners .carousel-next {
+  box-shadow: 0px 0px 10px 0 rgba(33, 42, 57, 0.15);
+  background: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20' fill='%23212A39' %3E%3Cpath d='M9 3L7.94 4.06l4.19 4.19H3v1.5h9.13l-4.19 4.19L9 15l6-6z'/%3E%3C/svg%3E")
+    no-repeat center;
+}
+
+.aboutbottomdiv {
+  background-color: rgba(60, 72, 82, 0.06);
+}
+
+.ratings {
+  display: flex;
+  flex-direction: row;
+  gap: 60px;
+}
+
+.rating {
+  background-color: #ffffff;
+  border: 2px solid #e9edf6;
+  width: 224px;
+  border-radius: 4px;
+  margin-top: 24px;
+  height: 124px;
+  position: relative;
+  margin-bottom: 48px;
+}
+
+.tech_giant_rating p {
+  margin-right: 15px;
+}
+
+.about_desc_img {
+  width: 48px;
+  height: 48px;
+}
+
+.display_block {
+  display: block;
+}
+
+.display_hidden {
+  display: none !important;
+}
+
+@media (max-width: 800px) {
+  .hiringPartners .carousel-next,
+  .hiringPartners .carousel-prev {
+    margin: auto 6px;
+  }
+}
+@media (max-width: 480px) {
+  .collhiringPartnersab amp-base-carousel > div {
+    padding: 15px 50px;
+  }
+  .hiringPartners .carousel-next,
+  .hiringPartners .carousel-prev {
+    margin: auto 0px;
+  }
+}
+
+@media (max-width: 1090px) {
+  .aboutImarticus .statCard .number {
+    font-weight: bold;
+    font-size: 50px;
+    line-height: 60px;
+    display: flex;
+    align-items: center;
+    color: #ffffff;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  }
+  .aboutImarticus .main {
+    padding: 6rem 0 4rem;
+  }
+  .aboutImarticus .title {
+    margin: -12px 0 6rem;
+  }
+  .aboutImarticus .desc + .desc {
+    margin-top: 2.5rem;
+  }
+}
+@media (max-width: 1000px) {
+  .aboutImarticus .statCard .number {
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 48px;
+    display: flex;
+    align-items: center;
+    color: #ffffff;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  }
+  .aboutImarticus .desc {
+    font-size: 16px;
+    line-height: 22px;
+    /* max-width: 220px; */
+  }
+  .aboutImarticus .main {
+    padding: 5rem 0 3rem;
+  }
+  .aboutImarticus .title {
+    margin: -12px 0 5rem;
+  }
+}
+@media (max-width: 900px) {
+  .aboutImarticus .statCard .number {
+    font-size: 40px;
+    line-height: 48px;
+  }
+  .aboutImarticus h4 {
+    font-size: 40px;
+    line-height: 48px;
+  }
+  .aboutImarticus .title {
+    font-size: 100px;
+    line-height: 92px;
+  }
+  .aboutImarticus .main {
+    padding: 4rem 0 3rem;
+  }
+  .aboutImarticus .desc + .desc {
+    margin-top: 2rem;
+  }
+}
+@media (max-width: 800px) {
+  .aboutImarticus .main {
+    padding: 3rem 0 2rem;
+  }
+  .aboutImarticus .title {
+    margin: -12px 0 48px;
+  }
+  .aboutImarticus .desc + .desc {
+    margin-top: 1.5rem;
+  }
+}
+@media (max-width: 765px) {
+  .aboutImarticus .main {
+    padding: 3rem 0 6rem;
+  }
+  .aboutImarticus .rowing {
+    flex-direction: column;
+  }
+  .aboutImarticus .desc {
+    min-width: 80%;
+  }
+  .aboutImarticus .statCard {
+    padding-bottom: 3rem;
+  }
+
+  .aboutImarticus .ratings {
+    gap: 5%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+}
+@media (max-width: 600px) {
+  .aboutImarticus .statCard .number {
+    font-size: 30px;
+    line-height: 36px;
+  }
+}
+@media (max-width: 500px) {
+  .aboutImarticus .stats {
+    /* grid-template-columns: 1fr; */
+    margin-top: 30px;
+  }
+
+  .aboutImarticus .statCard {
+    padding-bottom: 1rem;
+    align-items: flex-start;
+    /* border-bottom: 1px solid rgba(255,255,255,.25); */
+  }
+}
+@media (max-width: 450px) {
+  .aboutImarticus {
+    /* background-size: 575%; */
+    background-position-x: 76%;
+  }
+  .aboutImarticus h4 {
+    font-size: 24px;
+    line-height: 30px;
+  }
+  .aboutImarticus .title {
+    font-size: 60px;
+    line-height: 72px;
+  }
+
+  .reviewDesc {
+    font-size: 24px;
+  }
+
+  .aboutImarticus .ratings {
+    gap: 24px;
+    margin-bottom: 64px;
+  }
+
+  .number {
+    margin-top: 0px;
+    flex-direction: row;
+  }
+
+  .aboutImarticus .statCard .about-data {
+    margin-left: 24px;
+  }
+
+  .about-data {
+    margin-left: 24px;
+  }
+
+  .aboutImarticus .statCard:nth-child(1),
+  .aboutImarticus .statCard:nth-child(2) {
+    border-bottom: none;
+    align-items: flex-start;
+  }
+}
+
+@media screen and (min-device-width: 1000px) and (max-device-width: 1122px) {
+  .aboutImarticus .statCard .about-data {
+    margin-left: 15px;
+  }
+
+  .about-data {
+    margin-left: 15px;
+  }
+
+  .aboutImarticus .statCard .number {
+    font-size: 47px;
+  }
+}
+
+@media screen and (min-device-width: 766px) and (max-device-width: 1024px) {
+  .aboutImarticus .rating > div {
+    width: 218px;
+  }
+
+  .aboutImarticus .statCard .about-data {
+    margin-left: 8px;
+  }
+
+  .about-data {
+    margin-left: 8px;
+  }
+
+  .aboutImarticus .desc {
+    width: 78%;
+  }
+
+  .aboutImarticus .stats {
+    margin-top: 40px;
+  }
+}
+
+@media screen and (min-device-width: 450px) and (max-device-width: 766px) {
+  .aboutImarticus .rating > div {
+    margin-bottom: 20px;
+  }
+}
+
+@media screen and (min-width: 1025px) {
+  .aboutImarticus .desc {
+    max-width: 370px;
+  }
+}
+
+@media screen and (min-device-width: 740px) and (max-device-width: 770px) {
+  .aboutImarticus .ratings {
+    gap: 1%;
+    margin-bottom: 32px;
+  }
+}
+
+.reviewmaindiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.tech_giant_logo {
+  height: 64px;
+  width: 168px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.tech_giant_rating {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  background: rgba(71, 195, 207, 0.25);
+  border-radius: 4px;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 28px;
+  font-weight: 600;
+  color: #3c4852;
+}
+
+@media only screen and (min-device-width: 800px) and (max-device-width: 856px) {
+  .ratings {
+    gap: 50px;
+  }
+}
+
+/* @media only screen and (min-device-width: 725px) and (max-device-width: 800px) {
+  .ratings {
+    gap: 20px;
+  }
+} */
+
+@media screen and (max-width: 725px) {
+  .ratings {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 0px;
+    margin-bottom: 48px;
+  }
+
+  .rating {
+    margin-bottom: 0px;
+  }
+
+  .about_desc_img {
+    width: 32px;
+    height: 32px;
+  }
+
+  .aboutImarticus .statCard .number {
+    font-size: 22px;
+    line-height: 28px;
+    color: #3c4852;
+    text-shadow: none;
+  }
+
+  .aboutImarticus .statCard .name {
+    font-size: 16px;
+    line-height: 24px;
+    color: #3c4852;
+  }
+
+  .aboutImarticus .statCard .about-data {
+    margin-left: 14px;
+  }
+
+  .aboutImarticus .stats {
+    grid-template-columns: 1fr 1fr;
+    margin-top: 30px;
+    max-width: calc(100% - 0px);
+  }
+
+  .aboutImarticus3 {
+    /* background: #fff; */
+    background-size: contain;
+    background-position-y: bottom;
+    background-image: linear-gradient(
+        180deg,
+        #ffffff 69.21%,
+        rgba(255, 255, 255, 0.568374) 79.35%,
+        rgba(255, 255, 255, 0) 89.22%
+      ),
+      url(https://cdn.pegasus.imarticus.org/imarticus_2/aboutimarticuswhitegradient.webp);
+    background-repeat: no-repeat;
+  }
+
+  .aboutImarticus h4 {
+    color: #3c4852;
+    font-weight: 600;
+  }
+  .aboutImarticus .title {
+    color: #3c4852;
+  }
+
+  .aboutImarticus .desc {
+    color: #3c4852;
+    font-weight: 400;
+  }
+
+  .cta-white2 {
+    color: #fff;
+    background-color: #035642;
+  }
+
+  .aboutImarticus .title {
+    font-size: 34px;
+    margin: -12px 0 12px;
+  }
+
+  .display_block {
+    display: none;
+  }
+
+  .display_hidden {
+    display: block !important;
+  }
+
+  .aboutImarticus .main {
+    padding: 3rem 0 15rem;
+  }
+}
+
+.statCardnext h3 {
+  margin-bottom: 0px;
+  color: #fff;
+  font-size: 60px;
+  font-weight: 700;
+  line-height: 72px;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.statCardnext p {
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 32px;
+  color: #fff;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.aboutcardborderb {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.25);
+  padding-bottom: 48px;
+  margin-bottom: 48px;
+}
+
+.statCardnext {
+  display: flex;
+  align-items: flex-start;
+}
+
+.statsnext {
+  display: flex;
+  gap: 44px;
+}
+
+.about_desc_img2 {
+  width: 48px;
+  height: 48px;
+  margin-top: 12px;
+}
+
+@media only screen and (min-device-width: 1023px) and (max-device-width: 1200px) {
+  .statsnext {
+    padding-left: 0px;
+    gap: 30px;
+  }
+
+  .statCardnext h3 {
+    font-size: 42px;
+    line-height: 54px;
+  }
+
+  .statCardnext p {
+    font-size: 18px;
+    line-height: 30px;
+  }
+
+  .about_desc_img2 {
+    width: 40px;
+    height: 40px;
+    margin-top: 12px;
+  }
+
+  .info {
+    width: 40%;
+  }
+}
+
+@media only screen and (min-device-width: 1200px) and (max-device-width: 1314px) {
+  .statCardnext h3 {
+    font-size: 45px;
+    line-height: 58px;
+  }
+
+  .statsnext {
+    gap: 16px;
+    padding-left: 16px;
+  }
+
+  .about_desc_img2 {
+    width: 40px;
+    margin-top: 12px;
+  }
+}
+
+@media only screen and (min-device-width: 725px) and (max-device-width: 1023px) {
+  .aboutImarticus .rowing {
+    flex-direction: column;
+  }
+
+  .statCardnext h3 {
+    font-size: 40px;
+    line-height: 58px;
+  }
+
+  .statCardnext h3 {
+    font-size: 40px;
+    line-height: 48px;
+  }
+
+  .statsnext {
+    margin-top: 50px;
+  }
+
+  .about_desc_img2 {
+    width: 30px;
+    height: 30px;
+    margin-top: 10px;
+  }
+}
+
+@media screen and (max-width: 725px) {
+  .statCardnext h3 {
+    font-size: 22px;
+    line-height: 28px;
+    color: #3c4852;
+    text-shadow: none;
+  }
+
+  .statCardnext p {
+    font-size: 16px;
+    line-height: 24px;
+    color: #3c4852;
+    text-shadow: none;
+    font-weight: normal;
+  }
+
+  .statsnext {
+    margin-top: 30px;
+    flex-direction: column;
+    gap: 3rem;
+    display: block;
+  }
+
+  .about_desc_img2 {
+    width: 32px;
+    height: 32px;
+    margin-top: 10px;
+  }
+
+  .aboutcardborderb {
+    margin-bottom: 0px;
+    padding-bottom: 3rem;
+  }
+
+  .fourstatcard {
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    width: 80%;
+  }
+
+  .statCardnext {
+    width: 80%;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .aboutcardborderb {
+    margin-bottom: 0px;
+    padding-bottom: 1rem;
+  }
+
+  .statsnext {
+    gap: 1rem;
+  }
+
+  .fourstatcard {
+    width: 100%;
+  }
+}
+
+@media only screen and (min-device-width: 1024px) and (max-device-width: 1200px) {
+  .ratings {
+    gap: 30px;
+  }
+}
+
+@media only screen and (min-device-width: 943px) and (max-device-width: 1024px) {
+  .ratings {
+    gap: 10px !important;
+  }
+}
+
+@media only screen and (min-device-width: 722px) and (max-device-width: 943px) {
+  .ratings {
+    /* display: grid; */
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    justify-items: center;
+    gap: 20px;
+  }
+
+  .rating {
+    margin-bottom: 30px;
+  }
+}

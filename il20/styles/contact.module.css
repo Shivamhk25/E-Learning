@@ -1,0 +1,724 @@
+.headermaincontainer {
+  padding-left: 8%;
+  padding-right: 8%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  /* margin-top: 66px; */
+  height: 518px;
+  padding-bottom: 96px;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  column-gap: 60px;
+  background: url('https://cdn.pegasus.imarticus.org/contact/contactweb.webp');
+  max-width: 1500px;
+  margin: 66px auto 0 auto;
+}
+
+.headerheading {
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 72px;
+  color: #3c4852;
+  margin-bottom: 17px;
+}
+
+.headerdescription {
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 24px;
+  color: #3c4852;
+  width: 72%;
+}
+
+.headertextbox {
+  flex-direction: column;
+  display: flex;
+  height: 100%;
+  justify-content: end;
+}
+
+.headerformcomponent {
+  position: absolute;
+  top: 35%;
+}
+
+.secondheadermaincomp {
+  background: linear-gradient(275.24deg, #1d4a60 0%, #01627f 98.22%);
+  padding-left: 8%;
+  padding-right: 7%;
+  padding-top: 73px;
+  padding-bottom: 75px;
+}
+
+.secondheadermainsecond {
+  max-width: 1500px;
+  margin: 0 auto;
+}
+
+.secondkeeptouch {
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 38px;
+  color: #ffff;
+  padding-bottom: 23px;
+  margin-bottom: 0px;
+}
+
+.secondheadq {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 32px;
+  color: #ffff;
+}
+
+.secondadderess {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  color: #ffff;
+  padding-bottom: 25px;
+}
+
+.secondemail {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 32px;
+  color: #ffff;
+}
+
+.secondcontactmail {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  color: #ffff;
+  padding-bottom: 16px;
+}
+
+.secondsocialicon {
+  display: flex;
+  flex-direction: row;
+  column-gap: 10px;
+}
+
+.embedableform6maincontainer {
+  background: #ffffff;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);
+  border-radius: 8px;
+  padding: 50px 43px 40px 43px;
+}
+
+.formheading {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 24px;
+  text-transform: capitalize;
+  color: #3c4852;
+  text-align: center;
+  margin-bottom: 28px;
+}
+
+.formfullname {
+  width: 490px;
+  height: 48px;
+  background: rgba(33, 42, 57, 0.06);
+  border-radius: 3px;
+  border: none;
+  padding: 12px 14px;
+}
+
+.forminputmail {
+  width: 490px;
+  height: 48px;
+  background: rgba(33, 42, 57, 0.06);
+  border-radius: 3px;
+  border: none;
+  padding: 12px 14px;
+}
+
+.formmailpluscontact {
+  display: flex;
+  flex-direction: row;
+  column-gap: 16px;
+}
+
+.formcontactno {
+  width: 364px;
+  height: 48px;
+  background: rgba(33, 42, 57, 0.06);
+  border-radius: 3px;
+  border: none;
+  padding: 12px 14px;
+}
+
+.formmsgbox {
+  width: 490px;
+  height: 80px;
+  background: rgba(33, 42, 57, 0.06);
+  border-radius: 3px;
+  border: none;
+  padding: 12px 14px;
+}
+
+.formareainterest {
+  width: 490px;
+  height: 48px;
+  background: rgba(33, 42, 57, 0.06);
+  border-radius: 3px;
+  border: none;
+  padding: 12px 40px 12px 12px;
+  background-image: url(https://cdn.pegasus.imarticus.org/thank_you/chevron-up.svg) !important;
+  background-position: 99% !important;
+  background-repeat: no-repeat;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+.mobile_number_input {
+  display: flex;
+  flex-direction: row;
+  column-gap: 10px;
+}
+
+.formsubmitbtnpluscheck {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 40px;
+  width: 100%;
+}
+
+.formsendmsgbtn {
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 24px;
+  color: #ffffff;
+  width: 166px;
+  height: 56px;
+  background: #035642;
+  border-radius: 8px;
+  border: none;
+}
+
+.formcountrycode {
+  height: 48px;
+  background: rgba(33, 42, 57, 0.06);
+  border-radius: 3px;
+  width: 116px;
+  border: none;
+  padding: 12px 30px 12px 12px;
+  background-image: url(https://cdn.pegasus.imarticus.org/thank_you/chevron-up.svg) !important;
+  background-position: 98% !important;
+  background-repeat: no-repeat;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+.enquiremaindiv {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  padding-top: 104px;
+  padding-bottom: 104px;
+  padding-left: 8%;
+  padding-right: 8%;
+  gap: 30px;
+}
+
+.enquirefirstbox {
+  width: 270px;
+  height: 292px;
+  background: #01627f;
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.enquirefirstbox h1 {
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 40px;
+  /* text-transform: uppercase; */
+  color: #ffffff;
+}
+
+.enquiresecondbox {
+  width: 269px;
+  height: 291px;
+  background: #ffffff;
+  border: 1px solid rgba(60, 72, 82, 0.5);
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  row-gap: 18px;
+}
+
+.enquiresecondbox h1 {
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 32px;
+  color: #3c4852;
+}
+
+.enquiresvgs {
+  width: 108px;
+  height: 108px;
+  position: relative;
+}
+
+.enquirebtnenq {
+  width: 152px;
+  height: 48px;
+  background: #035642;
+  border: 1.04361px solid #014644;
+  border-radius: 8px;
+  border: none;
+  font-size: 18px;
+  line-height: 24px;
+  color: #ffffff;
+}
+
+.thirdcontainermain {
+  padding-left: 8%;
+  padding-right: 8%;
+  padding-bottom: 104px;
+}
+
+.thirdcontainerheading {
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 40px;
+  color: #3c4852;
+  text-align: center;
+  padding-bottom: 56px;
+}
+
+.indianflag {
+  width: 64px;
+  height: 42px;
+  position: relative;
+}
+
+.indiaheading {
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 38px;
+  color: #3c4852;
+}
+
+.countrynameflagdiv {
+  display: flex;
+  align-items: end;
+  gap: 20px;
+}
+
+.countryunderline {
+  width: 100%;
+  border-bottom: 2px solid #47c3cf;
+  margin-bottom: 30px;
+}
+
+.contactmaindiv {
+  width: 270px;
+  height: 353px;
+  background: #f3f7f9;
+  border-radius: 8px;
+  padding: 12px 12px 20px 12px;
+  position: relative;
+}
+
+.conatactstatename {
+  width: 246px;
+  height: 63px;
+  background: #ffffff;
+  border-radius: 8px;
+  /* display: flex; */
+  /* align-items: center; */
+  padding: 15px 20px 15px 20px;
+  display: flex;
+  align-items: baseline;
+}
+
+.conatactstatename h1 {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 32px;
+  color: #3c4852;
+  margin-bottom: 0px;
+  text-transform: uppercase;
+}
+
+.conatactstatename p {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 10px;
+  color: #3c4852;
+}
+
+.contactaddress {
+  padding: 30px 18px 0px 18px;
+}
+
+.contactaddress h1 {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  color: #3c4852;
+}
+
+.contactbottom {
+  padding: 0px 22px 0px 22px;
+  position: absolute;
+  bottom: 14px;
+  width: 90%;
+}
+
+.contactphoneno {
+  border-bottom: 1px solid #6a87c4;
+  width: 100%;
+  display: flex;
+  column-gap: 12px;
+  padding-bottom: 11px;
+}
+
+.contactphonelogo {
+  width: 24px;
+  height: 24px;
+  position: relative;
+}
+
+.contactnumber {
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 20px;
+  color: #3c4852;
+  text-decoration: none;
+}
+
+.contactbottomdir {
+  display: flex;
+  column-gap: 12px;
+  padding-top: 11px;
+}
+
+.contactdirection {
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 20px;
+  color: #6a87c4;
+}
+
+.UAEdiv {
+  margin-top: 40px;
+}
+
+.countrymaincontactdiv {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 30px;
+  row-gap: 24px;
+}
+
+.thridmaindiv {
+  max-width: 1500px;
+  margin: 0 auto;
+}
+
+.seemorebutton {
+  width: 256px;
+  height: 48px;
+  background: #035642;
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 24px;
+  color: #ffffff;
+  border: none;
+}
+
+.seemorediv {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+  padding-bottom: 8px;
+}
+
+.formcheckbttninp {
+  width: 20px;
+  height: 20px;
+}
+
+.formbtncheckbtntext {
+  font-size: 16px;
+  line-height: 22px;
+}
+
+@media screen and (min-width: 1200px) {
+  .headerformcomponent {
+    left: 50%;
+  }
+}
+
+@media only screen and (min-device-width: 1024px) and (max-device-width: 1069px) {
+  .embedableform6maincontainer {
+    padding: 50px 30px 40px 30px;
+  }
+
+  .headerdescription {
+    width: 50%;
+  }
+}
+
+@media only screen and (min-device-width: 1070px) and (max-device-width: 1200px) {
+  .headerdescription {
+    width: 45%;
+  }
+}
+
+@media only screen and (min-device-width: 1024px) and (max-device-width: 1200px) {
+  .headerformcomponent {
+    left: 45%;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .headermaincontainer {
+    flex-direction: column;
+    align-items: center;
+    background: url('https://cdn.pegasus.imarticus.org/contact/contactab.webp');
+    background-position-x: center;
+    padding-left: 4.796%;
+    padding-right: 4.796%;
+  }
+
+  .headertextbox {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .headerformcomponent {
+    top: 60%;
+  }
+
+  .secondheadermaincomp {
+    text-align: center;
+    padding-top: 340px;
+  }
+
+  .secondsocialicon {
+    justify-content: center;
+  }
+
+  .formboxembedable {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .headerheading {
+    font-size: 56px;
+    line-height: 72px;
+    margin-bottom: 24px;
+  }
+
+  .headerdescription {
+    font-size: 18px;
+    line-height: 22px;
+  }
+
+  .enquirefirstbox {
+    width: 175px;
+    height: 202px;
+  }
+
+  .enquiresecondbox {
+    width: 175px;
+    height: 202px;
+    row-gap: 10px;
+  }
+
+  .enquiresvgs {
+    width: 69px;
+    height: 54px;
+  }
+
+  .enquiresecondbox h1 {
+    font-size: 16px;
+    line-height: 20px;
+  }
+
+  .enquirefirstbox h1 {
+    font-size: 26px;
+    line-height: 30px;
+  }
+
+  .enquirebtnenq {
+    width: 127px;
+    height: 40px;
+    font-size: 16px;
+    line-height: 18px;
+  }
+
+  .enquiremaindiv {
+    padding-top: 64px;
+    padding-bottom: 64px;
+  }
+
+  .countrymaincontactdiv {
+    justify-content: center;
+  }
+}
+
+@media screen and (max-width: 610px) {
+  .headermaincontainer {
+    background: url('https://cdn.pegasus.imarticus.org/contact/contactmobile.webp');
+    background-position-x: center;
+    padding-left: 4.444%;
+    padding-right: 4.444%;
+  }
+
+  .formmailpluscontact {
+    flex-direction: column;
+  }
+
+  .formfullname {
+    width: 296px;
+    font-size: 12px;
+  }
+
+  .forminputmail {
+    width: 296px;
+    font-size: 12px;
+  }
+
+  .formareainterest {
+    width: 296px;
+    font-size: 12px;
+  }
+
+  .formmsgbox {
+    width: 296px;
+    font-size: 12px;
+  }
+
+  .formcontactno {
+    width: 169px;
+    font-size: 12px;
+  }
+
+  .formsubmitbtnpluscheck {
+    flex-direction: column;
+    margin-top: 7px;
+  }
+
+  .formsendmsgbtn {
+    margin-top: 16px;
+    width: 296px;
+  }
+
+  .embedableform6maincontainer {
+    padding: 24px 16px 40px 16px;
+  }
+
+  .formcountrycode {
+    font-size: 12px;
+  }
+
+  .formheading {
+    font-size: 16px;
+  }
+
+  .headerheading {
+    font-size: 32px;
+    line-height: 26px;
+    margin-bottom: 24px;
+  }
+
+  .headerdescription {
+    font-size: 16px;
+    line-height: 22px;
+    width: 85%;
+  }
+
+  .secondheadermaincomp {
+    padding-top: 350px;
+  }
+
+  .secondkeeptouch {
+    font-size: 28px;
+    line-height: 32px;
+  }
+
+  .enquirefirstbox {
+    width: 270px;
+    height: 292px;
+  }
+
+  .enquirefirstbox h1 {
+    font-size: 34px;
+    line-height: 40px;
+  }
+
+  .enquiresecondbox {
+    width: 270px;
+    height: 292px;
+  }
+
+  .enquiresvgs {
+    width: 108px;
+    height: 108px;
+  }
+
+  .enquiresecondbox h1 {
+    font-size: 24px;
+    line-height: 32px;
+  }
+
+  .enquirebtnenq {
+    width: 152px;
+    height: 45px;
+    font-size: 18px;
+    line-height: 24px;
+  }
+
+  .enquiremaindiv {
+    padding-top: 48px;
+    padding-bottom: 48px;
+  }
+
+  .displaymobileview {
+    display: block;
+  }
+
+  .displaywebview {
+    display: none;
+  }
+
+  .formcheckbttninp {
+    width: 16px;
+    height: 16px;
+  }
+
+  .formbtncheckbtntext {
+    font-size: 12px;
+    line-height: 22px;
+  }
+}
+
+@media screen and (min-width: 611px) {
+  .displaymobileview {
+    display: none;
+  }
+
+  .displaywebview {
+    display: block;
+  }
+}

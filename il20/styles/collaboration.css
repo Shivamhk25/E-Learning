@@ -1,0 +1,432 @@
+tech_giant_logo.collaborationcarousal {
+  height: 185px;
+  width: 100%;
+  cursor: pointer;
+  margin-top: 40px;
+}
+/* purgecss ignore */
+.collaborationcarousaldiv {
+  width: 160px;
+  height: 80px;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0px 0px 24px rgba(33, 42, 57, 0.15);
+  border-radius: 8px;
+  padding: 12px;
+}
+.hiringpartner_child {
+  padding: 12px !important;
+}
+/* purgecss ignore */
+.collaborationcarousaldiv2 {
+  width: 160px;
+  height: 80px;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0px 0px 24px rgba(33, 42, 57, 0.15);
+  border-radius: 8px;
+  padding: 12px;
+  display: flex;
+}
+.collaborationcarousaldivfsd {
+  width: 160px;
+  height: 80px;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  border-radius: 8px;
+  padding: 12px;
+}
+.collaborationcarousalimage {
+  width: 130px;
+  padding: 0;
+  height: 58px;
+}
+
+.sprite2 {
+  background: url(https://cdn.pegasus.imarticus.org/imarticus_2/allprogrambutton/sprite.webp)
+    no-repeat top left;
+  width: 135px;
+  height: 56px;
+}
+.sprite2.bnp {
+  background-position: 0 0;
+  height: 58px;
+}
+.sprite2.societe {
+  background-position: -150px 0;
+  width: 145px;
+  height: 29px;
+}
+.sprite2.nmims {
+  background-position: -310px 0;
+  width: 129px;
+}
+.sprite2.hsbc {
+  background-position: -454px 0;
+  width: 142px;
+  height: 37px;
+}
+.sprite2.jain {
+  background-position: -611px 0;
+  width: 142px;
+  height: 40px;
+}
+.sprite2.iimlucknow {
+  background-position: -768px 0;
+  width: 124px;
+  height: 43px;
+}
+.sprite2.spjain {
+  background-position: -907px 0;
+  width: 112px;
+}
+.sprite2.iitguwahati {
+  background-position: -1034px 0;
+  width: 151px;
+}
+.sprite2.iitroorkee {
+  background-position: -1200px 0;
+  width: 150px;
+}
+.sprite2.capgemini {
+  background-position: -1365px 0;
+  width: 154px;
+  height: 33px;
+}
+.sprite2.nse {
+  background-position: -1534px 0;
+  width: 134px;
+  height: 45px;
+}
+.sprite2.ubs {
+  background-position: -1683px 0;
+  height: 58px;
+}
+.sprite2.rbs {
+  background-position: -1833px 0;
+  width: 133px;
+  height: 40px;
+}
+.sprite2.goldman {
+  background-position: -1981px 0;
+  width: 111px;
+  height: 46px;
+}
+.sprite2.kpmg {
+  background-position: -2107px 0;
+  width: 119px;
+  height: 47px;
+}
+.sprite2.iimkozhikode {
+  background-position: -2241px 0;
+  width: 158px;
+}
+.sprite2.bimtech {
+  background-position: -2414px 0;
+  width: 148px;
+  height: 48px;
+}
+
+.collaboration_carousal_main_div {
+  width: 200px;
+  padding-right: 20px;
+  padding-top: 20px;
+}
+
+@media screen and (min-width: 450px) {
+  .mobile_image_carousal {
+    display: none;
+  }
+}
+
+.hiringpartnermain {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.hiringpartnerheading {
+  box-sizing: border-box;
+  text-align: center;
+  margin: auto;
+}
+
+.hiringpartnerheading3 {
+  box-sizing: border-box;
+  text-align: center;
+  margin: auto;
+}
+
+.hiringpartnerheading2 {
+  box-sizing: border-box;
+  text-align: center;
+  margin: auto;
+}
+
+.hiringpartnerheading h3 {
+  font-size: 48px;
+  font-weight: 700;
+  font-style: normal;
+  color: #3c4852;
+  text-align: center;
+  margin-top: 104px;
+  font-family: Source Sans Pro;
+  line-height: 56px;
+}
+
+.hiringpartnerheading3 h4 {
+  font-size: 32px;
+  font-weight: 700;
+  font-style: normal;
+  color: #3c4852;
+  text-align: center;
+  margin-top: 64px;
+  font-family: Source Sans Pro;
+  line-height: 56px;
+  margin-bottom: 0px;
+}
+
+.hiringpartnerheading3 h1 {
+  font-size: 32px;
+  font-weight: 700;
+  font-style: normal;
+  color: #3c4852;
+  text-align: center;
+  margin-top: 64px;
+  font-family: Source Sans Pro;
+  line-height: 56px;
+}
+
+.hiringpartnerheading h2 {
+  font-size: 34px;
+  font-weight: 600;
+  font-style: normal;
+  color: #3c4852;
+  text-align: center;
+  font-family: Source Sans Pro;
+  line-height: 56px;
+}
+
+.hiringpartnerheading2 h1 {
+  font-size: 34px;
+  font-weight: bold;
+  font-style: normal;
+  color: #3c4852;
+  text-align: center;
+  margin-top: 64px;
+  font-family: Source Sans Pro;
+}
+/* purgecss ignore */
+.hiringpartnercarousal {
+  height: 185px;
+  width: 100%;
+  cursor: pointer;
+  margin-top: 40px;
+}
+
+.hiringpartnercarousal2 {
+  /* height: 180px; */
+  width: 100%;
+  cursor: pointer;
+  margin-bottom: 30px;
+}
+
+.hiringpartnercarousal_next {
+  /* height: 180px; */
+  width: 100%;
+  cursor: pointer;
+}
+.hiringpartnercarousal_next div div {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.hiringpartnercarousaldiv {
+  width: 170px;
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+  box-shadow: 0px 0px 24px rgba(33, 42, 57, 0.15);
+  border-radius: 8px;
+}
+
+.hiringpartnercarousalimage {
+  width: 130px;
+  padding: 0;
+  height: 58px;
+}
+
+.sprite2 {
+  background: url(https://cdn.pegasus.imarticus.org/imarticus_2/allprogrambutton/sprite.webp)
+    no-repeat top left;
+  width: 135px;
+  height: 56px;
+}
+.sprite2.bnp {
+  background-position: 0 0;
+  height: 58px;
+}
+.sprite2.societe {
+  background-position: -150px 0;
+  width: 145px;
+  height: 29px;
+}
+.sprite2.nmims {
+  background-position: -310px 0;
+  width: 129px;
+}
+.sprite2.hsbc {
+  background-position: -454px 0;
+  width: 142px;
+  height: 37px;
+}
+.sprite2.jain {
+  background-position: -611px 0;
+  width: 142px;
+  height: 40px;
+}
+.sprite2.iimlucknow {
+  background-position: -768px 0;
+  width: 124px;
+  height: 43px;
+}
+.sprite2.spjain {
+  background-position: -907px 0;
+  width: 112px;
+}
+.sprite2.iitguwahati {
+  background-position: -1034px 0;
+  width: 151px;
+}
+.sprite2.iitroorkee {
+  background-position: -1200px 0;
+  width: 150px;
+}
+.sprite2.capgemini {
+  background-position: -1365px 0;
+  width: 154px;
+  height: 33px;
+}
+.sprite2.nse {
+  background-position: -1534px 0;
+  width: 134px;
+  height: 45px;
+}
+.sprite2.ubs {
+  background-position: -1683px 0;
+  height: 58px;
+}
+.sprite2.rbs {
+  background-position: -1833px 0;
+  width: 133px;
+  height: 40px;
+}
+.sprite2.goldman {
+  background-position: -1981px 0;
+  width: 111px;
+  height: 46px;
+}
+.sprite2.kpmg {
+  background-position: -2107px 0;
+  width: 119px;
+  height: 47px;
+}
+.sprite2.iimkozhikode {
+  background-position: -2241px 0;
+  width: 158px;
+}
+.sprite2.bimtech {
+  background-position: -2414px 0;
+  width: 148px;
+  height: 48px;
+}
+
+.hiriring_carousal_main_div {
+  width: 200px;
+  padding-right: 20px;
+  padding-top: 20px;
+}
+
+.iitguwahatilogolong {
+  background: url(https://cdn.pegasus.imarticus.org/imarticus_2/iitguwahatinew.webp);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.eccouncillogo {
+  background: url(https://cdn.pegasus.imarticus.org/imarticus_2/EC-Council-logo.webp);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.iimcalcutalogo {
+  background: url(https://cdn.pegasus.imarticus.org/imarticus_2/iimcalcuttabigrectangle.webp);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.lselogo2 {
+  background: url(https://cdn.pegasus.imarticus.org/imarticus_2/lselogo.webp);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.moodylogo2 {
+  background: url(https://cdn.pegasus.imarticus.org/imarticus_2/Moodys_Analytics_logo.webp);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.collaborationcarousalimage2 {
+  width: 151px;
+  padding: 0;
+  height: 63px;
+}
+
+@media screen and (max-width: 450px) {
+  .mobile_image_carousal {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 21.63px;
+    margin-bottom: 48px;
+  }
+
+  #collaborationdisplaynone {
+    display: none;
+  }
+
+  .hiringpartnerheading h1 {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 32px;
+  }
+
+  .hiringpartnerheading3 h4 {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 32px;
+  }
+
+  .hiringpartnerheading h1 {
+    margin-top: 48px;
+  }
+
+  .hiringpartnerheading h2 {
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 40px;
+    margin-bottom: 40px;
+  }
+
+  .hiringpartnerimagediv {
+    margin-bottom: 40px;
+  }
+}

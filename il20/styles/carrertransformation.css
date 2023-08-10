@@ -1,0 +1,91 @@
+.carrerdownloadbtn {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  background: #fff;
+}
+
+.carrertransformation {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 102px;
+}
+
+.carrertransformationmaindiv {
+  display: flex;
+  flex-direction: column;
+  background-size: cover;
+  border-radius: 8px;
+  max-width: 1300px;
+  width: 100%;
+  border: 1px solid rgba(60, 72, 82, 0.5);
+}
+
+.carrermaintrans {
+  display: flex;
+  flex-direction: row;
+  padding: 34px 24px 34px 24px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.carrertext h1 {
+  font-weight: bold;
+  font-size: 34px;
+  line-height: 40px;
+  color: #3c4852;
+  padding-bottom: 20px;
+  margin-bottom: 0px;
+  text-transform: none;
+}
+
+.carrertext h3 {
+  font-weight: bold;
+  font-size: 34px;
+  line-height: 40px;
+  color: #3c4852;
+  padding-bottom: 20px;
+  margin-bottom: 0px;
+  text-transform: capitalize;
+}
+
+.carrertext p {
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 24px;
+  color: #3c4852;
+}
+
+.carrerdownloadbtn {
+  display: flex;
+  flex-direction: row;
+  background: #035642;
+  border: none;
+  border-radius: 8px;
+  width: 290px;
+  height: 56px;
+  align-items: center;
+  justify-content: center;
+}
+
+.carrerdownloadbtn h2 {
+  font-size: 17px;
+  font-weight: 600;
+  color: #ffff;
+  margin-right: 8px;
+  margin-bottom: 0px;
+}
+
+@media screen and (max-width: 768px) {
+  .carrermaintrans {
+    flex-direction: column;
+  }
+
+  .carrerdownloadbtn {
+    margin-top: 24px;
+  }
+
+  .carrertransformation {
+    margin-bottom: 64px;
+  }
+}

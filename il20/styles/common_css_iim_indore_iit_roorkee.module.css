@@ -1,0 +1,1071 @@
+.sec_1 {
+  background-image: url('https://cdn.pegasus.imarticus.org/iit_roorkee/Banner(4).webp');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  padding-left: 135px;
+  padding-right: 135px;
+  width: 100%;
+  margin-top: 4rem;
+}
+.headericon {
+  display: flex;
+  flex-direction: row;
+  padding-top: 3vh;
+  padding-left: 1vw;
+}
+.sec_para {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 50px;
+  color: #ffffff;
+  font-weight: bold;
+  width: 60%;
+}
+.calendar {
+  background-image: url(https://cdn.pegasus.imarticus.org/pgBandF/icon-Frame.webp);
+  background-position: center;
+  background-size: auto;
+  background-repeat: no-repeat;
+  height: 100px;
+  width: 25%;
+  margin-left: 5%;
+}
+.sec1_para {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-size: 22px;
+  line-height: 50px;
+  color: #ffffff;
+  text-shadow: 0px 0px 24px rgba(0, 0, 0, 0.25);
+}
+.sec_para1 {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+  color: #ffffff;
+  margin-top: 20px;
+}
+.sec2 {
+  background-image: url(https://cdn.pegasus.imarticus.org/pgBandF/Group%202773.webp);
+  background-position: center;
+  background-size: auto;
+  background-repeat: no-repeat;
+  height: 100px;
+  width: 300px;
+}
+.modalParent {
+  padding: 20px;
+  display: block !important;
+  width: 700px !important;
+  height: 370px !important;
+}
+.externalDiv {
+  position: relative;
+  align-items: center;
+  display: flex;
+  justify-content: space-evenly;
+  top: 80px;
+  height: 180px;
+  background: #ffffff;
+  box-shadow: 0px 0px 12px rgba(60, 72, 82, 0.25);
+  border-radius: 8px;
+}
+.aboutcontainerdiv {
+  background-color: rgba(221, 233, 237, 0.35);
+  width: 100%;
+  padding-left: 135px;
+  padding-right: 135px;
+}
+.aboutcontainerdiv1 {
+  display: flex;
+  flex-direction: column;
+  /* justify-content: space; */
+  align-content: center;
+}
+.accHeader {
+  background-color: rgba(221, 233, 237, 0.35);
+}
+
+.aboutcontainerdiv2 {
+  width: 100%;
+  margin: 80px 0vw 0vw 0vw;
+}
+.aboutHeader {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 40px;
+  display: flex;
+  align-items: center;
+  text-transform: capitalize;
+  color: #3c4852;
+}
+.alumniHeader {
+  margin-top: 160px;
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 40px;
+  text-align: center;
+  text-transform: capitalize;
+  color: #3c4852;
+}
+.aboutpara {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  margin-top: 30px;
+  color: #3c4852;
+}
+.aboutcontainerdiv3 {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  gap: 20px;
+  width: 90%;
+  margin: 6rem 0vw 0vw 5vw;
+}
+
+.aboutpara1 {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 24px;
+  text-transform: uppercase;
+  color: #3c4852;
+  margin: 12px 12px 0px 12px;
+}
+.aboutpara1_cs {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 24px;
+  text-transform: uppercase;
+  color: #3c4852;
+  margin: 16px 12px 0px 12px;
+}
+.aboutpara2 {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  color: #3c4852;
+  margin: 12px 12px 0px 12px;
+}
+.aboutpara2_cs {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  color: #3c4852;
+  margin: 12px 12px 0px 12px;
+  opacity: 0.75;
+}
+
+.partnercontainerdiv {
+  background: url('https://cdn.pegasus.imarticus.org/iit_roorkee/partnerBackground.png');
+  width: 100%;
+  background-color: #01779f;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.partnermainconatiner {
+  padding-top: 30px;
+  padding-bottom: 10vh;
+}
+.partnermainconatiner_cs {
+  padding-top: 80px;
+  padding-bottom: 80px;
+  padding-left: 135px;
+  padding-right: 135px;
+}
+.certiMainconatiner {
+  padding-top: 30px;
+  padding-bottom: 10vh;
+  width: 60%;
+}
+.partnerheadermain {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 38px;
+  display: flex;
+  align-items: center;
+  color: #ffffff;
+}
+.partnercontainerdiv1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  margin-left: 6vw;
+}
+.externalDivHeader {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 24px;
+  color: #3c4852;
+  width: 80%;
+  margin: 0 0 0 10%;
+}
+.time {
+  background-image: url(https://cdn.pegasus.imarticus.org/pgBandF/Time.webp);
+  background-position: center;
+  background-size: auto;
+  background-repeat: no-repeat;
+  height: 100px;
+  width: 45%;
+  margin-left: 1%;
+}
+.partnercontainerdiv2 {
+  width: 50%;
+  margin: 32px 0px 0px 42px;
+  background-color: white;
+  border-radius: 6px;
+}
+.partnercontainerdiv3 {
+  display: flex;
+  flex-direction: column;
+  align-content: flex-start;
+  margin: 2px 0px 0px 60px;
+  width: 50%;
+}
+.partnerCard {
+  width: 90%;
+  background: #ffffff;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-top: 30px;
+}
+.projectcontainerdiv3 {
+  display: flex;
+  flex-direction: row;
+  margin: 36px 8vw 0px 8vw;
+  width: 92%;
+}
+.certicontainerdiv3 {
+  display: flex;
+  flex-direction: row;
+  margin: 52px 0vw 0px 8vw;
+  width: 100%;
+}
+.projectCard1 {
+  width: 23%;
+}
+.projectCard {
+  width: 94%;
+  height: 440px;
+  background: #ffffff;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
+}
+.partnerpara3 {
+  margin-top: 6px;
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 20px;
+  color: #3c4852;
+}
+.partnerheader {
+  width: 90%;
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 38px;
+  display: flex;
+  align-items: center;
+  color: #3c4852;
+  border-bottom: 2px solid #3c4852;
+}
+.partnerpara2 {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  color: #3c4852;
+  margin: -6px 0px 0px 0px;
+  margin-top: 16px;
+}
+.partnerbutton {
+  width: 180px;
+  height: 56px;
+  background: #ffffff;
+  border-radius: 8px;
+  border: 1px solid white;
+  margin-top: 120px;
+}
+.partnerbuttontext {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 24px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  text-align: center;
+}
+.certificateheadermain {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 40px;
+  display: flex;
+  align-items: center;
+  text-transform: capitalize;
+  color: #ffffff;
+}
+.certiHeading {
+  width: 80%;
+  margin: 40px 0px 0px 8vw;
+}
+.projectcontainerdiv3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.projectcontainerdiv4 {
+  display: flex;
+  flex-direction: row;
+  margin: 40px 0px 0px 40px;
+}
+.certicontainerdiv4 {
+  display: flex;
+  flex-direction: row;
+}
+.certificatecontainerdiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  width: 100%;
+}
+.projecticontext {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  color: #ffffff;
+  margin: 6px 0px 0px 20px;
+  width: 100px;
+}
+.certificateMainleftimg {
+  margin-right: 2vw;
+  width: 40%;
+}
+.certificateleftimg {
+  width: 80%;
+  height: 70%;
+  margin-top: 90px;
+}
+.testimonialpara {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  color: #3c4852;
+}
+.testimonialpara1 {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
+  color: #47c3cf;
+  width: '50%';
+}
+.testcontainerdiv3 {
+  margin: 36px 30px 0px 100px;
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  width: 90%;
+}
+.testcontainerdiv3_cs {
+  margin: 18px 0px 0px 0px;
+  display: grid;
+  grid-template-columns: auto auto;
+  width: max-content;
+  gap: 30px;
+}
+.testCard {
+  width: 92%;
+  height: 100%;
+  background: #ffffff;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
+  position: relative;
+}
+.testCard_cs {
+  width: 270px;
+  height: 100%;
+  background: #ffffff;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
+  position: relative;
+}
+.weba_new_controlss {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  margin: 40px 0px 0px 0px;
+}
+.aboutmobile,
+.curriMobile,
+.projectMobile,
+.becomeMobile,
+.testimonialMobile,
+.testimonialMobile_cs,
+.facultyMobile,
+.becomeMobile1,
+.facultyMobile1,
+.partnerMobile,
+.weba_new_controls,
+.weba_new_controls1,
+.similiarTab {
+  display: none;
+}
+.aboutcontainerdiv4 {
+  width: 90%;
+  margin: 6rem 0vw 0vw 5vw;
+}
+.row {
+  display: flex;
+  flex-direction: row;
+  margin-left: 8vw;
+}
+.become {
+  margin-top: 100px;
+}
+.partnercontainerdiv4 {
+  width: 90%;
+  padding: 24px 0px 20px 40px;
+}
+.testimonialheader {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 38px;
+  display: flex;
+  align-items: center;
+  color: #ffffff;
+}
+.testimonialpara2 {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 24px;
+  color: white;
+  display: flex;
+  align-items: center;
+}
+.testimonialpara2_cs {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  color: white;
+  display: flex;
+  align-items: center;
+}
+.alumni {
+  padding: 0 135px 24px 135px;
+  width: 100%;
+}
+.buttonGroup_mobiles {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.facultyNewCard1 {
+  width: 320px;
+}
+.facultyNewCard {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  width: 290px;
+  height: 390px;
+  background-color: white;
+  border-radius: 8px;
+  overflow: scroll;
+}
+.facultyCard4 {
+  display: flex;
+  flex-direction: row;
+}
+.facultyCard4Image {
+  width: 50%;
+  height: 95%;
+  padding: 15px 0px 20px 15px;
+}
+.projectpara2 {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  color: #3c4852;
+  margin: -6px 0px 0px 0px;
+}
+.curriculumHighlightss {
+  background: rgba(221, 233, 237, 0.35);
+  padding-left: 135px;
+  padding-right: 135px;
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+.partnerCard1 {
+  display: flex;
+  flex-direction: column;
+  align-content: space-around;
+  margin: 16px 10px 10px 40px;
+}
+.partnerImage {
+  height: 100%;
+  width: 650px;
+  object-fit: fill;
+  border-radius: 8px;
+}
+.partnerZoom {
+  position: absolute;
+  bottom: 7vh;
+  right: 8vw;
+}
+/*  mobile view */
+
+.sec1_para_mobiles {
+  padding: 0 10px;
+  margin-top: 20px;
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 24px;
+  color: #ffffff;
+  text-shadow: 0px 0px 24px rgba(0, 0, 0, 0.25);
+}
+
+.formmainihub {
+  margin-top: 20px;
+}
+
+.formmaiimindore {
+  margin-top: 98px;
+}
+
+@media screen and (max-width: 850px) {
+  .alumni {
+    padding: 0 135px 24px 135px;
+  }
+  .aboutCard {
+    overflow: scroll;
+  }
+}
+@media screen and (max-width: 1100px) {
+  .similiarTab {
+    display: flex;
+    margin-left: 50vw;
+  }
+}
+@media screen and (max-width: 650px) {
+  .onTabAndWebImg {
+    display: none;
+  }
+  .headericon {
+    padding-top: 8vh;
+    padding-left: 2vw;
+  }
+  .sec_1_mobiles {
+    background: url('https://cdn.pegasus.imarticus.org/iit_roorkee/Banner(2).webp');
+    background-color: #377174;
+    padding: 5px 5px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 780px;
+  }
+  .sec_1_mobiles_ihub {
+    background: url('https://cdn.pegasus.imarticus.org/iit_roorkee/Banner(2).webp');
+    background-color: #377174;
+    padding: 5px 5px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 660px;
+  }
+  .sec_1 {
+    padding: 0px 16px 0px 16px;
+  }
+  .sec_para1 {
+    margin-top: 10px;
+  }
+  .alumni {
+    display: none;
+  }
+  .alumniHeader {
+    font-size: 28px;
+    line-height: 38px;
+    margin-top: 48px;
+  }
+  .similiarTab {
+    display: none;
+  }
+}
+@media screen and (max-width: 450px) {
+  .becomeWeb,
+  .becomeWeb1 {
+    display: none;
+  }
+  .becomeMobile,
+  .becomeMobile1 {
+    display: block;
+  }
+  .buttonGroup_mobiles {
+    margin-top: 11rem;
+    margin-bottom: 20px;
+  }
+  .weba_new_controlss {
+    display: none;
+  }
+  .partnerbutton {
+    margin-top: 48px;
+  }
+}
+@media screen and (max-width: 355px) {
+  .buttonGroup_mobiles {
+    margin-top: 9rem;
+    margin-bottom: 20px;
+  }
+}
+@media screen and (min-width: 650px) and (max-width: 900px) {
+  .buttonGroup_mobiles {
+    flex-direction: row;
+    padding-left: 10px;
+  }
+}
+
+.aboutCard1 {
+  width: 330px;
+}
+.aboutCard {
+  background: #ffffff;
+  border-radius: 8px;
+  width: 300px;
+  /* height: 470px; */
+  margin-top: 40px;
+}
+
+.aboutCard3 {
+  background: #ffffff;
+  border-radius: 8px;
+  width: 300px;
+  height: 470px;
+  margin-top: 40px;
+}
+
+@media screen and (max-width: 1150px) {
+  .curriWeb {
+    display: none;
+  }
+  .curriMobile {
+    display: block;
+  }
+  .aboutweb {
+    display: none;
+  }
+  .aboutmobile {
+    display: block;
+    margin-left: 5vw;
+  }
+  .facultyWeb,
+  .facultyMobile1 {
+    display: none;
+  }
+  .facultyMobile {
+    display: block;
+  }
+  .facultyCard4 {
+    overflow: scroll;
+  }
+  .facultyCard1 {
+    width: 550px;
+  }
+  .facultyCard {
+    width: 500px;
+    height: 190px;
+    background-color: white;
+    border-radius: 8px;
+    overflow: auto;
+  }
+  .weba_new_controls {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin: 32px 5vw 0px 0px;
+  }
+  .weba_new_controlss {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin: 32px 0vw 0px 0px;
+  }
+  .alumni {
+    padding: 0 135px 24px 135px;
+  }
+  .partnerbutton {
+    margin-top: 72px;
+  }
+}
+@media screen and (max-width: 1250px) {
+  .projectWeb {
+    display: none;
+  }
+  .projectMobile {
+    display: block;
+    margin: 36px 0vw 0px 8vw;
+  }
+  .projectCard1 {
+    width: 300px;
+    border-radius: 8px;
+  }
+  .projectCard {
+    width: 270px;
+    overflow: scroll;
+  }
+  .partnercontainerdiv1 {
+    display: flex;
+    flex-direction: column;
+  }
+  .partnercontainerdiv2 {
+    width: 88%;
+    margin-left: 2vw;
+  }
+  .partnercontainerdiv3 {
+    width: 98%;
+    margin-left: 2vw;
+  }
+  .partnerCard {
+    width: 90%;
+  }
+  .testimonialWeb {
+    display: none;
+  }
+  .testimonialMobile {
+    display: block;
+    margin: 36px 0vw 0px 10vw;
+  }
+  .testimonialMobile_cs {
+    display: block;
+    margin: 0px 0vw 0px 0vw;
+  }
+  .testCard1 {
+    width: 300px;
+  }
+  .testCard {
+    width: 270px;
+    overflow: scroll;
+  }
+  .partnerpara2 {
+    margin-top: 32px;
+    font-size: 20px;
+    line-height: 32px;
+  }
+  .partnerpara3 {
+    font-size: 18px;
+    line-height: 30px;
+  }
+  .calendar {
+    width: 35%;
+    height: 60px;
+    margin-left: 2%;
+  }
+  .time {
+    width: 50%;
+    margin-left: -2%;
+  }
+  .weba_new_controls1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin: 32px 5vw 0px 0px;
+  }
+}
+@media screen and (max-width: 960px) {
+  .row {
+    display: flex;
+    flex-direction: column;
+  }
+  .imageMobile {
+    width: 60%;
+    height: 100%;
+    margin-left: 14vw;
+  }
+  .become {
+    margin-top: 40px;
+  }
+  .certificatecontainerdiv {
+    display: flex;
+    flex-direction: column;
+  }
+  .certiMainconatiner {
+    width: 90%;
+  }
+  .certiHeading {
+    width: 90%;
+  }
+  .certificateMainleftimg {
+    width: 50%;
+    margin-top: -30px;
+    margin-left: 30vw;
+    margin-bottom: 10vh;
+  }
+  .certificateleftimg {
+    margin-top: 10px;
+  }
+  .partnerZoom {
+    bottom: 0.6vh;
+    left: 32vw;
+  }
+  .partnercontainerdiv4 {
+    padding-left: 20px;
+  }
+  .testimonialheader {
+    width: 90%;
+    font-size: 34px;
+    line-height: 40px;
+  }
+  .testimonialpara {
+    width: 90%;
+    font-size: 20px;
+    line-height: 24px;
+  }
+  .testimonialMobile {
+    margin: 24px 0vw 0px 5vw;
+  }
+  .testimonialMobile_cs {
+    margin: 0px 0vw 0px 0vw;
+  }
+  .testimonialpara2 {
+    width: 90%;
+    font-size: 20px;
+    line-height: 30px;
+  }
+  .testimonialpara2_cs {
+    width: 90%;
+    font-size: 18px;
+    line-height: 30px;
+  }
+
+  .formmaiimindore {
+    margin-top: 40px;
+  }
+
+  .formmainihub {
+    margin-top: 40px;
+  }
+}
+
+@media screen and (max-width: 1060px) {
+  .sec_1 {
+    background-image: url('https://cdn.pegasus.imarticus.org/iit_roorkee/Banner5.webp');
+    padding: 0px 40px 0px 40px;
+  }
+  .sec_para {
+    font-size: 32px;
+    line-height: 40px;
+  }
+  .sec1_para {
+    font-size: 20px;
+    line-height: 40px;
+  }
+  .aboutcontainerdiv {
+    background-color: rgba(221, 233, 237, 0.35);
+    width: 100%;
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+  .curriculumHighlightss {
+    background: rgba(221, 233, 237, 0.35);
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+}
+@media screen and (max-width: 600px) {
+  .facultyCard1 {
+    width: 270px;
+    height: 390px;
+  }
+  .facultyCard2 {
+    display: flex;
+    flex-direction: column;
+  }
+  .facultyMobile {
+    display: none;
+  }
+  .facultyMobile1 {
+    display: block;
+  }
+
+  .partnerpara2 {
+    font-size: 14px;
+    line-height: 20px;
+    margin-top: 20px;
+  }
+  .partnerpara3 {
+    font-size: 12px;
+    line-height: 18px;
+  }
+  .partnerheader {
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .aboutpara {
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .partnerImage {
+    width: 400px;
+  }
+}
+@media screen and (min-width: 450px) and (max-width: 650px) {
+  .buttonGroup_mobiles {
+    width: 100%;
+    margin-top: 14rem;
+  }
+}
+@media screen and (max-width: 500px) {
+  .certicontainerdiv3 {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+  }
+  .certicontainerdiv4 {
+    margin-top: 20px;
+  }
+  .certificateMainleftimg {
+    width: 80%;
+    margin-left: 20vw;
+  }
+  .partnerImage {
+    width: 300px;
+  }
+  .partnerpara2 {
+    font-size: 12px;
+    line-height: 15px;
+    margin-top: 10px;
+  }
+  .partnerZoom {
+    left: 25vw;
+  }
+  .weba_new_controlss {
+    display: none;
+  }
+  .card_height {
+    height: 550px !important;
+  }
+  .aboutcontainerdiv {
+    background-color: rgba(221, 233, 237, 0.35);
+    width: 100%;
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+}
+@media screen and (max-width: 700px) {
+  .partnerWeb {
+    display: none;
+  }
+  .partnerMobile {
+    display: block;
+  }
+  .partnerCard1 {
+    margin: 16px 6px 10px 20px;
+  }
+  .modalParent {
+    height: 500px !important;
+  }
+  .aboutCard {
+    overflow: scroll;
+  }
+}
+@media screen and (max-width: 1500px) {
+  .alumni {
+    padding: 0 135px 24px 135px;
+  }
+}
+
+@media screen and (min-width: 902px) and (max-width: 1300px) {
+  .partnermainconatiner_cs {
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+}
+@media screen and (min-width: 600px) and (max-width: 900px) {
+  .partnermainconatiner_cs {
+    padding-top: 64px;
+    padding-bottom: 64px;
+    padding-left: 40px;
+    padding-right: 0px;
+  }
+}
+@media screen and (max-width: 599px) {
+  .partnermainconatiner_cs {
+    padding-top: 48px;
+    padding-bottom: 48px;
+    padding-left: 16px;
+    padding-right: 0px;
+  }
+}
+
+.deadline {
+  font-size: 18px;
+  font-family: Source Sans Pro;
+  font-style: normal;
+  line-height: 50px;
+  color: #fff;
+  text-shadow: 0 0 24px rgb(0 0 0 / 25%);
+}

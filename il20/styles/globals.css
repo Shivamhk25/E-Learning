@@ -1,0 +1,503 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;300;400;600;700;900&display=swap');
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Source Sans Pro';
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+  max-width: 100%;
+  font-family: 'Source Sans Pro';
+}
+
+section {
+  padding: 0 4rem;
+}
+@media (max-width: 768px) {
+  section {
+    padding: 0 2rem;
+  }
+}
+section .main {
+  max-width: 1300px;
+  margin: 0 auto;
+}
+
+.cta-white {
+  margin-top: 1rem;
+  width: 172px;
+  height: 56px;
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 24px;
+  color: #3c4852;
+  background-color: white;
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.headerbar {
+  background-color: #fff;
+}
+
+.controls {
+  display: flex;
+  flex-direction: row;
+  float: right;
+}
+
+@media only screen and (max-width: 768px) {
+  .controls {
+    display: none;
+  }
+}
+
+.curson_pointer {
+  cursor: pointer;
+}
+
+.swiper-button-disabled {
+  opacity: 0.08 !important;
+}
+
+.swiper-slide {
+  width: auto !important;
+}
+
+.swiper-wrapper {
+  height: auto !important;
+}
+
+.swiper > .swiper-button-next:after {
+  content: url(https://cdn.pegasus.imarticus.org/b2b/circlearrow.svg);
+  margin-right: 14px;
+  transform: rotate(180deg);
+  display: none;
+}
+
+.swiper > .swiper-button-prev:after {
+  content: url(https://cdn.pegasus.imarticus.org/b2b/circlearrow.svg);
+  transform: rotate(180deg);
+  margin-left: 14px;
+  display: none;
+}
+
+.swiper-button-prev {
+  height: 100% !important;
+  top: 0% !important;
+  background: linear-gradient(
+    90deg,
+    #ffffff 7.8%,
+    rgba(255, 255, 255, 0.621122) 52.61%,
+    rgba(255, 255, 255, 0) 83.69%
+  );
+  width: 100px !important;
+  left: -9px !important;
+  display: none !important;
+}
+
+.swiper-button-next {
+  height: 100% !important;
+  top: 0% !important;
+  background: linear-gradient(
+    90deg,
+    #ffffff 7.8%,
+    rgba(255, 255, 255, 0.621122) 52.61%,
+    rgba(255, 255, 255, 0) 83.69%
+  );
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+  width: 100px !important;
+  right: -9px !important;
+  display: none !important;
+}
+
+.swiper:hover .swiper-button-prev:after {
+  display: block;
+}
+
+.swiper:hover .swiper-button-next:after {
+  display: block;
+}
+
+.swiper:hover .swiper-button-prev {
+  display: flex !important;
+}
+
+.swiper:hover .swiper-button-next {
+  display: flex !important;
+}
+
+.swiper-pagination {
+  bottom: 0px !important;
+  position: relative !important;
+  margin-top: 40px;
+}
+
+.swiper-pagination-clickable .swiper-pagination-bullet {
+  background: #014644;
+}
+
+@media screen and (max-width: 768px) {
+  .swiper:hover .swiper-button-prev {
+    display: none;
+  }
+
+  .swiper:hover .swiper-button-next {
+    display: none;
+  }
+}
+
+.webinarcarousal .swiper-button-prev {
+  height: 100% !important;
+  top: 0% !important;
+  background: linear-gradient(
+    90deg,
+    #f3f7f9 7.8%,
+    rgba(243, 247, 249, 0.621122) 52.61%,
+    rgba(243, 247, 249, 0) 83.69%
+  );
+  width: 100px !important;
+  left: -9px !important;
+  display: none !important;
+}
+
+.webinarcarousal .swiper-button-next {
+  height: 100% !important;
+  top: 0% !important;
+  background: linear-gradient(
+    90deg,
+    #f3f7f9 7.8%,
+    rgba(243, 247, 249, 0.621122) 52.61%,
+    rgba(243, 247, 249, 0) 83.69%
+  );
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+  width: 100px !important;
+  right: -9px !important;
+  display: none !important;
+}
+
+.webinarcarousal .swiper-button-next:after {
+  content: url(https://cdn.pegasus.imarticus.org/b2b/circlearrow.svg);
+  margin-right: 14px;
+  transform: rotate(180deg);
+  display: none;
+}
+
+.webinarcarousal .swiper-button-prev:after {
+  content: url(https://cdn.pegasus.imarticus.org/b2b/circlearrow.svg);
+  transform: rotate(180deg);
+  margin-left: 14px;
+  display: none;
+}
+
+.webinarcarousal:hover .swiper-button-next {
+  display: flex !important;
+}
+
+.webinarcarousal:hover .swiper-button-prev {
+  display: flex !important;
+}
+
+.webinarcarousal:hover .swiper-button-next:after {
+  display: block !important;
+}
+
+.webinarcarousal:hover .swiper-button-prev:after {
+  display: block !important;
+}
+
+.light-grey-color-swiper .swiper-button-next:after {
+  content: url(https://cdn.pegasus.imarticus.org/b2b/circlearrow.svg);
+  margin-right: 14px;
+  transform: rotate(180deg);
+  display: none;
+}
+
+.light-grey-color-swiper .swiper-button-prev:after {
+  content: url(https://cdn.pegasus.imarticus.org/b2b/circlearrow.svg);
+  transform: rotate(180deg);
+  margin-left: 14px;
+  display: none;
+}
+
+.light-grey-color-swiper .swiper-button-prev {
+  height: 100% !important;
+  top: 0% !important;
+  background: linear-gradient(
+    90deg,
+    #f3f7f9 7.8%,
+    rgba(243, 247, 249, 0.621122) 52.61%,
+    rgba(243, 247, 249, 0) 83.69%
+  );
+  width: 100px !important;
+  left: -9px !important;
+  display: none !important;
+}
+
+.light-grey-color-swiper .swiper-button-next {
+  height: 100% !important;
+  top: 0% !important;
+  background: linear-gradient(
+    90deg,
+    #f3f7f9 7.8%,
+    rgba(243, 247, 249, 0.621122) 52.61%,
+    rgba(243, 247, 249, 0) 83.69%
+  );
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+  width: 100px !important;
+  right: -9px !important;
+  display: none !important;
+}
+
+.light-grey-color-swiper:hover .swiper-button-next {
+  display: flex !important;
+}
+
+.light-grey-color-swiper:hover .swiper-button-prev {
+  display: flex !important;
+}
+
+.light-grey-color-swiper:hover .swiper-button-next:after {
+  display: block !important;
+}
+
+.light-grey-color-swiper:hover .swiper-button-prev:after {
+  display: block !important;
+}
+/* ............................................................... */
+.light-grey-color-swiper-2 .swiper-button-next:after {
+  content: url(https://cdn.pegasus.imarticus.org/b2b/circlearrow.svg);
+  margin-right: 14px;
+  transform: rotate(180deg);
+  display: none;
+}
+
+.light-grey-color-swiper-2 .swiper-button-prev:after {
+  content: url(https://cdn.pegasus.imarticus.org/b2b/circlearrow.svg);
+  transform: rotate(180deg);
+  margin-left: 14px;
+  display: none;
+}
+
+.light-grey-color-swiper-2 .swiper-button-prev {
+  height: 100% !important;
+  top: 0% !important;
+  background: linear-gradient(
+    90deg,
+    #f8f9fa 7.8%,
+    rgba(248, 249, 250, 0.621122) 52.61%,
+    rgba(248, 249, 250, 0) 83.69%
+  );
+  transform: matrix(1, 0, 0, -1, 0, 0);
+  width: 100px !important;
+  left: -9px !important;
+  display: none !important;
+}
+
+.light-grey-color-swiper-2 .swiper-button-next {
+  height: 100% !important;
+  top: 0% !important;
+  background: linear-gradient(
+    90deg,
+    #f8f9fa 7.8%,
+    rgba(248, 249, 250, 0.621122) 52.61%,
+    rgba(248, 249, 250, 0) 83.69%
+  );
+  transform: rotate(-180deg);
+  width: 100px !important;
+  right: -9px !important;
+  display: none !important;
+}
+
+.light-grey-color-swiper-2:hover .swiper-button-next {
+  display: flex !important;
+}
+
+.light-grey-color-swiper-2:hover .swiper-button-prev {
+  display: flex !important;
+}
+
+.light-grey-color-swiper-2:hover .swiper-button-next:after {
+  display: block !important;
+}
+
+.light-grey-color-swiper-2:hover .swiper-button-prev:after {
+  display: block !important;
+}
+
+/* ----------------------------------------------------------------- */
+.light-blue-color-swiper .swiper-button-next:after {
+  content: url(https://cdn.pegasus.imarticus.org/b2b/circlearrow.svg);
+  margin-right: 14px;
+  transform: rotate(180deg);
+  display: none;
+}
+
+.light-blue-color-swiper .swiper-button-prev:after {
+  content: url(https://cdn.pegasus.imarticus.org/b2b/circlearrow.svg);
+  transform: rotate(180deg);
+  margin-left: 14px;
+  display: none;
+}
+
+.light-blue-color-swiper .swiper-button-prev {
+  height: 100% !important;
+  top: 0% !important;
+  background: linear-gradient(
+    90deg,
+    #f0fffd 0%,
+    rgba(240, 255, 253, 0.54) 17.57%,
+    rgba(240, 255, 253, 0) 50.35%
+  );
+  width: 100px !important;
+  left: -9px !important;
+  display: none !important;
+}
+
+.light-blue-color-swiper .swiper-button-next {
+  height: 100% !important;
+  top: 0% !important;
+  background: linear-gradient(
+    90deg,
+    #f0fffd 0%,
+    rgba(240, 255, 253, 0.54) 17.57%,
+    rgba(240, 255, 253, 0) 50.35%
+  );
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+  width: 100px !important;
+  right: -9px !important;
+  display: none !important;
+}
+
+.light-blue-color-swiper:hover .swiper-button-next {
+  display: flex !important;
+}
+
+.light-blue-color-swiper:hover .swiper-button-prev {
+  display: flex !important;
+}
+
+.light-blue-color-swiper:hover .swiper-button-next:after {
+  display: block !important;
+}
+
+.light-blue-color-swiper:hover .swiper-button-prev:after {
+  display: block !important;
+}
+
+/* ----------------------------------------------------------------- */
+.grey-color-swiper-3 .swiper-button-next:after {
+  content: url(https://cdn.pegasus.imarticus.org/b2b/circlearrow.svg);
+  margin-right: 14px;
+  transform: rotate(180deg);
+  display: none;
+}
+
+.grey-color-swiper-3 .swiper-button-prev:after {
+  content: url(https://cdn.pegasus.imarticus.org/b2b/circlearrow.svg);
+  transform: rotate(180deg);
+  margin-left: 14px;
+  display: none;
+}
+
+.grey-color-swiper-3 .swiper-button-prev {
+  height: 100% !important;
+  top: 0% !important;
+  background: linear-gradient(
+    90deg,
+    #f4f4f5 4.96%,
+    rgba(244, 244, 245, 0.710417) 21.59%,
+    rgba(244, 244, 245, 0.5) 36.79%,
+    rgba(244, 244, 245, 0) 59.93%
+  );
+  width: 100px !important;
+  left: -9px !important;
+  display: none !important;
+}
+
+.grey-color-swiper-3 .swiper-button-next {
+  height: 100% !important;
+  top: 0% !important;
+  background: linear-gradient(
+    90deg,
+    #f4f4f5 4.96%,
+    rgba(244, 244, 245, 0.710417) 21.59%,
+    rgba(244, 244, 245, 0.5) 36.79%,
+    rgba(244, 244, 245, 0) 59.93%
+  );
+  transform: rotate(-180deg);
+  width: 100px !important;
+  right: -9px !important;
+  display: none !important;
+}
+
+.grey-color-swiper-3:hover .swiper-button-next {
+  display: flex !important;
+}
+
+.grey-color-swiper-3:hover .swiper-button-prev {
+  display: flex !important;
+}
+
+.grey-color-swiper-3:hover .swiper-button-next:after {
+  display: block !important;
+}
+
+.grey-color-swiper-3:hover .swiper-button-prev:after {
+  display: block !important;
+}
+
+@media screen and (max-width: 1023px) {
+  .webinarcarousal:hover .swiper-button-next {
+    display: none !important;
+  }
+
+  .webinarcarousal:hover .swiper-button-prev {
+    display: none !important;
+  }
+  /* ................................................... */
+  .light-blue-color-swiper:hover .swiper-button-next {
+    display: none !important;
+  }
+
+  .light-blue-color-swiper:hover .swiper-button-prev {
+    display: none !important;
+  }
+  /* ----------------------------------------------------- */
+  .light-grey-color-swiper-2:hover .swiper-button-next {
+    display: none !important;
+  }
+
+  .light-grey-color-swiper-2:hover .swiper-button-prev {
+    display: none !important;
+  }
+  /* ------------------------------------------------------- */
+  .light-grey-color-swiper:hover .swiper-button-next {
+    display: none !important;
+  }
+
+  .light-grey-color-swiper:hover .swiper-button-prev {
+    display: none !important;
+  }
+
+  /* ------------------------------------------------------- */
+  .grey-color-swiper-3:hover .swiper-button-next {
+    display: none !important;
+  }
+
+  .grey-color-swiper-3:hover .swiper-button-prev {
+    display: none !important;
+  }
+}

@@ -1,0 +1,49 @@
+.form_aap {
+  background: #ffffff;
+  border-radius: 8px;
+  margin-top: 64px;
+  padding-left: 27px;
+  padding-right: 26px;
+  padding-top: 26px;
+  padding-bottom: 0px;
+  border: 1px solid rgba(60, 72, 82, 0.5);
+}
+
+.top_closing_button_aap {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 26px;
+  margin-top: 0px;
+  padding-right: 0px;
+}
+
+.enquire_box_space_aap {
+  margin-bottom: 26px;
+  width: -webkit-fill-available;
+}
+
+@media screen and (max-width: 1200px) {
+  .form_aap {
+    background: #ffffff;
+    border-radius: 8px;
+    margin-top: 0px;
+    padding: 10px 20px;
+  }
+  .enquire_box_space_aap {
+    margin-bottom: 18px;
+  }
+  .top_closing_button_aap {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 24px;
+    margin-top: 24px;
+    padding-right: 0px;
+  }
+  .enquire_form_main_aap {
+    height: 496px;
+  }
+}
